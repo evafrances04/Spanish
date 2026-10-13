@@ -6,11 +6,10 @@ Ritmo: 2 unidades por semana — Lun–Mié Unidad A, Jue–Sáb Unidad B, Dom r
 ## Dónde estamos
 
 - **Unidad actual:** 1 — El sustantivo (Unidad A de la semana del 2026-10-12)
-- **Último día:** 2026-10-12 (lunes) — parte 1: género y número (pp. 12–14)
-- **Mañana (mar):** Unidad 1, parte 2 — singular/plural con cambio de sentido (intestino/intestinos, tripa/tripas, seso/sesos, escalera/escaleras), concordancia con el verbo, posición de los complementos, vocativo (pp. 14–15, PDF 3–4)
-- **Miércoles:** Unidad 1, consolidación y test (Ejercicios, PDF 5–8)
+- **Último día:** 2026-10-13 (martes) — parte 2: singular/plural con cambio de sentido, concordancia con el verbo, posición de los complementos, vocativo (pp. 14–15, PDF 3–4)
+- **Mañana (mié):** Unidad 1, consolidación y test (Ejercicios, PDF 5–8). Repetir: plurales con tilde (síes), creer que / es evidente que + indicativo.
 - **Jue–Sáb:** Unidad 2 — El adjetivo
-- **Lecciones sin completar:** ninguna registrada todavía (primera lección)
+- **Lecciones sin completar:** 2026-10-12 (faltan P7 y P10; no marcada como completada). Repasar en el repaso del domingo si sigue pendiente.
 
 ## Sílabo
 
@@ -54,25 +53,33 @@ Recuento acumulado de errores (lo actualiza José a partir de los registros del 
 
 | Área | Etiqueta | Errores | Notas |
 |---|---|---|---|
-| Subjuntivo (cuándo y qué tiempo) | [SUBJ] | 0 | Punto débil declarado por Eva |
+| Subjuntivo (cuándo y qué tiempo) | [SUBJ] | 2 | Punto débil declarado por Eva. 10-12: usa subjuntivo tras «creer que» afirmativo y «es evidente que» |
 | Preposiciones (por/para, a, en, de, con, desde/hace, verbos con preposición) | [PREP] | 0 | Punto débil declarado por Eva |
-| Elegir la conjugación (tiempo, modo, persona) | [CONJ] | 0 | Punto débil declarado por Eva |
+| Elegir la conjugación (tiempo, modo, persona) | [CONJ] | 4 | Punto débil declarado por Eva. 10-12: no lee la persona/tiempo pedidos en cada ítem; «condujieron» |
 
-Errores concretos recurrentes: (todavía ninguno)
+Errores concretos recurrentes:
+- [SUBJ] creer que / es evidente que (afirmativo) + indicativo — puso subjuntivo (10-12).
+- [CONJ] rellena las tablas siguiendo un patrón de personas en vez de leer cada ítem (10-12). Desde el 10-13 la persona va en negrita en cada letra.
+- [CONJ] vosotros: confunde digáis/digan (10-12).
+- Ortografía: tilde en plurales (síes), «económica».
+- Vocabulario: brote vs. contagio; incertidumbre (fem.).
 
 ## Vocabulario visto
 
 Provisional (no hay libro de vocabulario con «vocab» en el nombre; ver nota):
 - 2026-10-12: el brote, la vacuna, el contagio, la cuarentena, el síntoma, la mascarilla, el desmayo, la recesión, el desempleo, la incertidumbre, el repunte, hacer frente a
+- 2026-10-13: el asco, la náusea, el mareo, la hemorragia, el vientre, la cicatriz, el análisis, el diagnóstico, el ingreso, la baja (médica), recetar, devanarse los sesos
 
 Nota: el repositorio tiene `Must-Know Spanish 4000 Words.pdf`. Si Eva quiere usarlo como libro de vocabulario, empezar por ahí en orden.
 
 ## Verbos practicados
 
 - 2026-10-12: revolver, conducir, decir (presente ind./subj., indefinido, futuro, participio)
+- 2026-10-13: doler, venir, poner (presente ind./subj., indefinido, futuro, imperfecto subj., imperativo, participio); contexto: si + presente, pidió que + imp. subj.
 
 ## Historial de lecciones
 
 | Fecha | Unidad / parte | Completada | SUBJ | PREP | CONJ |
 |---|---|---|---|---|---|
-| 2026-10-12 | U1 parte 1 (género y número) | — | — | — | — |
+| 2026-10-12 | U1 parte 1 (género y número) | No (faltan P7, P10) | 2 | 0 | 4 |
+| 2026-10-13 | U1 parte 2 (cambio de sentido, concordancia, complementos, vocativo) | — | — | — | — |
