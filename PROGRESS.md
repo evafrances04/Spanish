@@ -5,12 +5,12 @@ Ritmo: 2 unidades por semana — Lun–Mié Unidad A, Jue–Sáb Unidad B, Dom r
 
 ## Dónde estamos
 
-- **Unidad actual:** 1 — El sustantivo (Unidad A de la semana del 2026-10-12)
-- **Último día:** 2026-10-14 (miércoles) — consolidación y test de la Unidad 1 (Ejercicios pp. 16–19, PDF 5–8 adaptados)
-- **Mañana (jue):** Unidad 2 — El adjetivo, parte 1 (PDF 9–16; renderizar 9–12 y verificar título y reparto de reglas)
-- **Vie / Sáb:** Unidad 2 parte 2 / consolidación. **Dom 2026-10-18:** repaso semanal U1 + U2.
-- **Lecciones sin completar:** 2026-10-12 (faltan P7 y P10), 2026-10-13 (falta P9; repaso R1–R8 sin contestar). Retomar en el repaso del domingo si siguen pendientes.
-- **Para el domingo:** bloque dedicado a [CONJ] (más errores de la semana hasta ahora), con lectura atenta de persona/tiempo; repetir también pedir que + imp. subj. y si + presente.
+- **Unidad actual:** 2 — El adjetivo, «Somos viejos amigos» (Unidad B de la semana del 2026-10-12)
+- **Último día:** 2026-10-15 (jueves) — U2 parte 1: Ya sabe (sustantivación, apócope, género) + clases de adjetivos + intensificación (prefijos, repetición, -mente), pp. 20–22 (PDF 9–11)
+- **Mañana (vie):** U2 parte 2 — anteposición/posposición, cambios de significado (gran, bueno, malo, pobre, único, viejo, cierto), complementos del adjetivo (prep. + infinitivo / verbo conjugado), pp. 22–24 (PDF 11–13). Ejercicios desde p. 24 (PDF 13–16).
+- **Sáb:** U2 consolidación y test. **Dom 2026-10-18:** repaso semanal U1 + U2.
+- **Lecciones sin completar:** 2026-10-12 (faltan P7 y P10), 2026-10-13 (falta P9; repaso R1–R8 sin contestar), 2026-10-14 (sin contestar: el test de la U1 entero). Retomar en el repaso del domingo.
+- **Para el domingo:** bloque dedicado a [CONJ] (más errores de la semana hasta ahora), con lectura atenta de persona/tiempo; repetir también pedir que + imp. subj. y si + presente; meter ítems clave del test de U1 (10-14) que no hizo: plurales con tilde (íes), vocativo + 2.ª persona, concordancia con sujeto antepuesto.
 
 ## Sílabo
 
@@ -75,7 +75,8 @@ Errores concretos recurrentes:
 Provisional (no hay libro de vocabulario con «vocab» en el nombre; ver nota):
 - 2026-10-12: el brote, la vacuna, el contagio, la cuarentena, el síntoma, la mascarilla, el desmayo, la recesión, el desempleo, la incertidumbre, el repunte, hacer frente a
 - 2026-10-13: el asco, la náusea, el mareo, la hemorragia, el vientre, la cicatriz, el análisis, el diagnóstico, el ingreso, la baja (médica), recetar, devanarse los sesos
-- 2026-10-14: el/la excursionista, el saco de dormir, los víveres, el/la guarda forestal, la cima, la cría, la fiera, la pesadilla, el susto, el escalofrío, despistar, en peligro de extinción
+- 2026-10-14: el/la excursionista, el saco de dormir, los víveres, el/la guarda forestal, la cima, la cría, la fiera, la pesadilla, el susto, el escalofrío, despistar, en peligro de extinción (lección sin contestar)
+- 2026-10-15: entrañable, campechano/a, presumido/a, testarudo/a, tiquismiquis, el/la cascarrabias, despistado/a, la complicidad, el/la confidente, ser uña y carne, llevarse de maravilla con, dar la lata
 
 Nota: el repositorio tiene `Must-Know Spanish 4000 Words.pdf`. Si Eva quiere usarlo como libro de vocabulario, empezar por ahí en orden.
 
@@ -83,7 +84,8 @@ Nota: el repositorio tiene `Must-Know Spanish 4000 Words.pdf`. Si Eva quiere usa
 
 - 2026-10-12: revolver, conducir, decir (presente ind./subj., indefinido, futuro, participio)
 - 2026-10-13: doler, venir, poner (presente ind./subj., indefinido, futuro, imperfecto subj., imperativo, participio); contexto: si + presente, pidió que + imp. subj.
-- 2026-10-14: traer, sentir, oír (presente ind./subj., indefinido, imperfecto subj., perfecto subj.); contexto: pidió que + imp. subj., si + presente, me alegra que + perfecto subj.
+- 2026-10-14: traer, sentir, oír (presente ind./subj., indefinido, imperfecto subj., perfecto subj.); contexto: pidió que + imp. subj., si + presente, me alegra que + perfecto subj. (sin contestar)
+- 2026-10-15: ser, saber, hacer (pres. subj. vosotros, imp. subj., perfecto y pluscuamperfecto subj., indefinido, participio); contexto: pidió que + imp. subj., no creo que + subj., si + pluscuamp. subj. → condicional compuesto
 
 ## Historial de lecciones
 
@@ -91,5 +93,6 @@ Nota: el repositorio tiene `Must-Know Spanish 4000 Words.pdf`. Si Eva quiere usa
 |---|---|---|---|---|---|
 | 2026-10-12 | U1 parte 1 (género y número) | No (faltan P7, P10) | 2 | 0 | 4 |
 | 2026-10-13 | U1 parte 2 (cambio de sentido, concordancia, complementos, vocativo) | No (falta P9; R1–R8 sin contestar) | 2 | 3 | 2 |
-| 2026-10-14 | U1 consolidación y test | — | — | — | — |
+| 2026-10-14 | U1 consolidación y test | No (sin contestar) | 0 | 0 | 0 |
+| 2026-10-15 | U2 parte 1 (clases de adjetivos, intensificación) | — | — | — | — |
 | **Total** | | | **4** | **3** | **6** |
