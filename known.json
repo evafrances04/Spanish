@@ -1,0 +1,937 @@
+{
+ "_note": "Semilla del 2026-10-17: ESTIMACIÓN conservadora (vocabulario básico de alta frecuencia + lo que Eva ha producido bien en lecciones + la chuleta). Ajustar según lo que diga que no entiende.",
+ "words": {
+  "hola": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "adiós": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "gracias": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "por favor": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "sí": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "no": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "bien": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "mal": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "muy": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "un poco": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "mucho": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "poco": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "más": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "menos": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "también": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "pero": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "y": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "o": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "porque": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "cuando": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "entonces": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "después": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "antes de": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "ahora": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "hoy": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "ayer": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "mañana": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "la mañana": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "la tarde": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "la noche": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "temprano": {
+   "first": "2026-10-12",
+   "seen": 4,
+   "last": "2026-10-17",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "tarde": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "siempre": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "nunca": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "todo el día": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "la hora": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el día": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "la semana": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el mes": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el año": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el trabajo": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "trabajar": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "la reunión": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el caso": {
+   "first": "2026-10-12",
+   "seen": 4,
+   "last": "2026-10-17",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el informe": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el libro": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el capítulo": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "escribir": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "leer": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "hablar": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "decir": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "ver": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "ir": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "venir": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "hacer": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "tener": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "estar": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "ser": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "querer": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "poder": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "saber": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "pensar en": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "creer": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "levantarse": {
+   "first": "2026-10-12",
+   "seen": 4,
+   "last": "2026-10-17",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "dormir": {
+   "first": "2026-10-12",
+   "seen": 4,
+   "last": "2026-10-17",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "descansar": {
+   "first": "2026-10-12",
+   "seen": 4,
+   "last": "2026-10-17",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "comer": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "cocinar": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "pagar": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "nadar": {
+   "first": "2026-10-12",
+   "seen": 4,
+   "last": "2026-10-17",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "entrenar": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el mar": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el agua": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el lago": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "frío": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "caliente": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "tranquilo": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "cansado/a": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "largo/a": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "grande": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "pequeño/a": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "nuevo/a": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "viejo/a": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "bueno/a": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el amigo / la amiga": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "la familia": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "la casa": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "la ciudad": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el café": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "tener hambre": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "con mucho gusto": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "¿cómo estás?": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "¿qué?": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "¿cuánto?": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "¿para qué?": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "¿a qué hora?": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el kilómetro": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "la disciplina": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el teléfono": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el celular": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "la plata": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "difícil": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "fácil": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "importante": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el testigo": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "el abogado / la abogada": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "la idea": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "amable": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-12",
+   "example": "(estimado: vocabulario básico de alta frecuencia)"
+  },
+  "un viejo amigo": {
+   "first": "2026-10-15",
+   "seen": 3,
+   "last": "2026-10-17",
+   "example": "Mi viejo amigo Bernardo es un pobre hombre: acaba de perder su trabajo."
+  },
+  "un gran amigo / una gran amiga": {
+   "first": "2026-10-15",
+   "seen": 2,
+   "last": "2026-10-15",
+   "example": "Mi viejo amigo Bernardo es un pobre hombre: acaba de perder su trabajo."
+  },
+  "un pobre hombre": {
+   "first": "2026-10-15",
+   "seen": 2,
+   "last": "2026-10-15",
+   "example": "Mi viejo amigo Bernardo es un pobre hombre: acaba de perder su trabajo."
+  },
+  "único/a": {
+   "first": "2026-10-15",
+   "seen": 2,
+   "last": "2026-10-15",
+   "example": "Mi viejo amigo Bernardo es un pobre hombre: acaba de perder su trabajo."
+  },
+  "menor de edad": {
+   "first": "2026-10-15",
+   "seen": 2,
+   "last": "2026-10-15",
+   "example": "Mi viejo amigo Bernardo es un pobre hombre: acaba de perder su trabajo."
+  },
+  "difícil de + inf.": {
+   "first": "2026-10-15",
+   "seen": 2,
+   "last": "2026-10-15",
+   "example": "Mi viejo amigo Bernardo es un pobre hombre: acaba de perder su trabajo."
+  },
+  "verdoso/a": {
+   "first": "2026-10-15",
+   "seen": 2,
+   "last": "2026-10-15",
+   "example": "Mi viejo amigo Bernardo es un pobre hombre: acaba de perder su trabajo."
+  },
+  "la travesía": {
+   "first": "2026-10-17",
+   "seen": 2,
+   "last": "2026-10-17",
+   "example": "Llevo tres meses entrenando para la travesía de 30 kilómetros del lago."
+  },
+  "el tinto": {
+   "first": "2026-10-17",
+   "seen": 2,
+   "last": "2026-10-17",
+   "example": "Acabo de tomarme un tinto con una vieja amiga."
+  },
+  "el pandebono": {
+   "first": "2026-10-17",
+   "seen": 2,
+   "last": "2026-10-17",
+   "example": "Anoche, mientras comíamos pandebono tranquilamente, sonó el celular."
+  },
+  "dar un borondo": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Ahora vamos a dar un borondo por San Antonio."
+  },
+  "¿De parte de quién?": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "No cuelgues, que ya te la paso."
+  },
+  "colgar": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "No cuelgues, que ya te la paso."
+  },
+  "dejar (la) razón": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "No cuelgues, que ya te la paso."
+  },
+  "madrugar": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Hoy me tocó madrugar."
+  }
+ },
+ "patterns": {
+  "quiero + inf.": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Quiero viajar."
+  },
+  "tengo que + inf.": {
+   "first": "2026-10-15",
+   "seen": 2,
+   "last": "2026-10-17",
+   "example": "Tengo que trabajar."
+  },
+  "voy a + inf.": {
+   "first": "2026-10-15",
+   "seen": 4,
+   "last": "2026-10-17",
+   "example": "Voy a estudiar."
+  },
+  "acabo de + inf.": {
+   "first": "2026-10-15",
+   "seen": 3,
+   "last": "2026-10-17",
+   "example": "Acabo de comer."
+  },
+  "solía + inf.": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Solía bailar."
+  },
+  "iba a + inf.": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Iba a estudiar."
+  },
+  "he intentado + inf.": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "He intentado aprender."
+  },
+  "quería + inf.": {
+   "first": "2026-10-15",
+   "seen": 2,
+   "last": "2026-10-17",
+   "example": "Quería viajar."
+  },
+  "me gustaría + inf.": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Me gustaría viajar."
+  },
+  "podría + inf.": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Podría viajar."
+  },
+  "debería + inf.": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Debería estudiar."
+  },
+  "condicional -ía": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Viajaría."
+  },
+  "olvidé + inf.": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Olvidé estudiar."
+  },
+  "decidí + inf.": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Decidí viajar."
+  },
+  "empecé a + inf.": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Empecé a estudiar."
+  },
+  "dejé de + inf.": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Dejé de trabajar."
+  },
+  "todavía + verbo": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Todavía estudio español."
+  },
+  "ya no + verbo": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Ya no trabajo aquí."
+  },
+  "sigo + gerundio": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Sigo aprendiendo."
+  },
+  "estoy a punto de + inf.": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Estoy a punto de comer."
+  },
+  "creo que…": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Creo que sí."
+  },
+  "para mí…": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Para mí, es difícil."
+  },
+  "la cosa es que…": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "La cosa es que no sé."
+  },
+  "depende de…": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "Depende de ti."
+  },
+  "no sé, pero…": {
+   "first": "2026-10-15",
+   "seen": 1,
+   "last": "2026-10-15",
+   "example": "No sé, pero creo que sí."
+  },
+  "llevo + tiempo + gerundio": {
+   "first": "2026-10-15",
+   "seen": 2,
+   "last": "2026-10-17",
+   "example": "Llevo dos años nadando."
+  },
+  "si + presente, futuro": {
+   "first": "2026-10-13",
+   "seen": 3,
+   "last": "2026-10-17",
+   "example": "Si haces estos ejercicios todos los días, vas a notar la diferencia."
+  },
+  "querer que + subjuntivo": {
+   "first": "2026-10-12",
+   "seen": 3,
+   "last": "2026-10-17",
+   "example": "No quiero que le digan nada a Marta todavía."
+  },
+  "interesado/a en que + subjuntivo": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Estoy interesada en que leas mi capítulo."
+  },
+  "me toca / me tocó + inf.": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Mañana me toca trabajar todo el día."
+  }
+ },
+ "pieces": [
+  {
+   "id": "P001",
+   "date": "2026-10-17",
+   "title": "Me tocó madrugar",
+   "new": [
+    "madrugar",
+    "me toca / me tocó + inf."
+   ],
+   "listens": 1
+  }
+ ]
+}

@@ -1,9 +1,48 @@
-# PROGRESS — Español B2 (Eva)
+# PROGRESS — Español de Eva (método de escucha e inmersión)
+
+**Desde el 2026-10-17 (decisión de Eva):** aprendizaje por escucha e inmersión, español de Cali. Cada lección gira en torno a un audio (pieza) con 1–3 elementos nuevos; el resto es material conocido. Sin tablas, sin reglas explícitas, sin puntuaciones: los errores se responden con un *recast*. Cada pieza se escucha unos tres días. Patrones por inferencia (4–6 frases que cambian en una sola cosa), sombra (*shadowing*) cada día, y una pregunta de Habla. La gramática B2/B1 y los libros de verbos quedan como referencia privada de José.
+
+## Comprensión (tendencia)
+
+| Fecha | Pieza | 1.ª escucha | Repetición | Nota |
+|---|---|---|---|---|
+| 2026-10-17 | P001 Me tocó madrugar | (pendiente) | — | Primera lección del método nuevo |
+
+Calibración: 1.ª escucha < 85 % → más fácil (1 elemento nuevo, más lento, tema más familiar); ~100 % sin palabras nuevas → más difícil (hasta 3, más largo o más rápido). Objetivo: 85–95 %.
+
+## Decisiones de ritmo
+
+- 2026-10-17: primera pieza, sin datos de comprensión todavía → nivel suave: 2 elementos nuevos (*madrugar*, *me toca / me tocó + inf.*), tema muy conocido (natación por la mañana, trabajo, *The West Wing*), diálogo de ~120 palabras.
+
+## Calendario de piezas
+
+| Pieza | Título | Nuevo | 1.ª escucha | Repeticiones previstas |
+|---|---|---|---|---|
+| P001 | Me tocó madrugar | madrugar · me toca / me tocó + inf. | 2026-10-17 | 18-10 (domingo, repaso de la semana), 19-10 (Otra vez + Sombra) |
+
+## Registro de lo conocido (known.json)
+
+- `~/.config/jose/known.json` (copia en el repo: `known.json`). **La semilla del 2026-10-17 es una estimación conservadora**: vocabulario básico de alta frecuencia, lo que Eva ha producido bien en las lecciones anteriores, y las 25 fórmulas de la chuleta (como patrones vistos una vez). Ajustar cuando diga que algo no lo entiende. Tamaño inicial: 124 palabras, 31 patrones.
+
+## Chuleta: uso como patrones (no como fórmulas)
+
+- 2026-10-17 (P001): quería + inf. (8), llevo + tiempo + gerundio (7), voy a + inf. (3), tengo que + inf. (2). Siguientes por sembrar en piezas: solía + inf. (5), iba a + inf. (6), me gustaría (9), empecé a / dejé de (15–16), sigo + gerundio (19), estoy a punto de (20).
+
+## Lo que Eva ha dicho
+
+- 2026-10-17: aprende por inmersión; no retiene reglas ni tablas; muy buena memoria auditiva (ritmo, entonación); reconoce patrones. Intereses para las piezas: Sydney, política y RR. II., *Game of Thrones*, *The West Wing*, *The Simpsons*, *Parks and Recreation*, *30 Rock*, *The Walking Dead*, cine clásico y los Óscar, los Juegos Olímpicos, los Beatles, el teatro musical (Sondheim), natación en aguas abiertas, derecho, derechos humanos, Latinoamérica y Cali.
+- 2026-10-17 (mañana, método anterior): señaló con razón un error de corrección del bot en RP9 (*una gran abogada*); la lectura de fotos de letra a mano no es fiable.
+
+---
+
+## Historia: método anterior por gramática (2026-10-12 → 2026-10-17)
+
+*Ya no guía las lecciones. Se conserva como referencia: el sílabo del libro B2, los errores que cometía y el vocabulario visto sirven para decidir qué estructuras sembrar en las piezas. La Prueba de nivel gramatical prevista para el 18-10 queda cancelada.*
 
 Libro: `Gramatica Nivel B2.pdf` (escaneado). Página impresa = página PDF + 11.
 Ritmo: objetivo 2 unidades por semana, pero manda la precisión (objetivo ~80 %): ver «Ritmo (decisiones)». Repaso espaciado en `~/.config/jose/srs.json`.
 
-## Dónde estamos
+### Dónde estamos
 
 - **Unidad actual:** 2 — El adjetivo, «Somos viejos amigos». Hoy (sáb 2026-10-17) **consolidación** → posición 2.0 en course.json.
 - **Variedad (desde 2026-10-17, decisión de Eva):** español de Colombia (Cali). *Ustedes*, nunca *vosotros*; tú/usted en ejercicios, voseo en diálogos y aceptado si es correcto; vocabulario colombiano. La lección del 17-10 se regeneró sin vosotros (la primera versión tenía RP1, RP4, RP5 con vosotros) y el bot la reenvía desde la sección 1.
@@ -12,13 +51,13 @@ Ritmo: objetivo 2 unidades por semana, pero manda la precisión (objetivo ~80 %)
 - **Lunes 2026-10-19:** decidir según metrics.json: si la precisión sigue < 70 %, otro día de consolidación (U1–U2) antes de empezar U3 (Los artículos, PDF 17–24). U2 parte 2 (10-16) sigue sin contestar: sus contenidos se trabajan hoy.
 - **Lecciones sin completar:** 2026-10-12 (P7, P10), 2026-10-13 (P9; R1–R8), 2026-10-14 (P8), 2026-10-16 (sin empezar). 2026-10-15 completada (contestada el 16-10, 20/33).
 
-## Ritmo (decisiones)
+### Ritmo (decisiones)
 
 | Fecha | Precisión (rolling3) | Decisión | Motivo |
 |---|---|---|---|
 | 2026-10-17 | 10-14: 61 %, 10-15: 61 % (rolling3 68 %) | Consolidación: sin gramática nueva, 4 palabras, Repaso 10 | < 70 %. 91 cartas pendientes (41 falladas). |
 
-## B1 gaps (Español en Marcha B1)
+### B1 gaps (Español en Marcha B1)
 
 | Regla | Unidad B1 | Veces | Último repaso |
 |---|---|---|---|
@@ -34,7 +73,7 @@ Ritmo: objetivo 2 unidades por semana, pero manda la precisión (objetivo ~80 %)
 
 **Gap más frecuente:** pidió que + imperfecto de subjuntivo (5) → bloque fijo en los domingos de repaso. (Antes figuraba vosotros; retirado al pasar al español de Colombia.)
 
-## Sílabo
+### Sílabo
 
 Títulos leídos de las portadas de unidad (verificar el título exacto al empezar cada unidad).
 
@@ -70,7 +109,7 @@ Títulos leídos de las portadas de unidad (verificar el título exacto al empez
 | 28 | Estilo indirecto | 209–218 | 220–229 |
 | 29 | Las preposiciones | 219–227 | 230–238 |
 
-## Materiales guardados de Eva (memory)
+### Materiales guardados de Eva (memory)
 
 - **La chuleta de español** (25 fórmulas, `materials/chuleta-de-espanol.md`, guardada el 2026-10-15). Va en el recuadro «🧩 Fórmula del día» de cada lección.
   - **Última fórmula usada:** n.º 4 (2026-10-17). **Siguiente:** n.º 5 *Solía + inf.* y n.º 6 *Iba a + inf.*
@@ -78,7 +117,7 @@ Títulos leídos de las portadas de unidad (verificar el título exacto al empez
   - 2026-10-16: n.º 1 *Quiero + inf.* y n.º 2 *Tengo que + inf.* → P10, PD4, PD5.
   - Fórmulas que falla: (ninguna todavía).
 
-## Puntos débiles
+### Puntos débiles
 
 Recuento acumulado de errores (lo actualiza José a partir de los registros del bot).
 
@@ -110,7 +149,7 @@ Errores concretos recurrentes:
 - [U2] 10-15: apócope gran (puso «grand/grande»), invariables amable/joven/cortés, concordancia (verdoso → verdosos, piernas larga → largas), sustantivación «el viejo». → Práctica del 10-17.
 - [SUBJ] es evidente que + **indicativo** (puso «llevaran») (10-15 PD4). La parte «persona vosotros» queda retirada.
 
-## Vocabulario visto
+### Vocabulario visto
 
 Del 10-12 al 10-15, vocabulario temático provisional. Desde el 10-16, **Must-Know Spanish 4000 Words** en orden.
 - **Último usado en Must-Know:** cap. 1, p. 4, Communication by Phone (terminado; el resto de la lista son palabras conocidas). **Siguiente:** p. 4, Letters (querido/a, el sobre, el buzón, la carta urgente…; texto `0018.txt`).
@@ -122,7 +161,7 @@ Del 10-12 al 10-15, vocabulario temático provisional. Desde el 10-16, **Must-Kn
 - 2026-10-17 (Must-Know p. 4, consolidación: 4): ¿De parte de quién?, colgar (o→ue), dejar un recado, equivocarse de número
 - 2026-10-16 (Must-Know pp. 2–3): el/la conocido/a, conocer a alguien, encantado/a (de), presentar a alguien (a alguien), despedirse (de), la despedida, dedicarse a, el estado civil, soltero/a, divorciado/a (ser), el viudo/la viuda, mayor/menor de edad
 
-## Verbos practicados
+### Verbos practicados
 
 - 2026-10-12: revolver, conducir, decir (presente ind./subj., indefinido, futuro, participio)
 - 2026-10-13: doler, venir, poner (presente ind./subj., indefinido, futuro, imperfecto subj., imperativo, participio); contexto: si + presente, pidió que + imp. subj.
@@ -131,7 +170,7 @@ Del 10-12 al 10-15, vocabulario temático provisional. Desde el 10-16, **Must-Kn
 - 2026-10-17: en contexto (¿Qué toca? / Repaso): terminar, ser, hacer, decir, llegar, estar, sonar, sentirse, nadar, volver (cuando + subj., pidió que + imp. subj., si + presente, me alegra que + perf. subj., es importante que + subj., perfecto con «esta mañana»)
 - 2026-10-16: andar, conocer, despedirse (indefinido, pres. ind./subj. vosotros, imp. subj., perfecto subj., pluscuamp. ind.; Webster's pp. 117, 217, 270); contexto: cuando + pres. subj., indefinido, me molestó que + imp. subj., si + presente
 
-## Historial de lecciones
+### Historial de lecciones
 
 | Fecha | Unidad / parte | Completada | SUBJ | PREP | CONJ |
 |---|---|---|---|---|---|
@@ -143,7 +182,7 @@ Del 10-12 al 10-15, vocabulario temático provisional. Desde el 10-16, **Must-Kn
 | 2026-10-17 | U2 consolidación (método nuevo) | — | — | — | — |
 | **Total** | | | **16** | **3** | **12** |
 
-## Cambios por la variedad colombiana (2026-10-17)
+### Cambios por la variedad colombiana (2026-10-17)
 
 - Tarjetas de `srs.json` reescritas de *vosotros* a *ustedes* (mismos ids y calendario): 2026-10-12/C3b (digan), 2026-10-13/C3b (pongan), 2026-10-14/C1c (traigan), 2026-10-14/C3c (oigan), 2026-10-14/C6 (hayan llegado), 2026-10-14/PD5 (lleguen), 2026-10-15/C1a (sean), 2026-10-15/C3a (hagan), 2026-10-15/PD4 (se llevan), 2026-10-15/PD5 (sean). Copia previa: `srs.backup-2026-10-17-pre-ustedes.json`.
 - Tarjetas del 17-10 ajustadas: dejar (la) razón / dejar un mensaje (en vez de «dejar un recado», España), «me equivoqué de número», fórmula 3 con «dar un borondo».
