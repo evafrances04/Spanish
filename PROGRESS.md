@@ -6,8 +6,9 @@ Ritmo: objetivo 2 unidades por semana, pero manda la precisión (objetivo ~80 %)
 ## Dónde estamos
 
 - **Unidad actual:** 2 — El adjetivo, «Somos viejos amigos». Hoy (sáb 2026-10-17) **consolidación** → posición 2.0 en course.json.
+- **Variedad (desde 2026-10-17, decisión de Eva):** español de Colombia (Cali). *Ustedes*, nunca *vosotros*; tú/usted en ejercicios, voseo en diálogos y aceptado si es correcto; vocabulario colombiano. La lección del 17-10 se regeneró sin vosotros (la primera versión tenía RP1, RP4, RP5 con vosotros) y el bot la reenvía desde la sección 1.
 - **Último día:** 2026-10-17 (sábado) — U2 consolidación: sin gramática nueva; Repaso RP1–RP10 (cartas falladas), Práctica de U2 (apócope, invariables, concordancia, posición viejo/pobre/único, difícil de + inf., interesada en que + subj.), 4 palabras, ¿Qué toca?, Habla. Primera lección con el método nuevo (Repaso SRS, producción, ¿Qué toca?, Habla).
-- **Mañana (dom 2026-10-18):** **Prueba de nivel** (línea de base, meta type «assessment»), en lugar del repaso semanal. Incluir en la parte de gramática el subjuntivo (vosotros, pidió que + imp. subj., cuando + subj.) y si + presente.
+- **Mañana (dom 2026-10-18):** **Prueba de nivel** (línea de base, meta type «assessment»), en lugar del repaso semanal. Incluir en la parte de gramática el subjuntivo (ustedes, pidió que + imp. subj., cuando + subj.) y si + presente. Nada de vosotros.
 - **Lunes 2026-10-19:** decidir según metrics.json: si la precisión sigue < 70 %, otro día de consolidación (U1–U2) antes de empezar U3 (Los artículos, PDF 17–24). U2 parte 2 (10-16) sigue sin contestar: sus contenidos se trabajan hoy.
 - **Lecciones sin completar:** 2026-10-12 (P7, P10), 2026-10-13 (P9; R1–R8), 2026-10-14 (P8), 2026-10-16 (sin empezar). 2026-10-15 completada (contestada el 16-10, 20/33).
 
@@ -22,7 +23,7 @@ Ritmo: objetivo 2 unidades por semana, pero manda la precisión (objetivo ~80 %)
 | Regla | Unidad B1 | Veces | Último repaso |
 |---|---|---|---|
 | pidió que + imperfecto de subjuntivo | U9 (pp. 36–39), U7 | 5 (10-13, 10-14 C4, 10-15 C4, PD3) | 2026-10-17 RP2 |
-| vosotros en pres. subj./imperativo (-áis/-éis) | U5 (pp. 20–23), U6 | 6 (digan, pongan, traigan, oigan, lleguen, hagan) | 2026-10-17 RP1, RP4 |
+| ~~vosotros en pres. subj./imperativo~~ — **retirado 2026-10-17**: sus 6 «errores» (digan, pongan, traigan, oigan, lleguen, hagan) son las formas correctas de *ustedes* en Colombia | — | 0 | — |
 | si + presente (condición real) | U7 (pp. 28–31) | 3 | 2026-10-17 RP3 |
 | cuando + futuro → pres. subj. | U7 (pp. 28–31) | 1 | 2026-10-17 RP1, PD5 |
 | creer que / es evidente que + indicativo | U6 (pp. 24–27) | 3 (10-12, 10-15 PD4) | 2026-10-17 RP6 |
@@ -31,7 +32,7 @@ Ritmo: objetivo 2 unidades por semana, pero manda la precisión (objetivo ~80 %)
 | indefinido / imperfecto / perfecto | U1–U3 (pp. 4–15) | 1 | 2026-10-17 RP8, PD4 |
 | vocativo → 2.ª persona | U1 (pp. 4–7) | 2 | 2026-10-17 RP7 |
 
-**Gap más frecuente:** vosotros en subjuntivo → bloque fijo en los domingos de repaso.
+**Gap más frecuente:** pidió que + imperfecto de subjuntivo (5) → bloque fijo en los domingos de repaso. (Antes figuraba vosotros; retirado al pasar al español de Colombia.)
 
 ## Sílabo
 
@@ -83,20 +84,20 @@ Recuento acumulado de errores (lo actualiza José a partir de los registros del 
 
 | Área | Etiqueta | Errores | Notas |
 |---|---|---|---|
-| Subjuntivo (cuándo y qué tiempo) | [SUBJ] | 16 | Punto débil declarado por Eva. 10-15: huberia sido; hagan (vosotros); pidió que + fui/presenté; es evidente que + subj. 10-12: subjuntivo tras «creer que» afirmativo / «es evidente que». 10-13: vosotros «pongan»; «pidió que» + indefinido. 10-14: vosotros traigan/oigan/lleguen; trajérmos; imp. en vez de perfecto subj. (x2); pidió que + presente ind. |
+| Subjuntivo (cuándo y qué tiempo) | [SUBJ] | 10 | Punto débil declarado por Eva. **Recalculado 2026-10-17:** se restan 6 errores de «vosotros» que eran formas correctas de *ustedes* (aprox.: alguno pudo estar contado en [CONJ]). 10-15: huberia sido; hagan (vosotros); pidió que + fui/presenté; es evidente que + subj. 10-12: subjuntivo tras «creer que» afirmativo / «es evidente que». 10-13: vosotros «pongan»; «pidió que» + indefinido. 10-14: vosotros traigan/oigan/lleguen; trajérmos; imp. en vez de perfecto subj. (x2); pidió que + presente ind. |
 | Preposiciones (por/para, a, en, de, con, desde/hace, verbos con preposición) | [PREP] | 3 | Punto débil declarado por Eva. 10-13: «a» en vez de «desde» (tiempo); «pensar sobre» → pensar en; «a nadar» → para nadar (finalidad) |
 | Elegir la conjugación (tiempo, modo, persona) | [CONJ] | 12 | Punto débil declarado por Eva. 10-15: sabe por sé (persona). 10-12: no lee la persona/tiempo pedidos en cada ítem; «condujieron». 10-13: si + imp. subj. («vinieras»); vocativo con verbo en 3.ª persona. 10-14: «oí» por oyeron (persona); si + subj. (oyeras, hiciera) x2; vocativo → 3.ª pers. otra vez; imperfecto por indefinido (empezaba) |
 
 Errores concretos recurrentes:
 - [SUBJ] creer que / es evidente que (afirmativo) + indicativo — puso subjuntivo (10-12).
 - [CONJ] rellena las tablas siguiendo un patrón de personas en vez de leer cada ítem (10-12). Desde el 10-13 la persona va en negrita en cada letra.
-- [CONJ] vosotros: confunde digáis/digan (10-12).
+- ~~[CONJ] vosotros: confunde digáis/digan (10-12).~~ Retirado: *digan* es correcto (ustedes).
 - [SUBJ] verbo principal en pasado (pidió que) + imperfecto de subjuntivo — puso indefinido «puse» (10-13). Practicado de nuevo en C4 del 10-14.
-- [SUBJ]/[CONJ] vosotros en presente de subjuntivo (-áis/-éis): «digan», «pongan» (10-12, 10-13). Recurrente → C1c, C3c, C6, PD5 del 10-14.
+- ~~[SUBJ]/[CONJ] vosotros en presente de subjuntivo (-áis/-éis)~~ (retirado 2026-10-17): «digan», «pongan» (10-12, 10-13). Recurrente → C1c, C3c, C6, PD5 del 10-14.
 - [CONJ] si + presente de indicativo (no subjuntivo) (10-13). → C5, PD3 del 10-14.
 - [CONJ] vocativo → verbo en 2.ª persona (10-13). → P8, PD1 del 10-14.
 - [PREP] desde (punto de inicio), pensar en, para + infinitivo (finalidad) (10-13).
-- [SUBJ] vosotros en pres. subj. — **sigue fallando** en el 10-14 (traigan, oigan, lleguen). Va en C1c/C2b del 10-16 y debe ir en el bloque del domingo.
+- ~~[SUBJ] vosotros en pres. subj.~~ (retirado 2026-10-17, español de Colombia) — **sigue fallando** en el 10-14 (traigan, oigan, lleguen). Va en C1c/C2b del 10-16 y debe ir en el bloque del domingo.
 - [SUBJ] imp. subj. nosotros: «trajérmos» → trajéramos. → C1b del 10-16 (anduviéramos).
 - [SUBJ] confunde imperfecto y perfecto de subjuntivo (sintiera por haya sentido; llegaron por hayáis llegado).
 - [CONJ] si + presente: **3 fallos** (10-13, 10-14 C5 y PD3) → C7 del 10-16; repetir el domingo.
@@ -107,7 +108,7 @@ Errores concretos recurrentes:
 - Comunicación: en Telegram pega a veces los enunciados en vez de las respuestas, y manda lecciones de otros días (el bot ya lo gestiona).
 - Vocabulario: brote vs. contagio; incertidumbre (fem.).
 - [U2] 10-15: apócope gran (puso «grand/grande»), invariables amable/joven/cortés, concordancia (verdoso → verdosos, piernas larga → largas), sustantivación «el viejo». → Práctica del 10-17.
-- [SUBJ] es evidente que + **indicativo** (puso «llevaran») y persona vosotros (10-15 PD4).
+- [SUBJ] es evidente que + **indicativo** (puso «llevaran») (10-15 PD4). La parte «persona vosotros» queda retirada.
 
 ## Vocabulario visto
 
@@ -141,3 +142,9 @@ Del 10-12 al 10-15, vocabulario temático provisional. Desde el 10-16, **Must-Kn
 | 2026-10-16 | U2 parte 2 (posición, cambios de significado, complementos) | No (sin empezar) | — | — | — |
 | 2026-10-17 | U2 consolidación (método nuevo) | — | — | — | — |
 | **Total** | | | **16** | **3** | **12** |
+
+## Cambios por la variedad colombiana (2026-10-17)
+
+- Tarjetas de `srs.json` reescritas de *vosotros* a *ustedes* (mismos ids y calendario): 2026-10-12/C3b (digan), 2026-10-13/C3b (pongan), 2026-10-14/C1c (traigan), 2026-10-14/C3c (oigan), 2026-10-14/C6 (hayan llegado), 2026-10-14/PD5 (lleguen), 2026-10-15/C1a (sean), 2026-10-15/C3a (hagan), 2026-10-15/PD4 (se llevan), 2026-10-15/PD5 (sean). Copia previa: `srs.backup-2026-10-17-pre-ustedes.json`.
+- Tarjetas del 17-10 ajustadas: dejar (la) razón / dejar un mensaje (en vez de «dejar un recado», España), «me equivoqué de número», fórmula 3 con «dar un borondo».
+- Pendiente de revisar en tarjetas antiguas (no son vosotros): 2026-10-13/P7 «jerséis» (en Colombia: sacos/suéteres); «coche», «aparcar», «conducir» en 2026-10-12/C6 y 2026-10-15/P2, V3 (Colombia: carro, parquear, manejar). Se aceptan, pero al reescribirlas en Repaso usar la forma colombiana.
