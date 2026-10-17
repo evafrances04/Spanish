@@ -10,10 +10,13 @@
 |---|---|---|---|---|
 | 2026-10-17 | P001 Me tocó madrugar | 70 % | (B0003) | Primera lección del método nuevo. Captó la idea general; se le escapó el detalle de *The West Wing*. Preguntó por *pagar el tinto*, *pereza*, *uno extraña*. Señaló con razón que Cali no tiene mar. |
 | 2026-10-17 | P005 El capítulo del monorriel (B0001) | 90 % | (B0003) | Idea general correcta (Marge quiere reparar la calle; la ciudad compra el monorriel). Usó *pensar que* sin ayuda (P2: «Pienso que comprar un monorriel es una mala idea…») y aportó que el guion es de Conan O'Brien. Errores menores, con recast: *escritoro* → escritor, «la calle necesita reparar». |
+| 2026-10-17 | P006 A Homer le toca (B0002) | 100 % («entendí todo») | (B0005) | Idea general «partial» en la E2 (captó que Homer es el conductor y que Marge encuentra a un hombre que ayuda; no mencionó qué piensa Marge de Lanley). En la H1 contó su travesía en Puerto Rico (Tres Palmas → Cabo Rojo, 15 h) y usó *encontré*, *estaba muy contenta pero muy cansada*, *dormí como un tronco* después de preguntar qué significa. |
 
-Calibración: 1.ª escucha < 85 % → más fácil (1 elemento nuevo, más lento, tema más familiar); ~100 % sin palabras nuevas → más difícil (hasta 3, más largo o más rápido). Objetivo: 85–95 %.
+Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la lista por pieza**. 1.ª escucha < 85 % → todo lo demás más fácil (más lento, tema más familiar, más reciclado); ~100 % → más largo, más rápido, habla más natural. Si baja de ~80 % dos veces seguidas, se mantienen las 5 y se simplifica lo demás (anotarlo aquí). Objetivo: 85–95 %.
 
 ## Decisiones de ritmo
+
+- 2026-10-17 (noche), CAP-564 — **5 palabras nuevas por pieza** (decisión de Eva) y las repeticiones dentro de las piezas nuevas. Eva terminó B0001 (90 %) y B0002 (100 %), así que se reescribieron **las seis piezas en cola, B0003–B0008**, antes de que empezara ninguna. Palabras en orden de rango de `next_new` (saltando las que ya domina: qué, del, al, ya, algo, cómo, otro, gracias, cosa, hola, quién, mejor, dónde, oh, favor, trabajo): nuestro, mirar, volver, parecer, llamar · alguno, mismo, nuevo, hasta, acuerdo · dios, vida, hijo, padre, tomar · seguir, hecho, seguro, sobre, lugar · momento, buscar, escuchar, tal, tipo · alguien, nadie, valer, dinero, mundo. **Se dejaron para un arco donde encajen:** *matar* (128) y *morir* (149) (*The Walking Dead* / *Game of Thrones*). Se quitaron *carrera* y *contra* de las piezas del Sena para no pasar de 5 nuevas. Con 90–100 % en la 1.ª escucha, el resto se mantiene sencillo (frases cortas, temas muy conocidos) mientras se estrena el ritmo de 5. Las secciones «Otra vez» no piden porcentaje, para que la tendencia de 1.ª escucha siga siendo honesta. Copia de las versiones antiguas: `~/.config/jose-bak-cap564/`.
 
 - 2026-10-17 (noche), lote B0005–B0008 (CAP-563): 1.ª escucha de P005 = **90 %**, idea general correcta → dentro del objetivo (85–95). Se sube un poco: **2 palabras nuevas de la lista por pieza**, en fórmulas transparentes (acuerdo, mismo · seguir, carrera · momento, contra), frases todavía cortas. **Entra el voseo** (regla anterior: con 1.ª escucha ≥ 85 %): Andrés habla de *vos* en P009. Se cierra el arco 1 y empieza el arco 2 (natación, París 2024), un tema que Eva domina. Si la 1.ª escucha de P009/P010 baja de 85 %, volver a 1 palabra nueva y quitar el voseo hasta nuevo aviso.
 
@@ -29,21 +32,20 @@ Calibración: 1.ª escucha < 85 % → más fácil (1 elemento nuevo, más lento,
 
 | Pieza | Tipo | Audio(s) | Nuevo (lista) | Patrones / estructuras | Estado |
 |---|---|---|---|---|---|
-| B0001 | Nueva + Patrones | P005 El capítulo del monorriel (arco 1, 1/4) | pensar | pensar que + frase (sembrado) | lista |
-| B0002 | Nueva | P006 A Homer le toca (arco 1, 2/4, narración) | encontrar | le toca + inf. (reciclado) | lista |
-| B0003 | Otra vez | P001 + P005 (guion idéntico) + E3 de idea general sobre *pensar* | — | me toca · llevo + gerundio · quería · voy a · tengo que · pensar que | lista |
-| B0004 | Nueva + Patrones | P007 ¿Qué te pareció el final? (arco 1, 3/4) | parecer | me parece / me pareció (sembrado) | lista |
+| B0001 | Nueva + Patrones | P005 El capítulo del monorriel (arco 1, 1/4) | pensar | pensar que + frase (sembrado) | hecha |
+| B0002 | Nueva | P006 A Homer le toca (arco 1, 2/4, narración) | encontrar | le toca + inf. (reciclado) | hecha |
+| B0003 | Nueva + Patrones + Otra vez | P007 ¿Qué te pareció el final? (arco 1, 3/5) + repetición de P005 | nuestro · mirar · volver · parecer · llamar | me parece / me pareció (sembrado) · volver a + inf. (oído) | lista |
+| B0004 | Nueva + Patrones + Otra vez | P008 ¿Monorriel o calle? (arco 1, 4/5; Sydney 1988–2013) + repetición de P001 | alguno · mismo · nuevo · hasta · acuerdo | estar de acuerdo (sembrado) · lo mismo · desde…hasta | lista |
+| B0005 | Nueva + Otra vez | P009 ¿Homer es un buen padre? (arco 1, 5/5) + repetición de P006 | dios · vida · hijo · padre · tomar | llevo + gerundio (reciclado) | lista |
+| B0006 | Nueva + Patrones | P010 Diez kilómetros en el Sena (arco 2, 1/4; primer voseo) | seguir · hecho · seguro · sobre · lugar | seguir + gerundio (sembrado) · de hecho | lista |
+| B0007 | Nueva + Otra vez | P011 Sharon busca su momento (arco 2, 2/4, narración) + repetición de P007 | momento · buscar · escuchar · tal · tipo | seguir a alguien (E2 sin glosa) · tal vez | lista |
+| B0008 | Nueva + Patrones + Otra vez | P012 ¿Valió la pena? (arco 2, 3/4) + repetición de P008 | alguien · nadie · valer · dinero · mundo | valer la pena (sembrado) · todo el mundo | lista |
 
-| B0005 | Nueva + Patrones | P008 ¿Monorriel o calle? (arco 1, 4/4: cierre; el monorriel de Sydney, 1988–2013) | acuerdo · mismo | estar de acuerdo (sembrado) · lo mismo | lista |
-| B0006 | Otra vez | P006 + P007 (guiones idénticos) + E3 sobre *parecer* y *encontrar* sin glosa | — | le toca · pensar que · me parece | lista |
-| B0007 | Nueva + Patrones | P009 Diez kilómetros en el Sena (arco 2, 1/4) | seguir · carrera | seguir + gerundio (sembrado) · primer voseo | lista |
-| B0008 | Nueva | P010 Contra el río (arco 2, 2/4, narración) | momento · contra | seguir a alguien (E2 sin glosa) | lista |
-
-**Siguiente lote (B0009–B0012):** B0009 = Otra vez (P008 + P009). Después P011 (el momento decisivo en detalle) y P012 (¿y vos?: las travesías de Eva; el 10 km masculino, Rasovszky) cierran el arco 2. Luego arco 3 (*Parks and Recreation*, «Harvest Festival»), comprobando la trama antes de escribir. Primeras palabras candidatas de `next_new`: alguien, hasta, hecho, seguro, nadie, escuchar, mundo, lugar, buscar.
+**Siguiente lote (B0009–):** P013 cierra el arco 2 (¿y vos?: las travesías de Eva —ya contó Puerto Rico—; el 10 km masculino, Rasovszky). Luego arco 3 (*Parks and Recreation*, «Harvest Festival»), comprobando la trama antes de escribir. Palabras: seguir `next_new` en orden (primero *matar*, *morir* si el arco lo permite; si no, madre, vivir, tratar, quizá, parte…).
 
 **Voces del audio:** el bot lee **A con voz femenina (Paulina)** y **B con voz masculina (Eddy)**. P001 tenía A = Andrés (voz femenina); desde P005, **A = Eva y B = Andrés**, y las narraciones sin A:/B: van con la voz femenina.
 
-**Repeticiones previstas** (≈1 día, 4 días, 2 semanas después de la 1.ª escucha): P001 → B0003, luego ~21-10 y ~31-10. P005 → B0003, luego ~4 días y ~2 semanas. P006 y P007 → B0006 y después a los 4 días (~21-10) y 2 semanas (~31-10). P008 y P009 → B0009, luego a los 4 días y 2 semanas. P010 → B0012 aprox.
+**Repeticiones previstas** (≈1 día, 4 días, 2 semanas; ahora como sección «Otra vez» dentro de una pieza nueva): P005 → B0003 · P001 → B0004 · P006 → B0005 · P007 → B0007 · P008 → B0008. Pendientes: P009, P010, P011, P012 (≈1 día después) y las de 4 días / 2 semanas de P005–P008 (~21-10 y ~31-10).
 
 ## Estructuras sembradas
 
@@ -52,11 +54,13 @@ Calibración: 1.ª escucha < 85 % → más fácil (1 elemento nuevo, más lento,
 | me toca / me tocó + inf. | P001 (17-10) | P001 (B0003), P006 «le toca» (B0002) | 1 (17-10: «me toca nadar en la piscina», tras dudar) | sembrando (meta: 8 piezas en 3 semanas) |
 | acabo de + inf. | (P003 en reserva, no emitida) | — | 0 | pendiente |
 | pensar que + frase | P005 / B0001 | P005 (B0001, B0003), P006 (B0006), P008, P009 | 1 (17-10, B0001 P2: «Pienso que comprando [comprar] un monorriel es una mala idea», tras el modelo) | sembrando |
-| me parece / me pareció | P007 / B0004 | P007 (B0004, B0006), P008 (B0005) | 0 | sembrando |
+| me parece / me pareció | P007 / B0003 | P007 (B0003, B0007), P008 (B0004, B0008), P009 (B0005) | 0 | sembrando |
 | llevo + tiempo + gerundio | P001 | P001 (B0003) | 0 | sembrando |
-| estar de acuerdo (con) | P008 / B0005 | P008 | 0 | sembrando |
-| seguir + gerundio | P009 / B0007 | P009, P010 («la sigue») | 0 | sembrando |
-| voseo (oído) | P009 / B0007 | P009 | — | solo escucha; aceptarlo siempre |
+| estar de acuerdo (con) | P008 / B0004 | P008 (B0004, B0008) | 0 | sembrando |
+| seguir + gerundio | P010 / B0006 | P010, P011 («la sigue») | 0 | sembrando |
+| voseo (oído) | P010 / B0006 | P010, P011 (H1), P012 |
+| valer la pena | P012 / B0008 | P012 | 0 | sembrando |
+| volver a + inf. | P007 / B0003 | P007 | 0 | oído | — | solo escucha; aceptarlo siempre |
 
 ## Calendario de piezas (método diario, histórico)
 

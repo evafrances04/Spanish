@@ -33,7 +33,7 @@ Covering these 4,000 words lines up with the research on B2: about 4,000–5,000
 |---|---|---|
 | **Nueva** | New audio (45–90 s, later up to 2 min) on a topic you know → how much did you understand (%) → one gist question → 2–3 shadowing sentences (slow, then normal) | most pieces |
 | **Patrones** (part of a Nueva) | 4–6 spoken examples that differ in one way; you notice the pattern. No rule named unless you ask | when a new structure arrives |
-| **Otra vez** (a section inside new pieces) | An earlier audio replayed exactly as before, then % and shadowing | regularly, so every piece still brings 5 new words |
+| **Otra vez** (a section inside new pieces) | An earlier audio replayed exactly as before, just to listen (the % question is for the new audio, so your first-listen trend stays honest) | regularly, so every piece still brings 5 new words |
 | **Canción** | A real song (YouTube search link), 1–3 words from it in context → % | about every 10th |
 | **Historia** | A longer story built only from words you already know: pure fluency | about every 15th |
 
@@ -44,7 +44,7 @@ Covering these 4,000 words lines up with the research on B2: about 4,000–5,000
 - 4–8 recently met words are recycled in each new piece.
 - Each audio comes back about 1 day, 4 days and 2 weeks later.
 - Mistakes are answered with a natural recast. Nothing is marked.
-- **Calibration:** if your first-listen % is below about 85, the next pieces get easier. Near 100% with no new words, they get harder.
+- **Calibration:** if your first-listen % is below about 85, the next pieces get easier. Near 100%, they get harder (longer, faster, more natural speech); the new words stay at 5. If it drops below about 80% twice in a row, the 5 stay but everything around them gets easier.
 
 ## Stages (by words of the list covered)
 
