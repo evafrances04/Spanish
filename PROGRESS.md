@@ -1,12 +1,14 @@
 # PROGRESS — Español de Eva (método de escucha e inmersión)
 
+**Desde el 2026-10-17 (noche): piezas a demanda.** Ya no hay lección diaria. Eva pulsa ▶️ *Siguiente pieza*; el bot pide lotes de 4 (Bnnnn) cuando quedan menos de 3 listas. Plan completo hasta B2 (4.500 familias): `PLAN.md`. Etapa actual: **1 (Core)**. Aún no hay `vocab.json` ni línea de base de `/nivel`, así que la elección de palabras nuevas se apoya en `known.json` (estimación) y en `freq/families.json`.
+
 **Desde el 2026-10-17 (decisión de Eva):** aprendizaje por escucha e inmersión, español de Cali. Cada lección gira en torno a un audio (pieza) con 1–3 elementos nuevos; el resto es material conocido. Sin tablas, sin reglas explícitas, sin puntuaciones: los errores se responden con un *recast*. Cada pieza se escucha unos tres días. Patrones por inferencia (4–6 frases que cambian en una sola cosa), sombra (*shadowing*) cada día, y una pregunta de Habla. La gramática B2/B1 y los libros de verbos quedan como referencia privada de José.
 
 ## Comprensión (tendencia)
 
 | Fecha | Pieza | 1.ª escucha | Repetición | Nota |
 |---|---|---|---|---|
-| 2026-10-17 | P001 Me tocó madrugar | (pendiente) | — | Primera lección del método nuevo |
+| 2026-10-17 | P001 Me tocó madrugar | 70 % | (B0003) | Primera lección del método nuevo. Captó la idea general; se le escapó el detalle de *The West Wing*. Preguntó por *pagar el tinto*, *pereza*, *uno extraña*. Señaló con razón que Cali no tiene mar. |
 
 Calibración: 1.ª escucha < 85 % → más fácil (1 elemento nuevo, más lento, tema más familiar); ~100 % sin palabras nuevas → más difícil (hasta 3, más largo o más rápido). Objetivo: 85–95 %.
 
@@ -14,7 +16,28 @@ Calibración: 1.ª escucha < 85 % → más fácil (1 elemento nuevo, más lento,
 
 - 2026-10-17: primera pieza, sin datos de comprensión todavía → nivel suave: 2 elementos nuevos (*madrugar*, *me toca / me tocó + inf.*), tema muy conocido (natación por la mañana, trabajo, *The West Wing*), diálogo de ~120 palabras.
 
-## Calendario de piezas
+- 2026-10-17 (noche), lote B0001–B0004: 1.ª escucha de P001 = **70 %** (< 85) → **más fácil**: 1 solo elemento nuevo por pieza, frases cortas (≈100–135 palabras), temas muy conocidos (natación en Londres, llegar a Cali, las piscinas de Sydney), mucho reciclado. Sin voseo todavía: entrará cuando la 1.ª escucha esté en 85 % o más. Geografía corregida: Cali no tiene mar (Buenaventura ≈3 h; lago Calima ≈2 h).
+
+## Piezas a demanda (Bnnnn)
+
+| Pieza | Tipo | Audio(s) | Nuevo | Patrones / estructuras | Estado |
+|---|---|---|---|---|---|
+| B0001 | Nueva | P002 Me toca la piscina | extrañar | me toca / me tocó (reciclado) | lista |
+| B0002 | Nueva + Patrones | P003 Acabo de llegar | acabo de + inf. | acabo de (sembrado) · me toca | lista |
+| B0003 | Otra vez | P001 + P002 (guion idéntico) | — | me toca · llevo + gerundio · quería · voy a · tengo que | lista |
+| B0004 | Nueva | P004 Las piscinas de Sydney | la ola | no sé, pero… (chuleta 23) | lista |
+
+**Repeticiones previstas** (≈1 día, 4 días, 2 semanas después de la 1.ª escucha): P001 → B0003 (+1 d), luego ~21-10 y ~31-10. P002 → B0003 (mismo día o +1 d), luego ~4 días y ~2 semanas después. P003 y P004 → en el próximo «Otra vez» (B0006) y después a los 4 días y 2 semanas.
+
+## Estructuras sembradas
+
+| Estructura | Introducida | Piezas que la llevan | Usos correctos de Eva sin ayuda | Estado |
+|---|---|---|---|---|
+| me toca / me tocó + inf. | P001 (17-10) | P001, P002, P003 (B0001–B0003) | 1 (17-10: «me toca nadar en la piscina», tras dudar) | sembrando (meta: 8 piezas en 3 semanas) |
+| acabo de + inf. | P003 / B0002 | P003 | 0 | sembrando |
+| llevo + tiempo + gerundio | P001 | P001 (B0003) | 0 | sembrando |
+
+## Calendario de piezas (método diario, histórico)
 
 | Pieza | Título | Nuevo | 1.ª escucha | Repeticiones previstas |
 |---|---|---|---|---|
@@ -26,6 +49,7 @@ Calibración: 1.ª escucha < 85 % → más fácil (1 elemento nuevo, más lento,
 
 ## Chuleta: uso como patrones (no como fórmulas)
 
+- 2026-10-17 (lote B0001–B0004): acabo de + inf. (4) en Patrones de B0002; no sé, pero… (23) en P004; quería, llevo, voy a, tengo que en la repetición de P001 (B0003).
 - 2026-10-17 (P001): quería + inf. (8), llevo + tiempo + gerundio (7), voy a + inf. (3), tengo que + inf. (2). Siguientes por sembrar en piezas: solía + inf. (5), iba a + inf. (6), me gustaría (9), empecé a / dejé de (15–16), sigo + gerundio (19), estoy a punto de (20).
 
 ## Lo que Eva ha dicho

@@ -738,6 +738,30 @@
    "seen": 1,
    "last": "2026-10-17",
    "example": "Hoy me tocó madrugar."
+  },
+  "extrañar": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Extraño a mi familia en Sydney. (chat 17-10, explicada por el bot)"
+  },
+  "la pereza / qué pereza": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Qué pereza la piscina cuando uno extraña el mar. (chat 17-10)"
+  },
+  "la piscina": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Así que me toca nadar en la piscina. (la produjo Eva, 17-10)"
+  },
+  "uno (impersonal)": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "cuando uno extraña el mar… (chat 17-10)"
   }
  },
  "patterns": {
@@ -931,7 +955,42 @@
     "madrugar",
     "me toca / me tocó + inf."
    ],
-   "listens": 1
+   "listens": 1,
+   "first_listen_pct": 70
+  },
+  {
+   "id": "P002",
+   "date": null,
+   "title": "Me toca la piscina",
+   "new": [
+    "extrañar"
+   ],
+   "listens": 0,
+   "written": "2026-10-17",
+   "bite": "B0001"
+  },
+  {
+   "id": "P003",
+   "date": null,
+   "title": "Acabo de llegar",
+   "new": [
+    "acabo de + inf."
+   ],
+   "listens": 0,
+   "written": "2026-10-17",
+   "bite": "B0002"
+  },
+  {
+   "id": "P004",
+   "date": null,
+   "title": "Las piscinas de Sydney",
+   "new": [
+    "la ola"
+   ],
+   "listens": 0,
+   "written": "2026-10-17",
+   "bite": "B0004"
   }
- ]
+ ],
+ "note": "Words and patterns are added/bumped when Eva actually hears a piece; pieces with listens 0 are written but not yet heard. Seed of 2026-10-17 is an estimate."
 }
