@@ -9,7 +9,7 @@
 **Your % = how much of the 4,000 you've covered.** A word counts as covered when you've *shown* it, never just because José used it:
 1. **You understood it:** it was in 2 pieces, on 2 different days, where you got the gist (José judges your answer to the gist question against his notes; English or Spanish both work).
 2. **Or you used it correctly** in your own messages or voice notes.
-3. **What you already knew:** your comprehension check (`/chequeo`, about 10 minutes) gives estimated credit. That's 5 texts at rising levels; for each, you say what 10 randomly chosen words mean in context, and the share you get right estimates how much of that part of the list you know. Your lessons of 12–17 October already count too.
+3. **No test.** Your coverage is built only from what you show in the pieces. Your lessons of 12–17 October already count.
 
 Your 06:00 and 19:00 messages show:
 - the % covered;
@@ -70,7 +70,7 @@ These are the "technical words relevant to you" in Nation's 4,000. Familiar topi
 
 ## How long
 
-It depends on where your check puts you. The evening message projects your finish date from your real pace over the last week. As a rough guide: at 2–3 new words per piece plus replays, every 1,000 words you still need to cover is roughly 400–500 pieces, or 40–60 hours of listening. That's an estimate, not a promise.
+It depends on how much you already know. The evening message projects your finish date from your real pace over the last week. As a rough guide: at 2–3 new words per piece plus replays, every 1,000 words you still need to cover is roughly 400–500 pieces, or 40–60 hours of listening. That's an estimate, not a promise.
 
 ## Milestones
 
