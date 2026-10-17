@@ -22,7 +22,7 @@ Calibración: 1.ª escucha < 85 % → más fácil (1 elemento nuevo, más lento,
 
 ## Registro de lo conocido (known.json)
 
-- `~/.config/jose/known.json` (copia en el repo: `known.json`). **La semilla del 2026-10-17 es una estimación conservadora**: vocabulario básico de alta frecuencia, lo que Eva ha producido bien en las lecciones anteriores, y las 25 fórmulas de la chuleta (como patrones vistos una vez). Ajustar cuando diga que algo no lo entiende. Tamaño inicial: 124 palabras, 31 patrones.
+- `~/.config/jose/known.json` (copia en el repo: `known.json`). **La semilla del 2026-10-17 es una estimación conservadora**: vocabulario básico de alta frecuencia, lo que Eva ha producido bien en las lecciones anteriores, y las 25 fórmulas de la chuleta (como patrones vistos una vez). Ajustar cuando diga que algo no lo entiende. Tamaño inicial: 123 palabras, 30 patrones (incluidos los 2 nuevos de P001).
 
 ## Chuleta: uso como patrones (no como fórmulas)
 
