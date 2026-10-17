@@ -1,15 +1,37 @@
 # PROGRESS — Español B2 (Eva)
 
 Libro: `Gramatica Nivel B2.pdf` (escaneado). Página impresa = página PDF + 11.
-Ritmo: 2 unidades por semana — Lun–Mié Unidad A, Jue–Sáb Unidad B, Dom repaso.
+Ritmo: objetivo 2 unidades por semana, pero manda la precisión (objetivo ~80 %): ver «Ritmo (decisiones)». Repaso espaciado en `~/.config/jose/srs.json`.
 
 ## Dónde estamos
 
-- **Unidad actual:** 2 — El adjetivo, «Somos viejos amigos» (Unidad B de la semana del 2026-10-12)
-- **Último día:** 2026-10-16 (viernes) — U2 parte 2: anteposición/posposición, cambios de significado (gran, buen, mal, pobre, único, viejo, cierto), complementos del adjetivo (prep. + infinitivo / prep. + que + subj.), pp. 22–24 (PDF 11–13)
-- **Mañana (sáb):** U2 consolidación y test — Ejercicios desde p. 24 (PDF 13–16), sin renderizar todavía. **Dom 2026-10-18:** repaso semanal U1 + U2.
-- **Lecciones sin completar:** 2026-10-12 (faltan P7 y P10), 2026-10-13 (falta P9; repaso R1–R8 sin contestar), 2026-10-14 (contestada el 15-10, falta P8), 2026-10-15 (sin contestar). Retomar en el repaso del domingo.
-- **Para el domingo:** empate [SUBJ] 11 / [CONJ] 11 → bloque dedicado sobre todo al **subjuntivo** (7 errores esta semana en el test del 14-10): vosotros en pres. subj. (-áis/-éis: traigáis, oigáis, lleguéis), imp. subj. (-éramos), pidió que + imp. subj., me alegra que + perfecto subj., cuando + futuro → pres. subj. Más mini-bloque [CONJ]: si + presente (fallado 3 veces: 10-13, C5 y PD3 del 10-14), vocativo → 2.ª persona (PD1 del 10-14), indefinido vs. imperfecto (acción puntual). Del 10-15 (sin hacer): apócope gran/buen, relacionales sin gradación, prefijos juntos.
+- **Unidad actual:** 2 — El adjetivo, «Somos viejos amigos». Hoy (sáb 2026-10-17) **consolidación** → posición 2.0 en course.json.
+- **Último día:** 2026-10-17 (sábado) — U2 consolidación: sin gramática nueva; Repaso RP1–RP10 (cartas falladas), Práctica de U2 (apócope, invariables, concordancia, posición viejo/pobre/único, difícil de + inf., interesada en que + subj.), 4 palabras, ¿Qué toca?, Habla. Primera lección con el método nuevo (Repaso SRS, producción, ¿Qué toca?, Habla).
+- **Mañana (dom 2026-10-18):** **Prueba de nivel** (línea de base, meta type «assessment»), en lugar del repaso semanal. Incluir en la parte de gramática el subjuntivo (vosotros, pidió que + imp. subj., cuando + subj.) y si + presente.
+- **Lunes 2026-10-19:** decidir según metrics.json: si la precisión sigue < 70 %, otro día de consolidación (U1–U2) antes de empezar U3 (Los artículos, PDF 17–24). U2 parte 2 (10-16) sigue sin contestar: sus contenidos se trabajan hoy.
+- **Lecciones sin completar:** 2026-10-12 (P7, P10), 2026-10-13 (P9; R1–R8), 2026-10-14 (P8), 2026-10-16 (sin empezar). 2026-10-15 completada (contestada el 16-10, 20/33).
+
+## Ritmo (decisiones)
+
+| Fecha | Precisión (rolling3) | Decisión | Motivo |
+|---|---|---|---|
+| 2026-10-17 | 10-14: 61 %, 10-15: 61 % (rolling3 68 %) | Consolidación: sin gramática nueva, 4 palabras, Repaso 10 | < 70 %. 91 cartas pendientes (41 falladas). |
+
+## B1 gaps (Español en Marcha B1)
+
+| Regla | Unidad B1 | Veces | Último repaso |
+|---|---|---|---|
+| pidió que + imperfecto de subjuntivo | U9 (pp. 36–39), U7 | 5 (10-13, 10-14 C4, 10-15 C4, PD3) | 2026-10-17 RP2 |
+| vosotros en pres. subj./imperativo (-áis/-éis) | U5 (pp. 20–23), U6 | 6 (digan, pongan, traigan, oigan, lleguen, hagan) | 2026-10-17 RP1, RP4 |
+| si + presente (condición real) | U7 (pp. 28–31) | 3 | 2026-10-17 RP3 |
+| cuando + futuro → pres. subj. | U7 (pp. 28–31) | 1 | 2026-10-17 RP1, PD5 |
+| creer que / es evidente que + indicativo | U6 (pp. 24–27) | 3 (10-12, 10-15 PD4) | 2026-10-17 RP6 |
+| Tildes (seáis, está, sé, íes, José) | U3–U4 (pp. 12–19) | 6 | — |
+| Preposiciones: pensar en, desde, para + inf. | U2 (pp. 8–11), U4 | 3 | 2026-10-17 RP10, PD1, PD2 |
+| indefinido / imperfecto / perfecto | U1–U3 (pp. 4–15) | 1 | 2026-10-17 RP8, PD4 |
+| vocativo → 2.ª persona | U1 (pp. 4–7) | 2 | 2026-10-17 RP7 |
+
+**Gap más frecuente:** vosotros en subjuntivo → bloque fijo en los domingos de repaso.
 
 ## Sílabo
 
@@ -50,7 +72,8 @@ Títulos leídos de las portadas de unidad (verificar el título exacto al empez
 ## Materiales guardados de Eva (memory)
 
 - **La chuleta de español** (25 fórmulas, `materials/chuleta-de-espanol.md`, guardada el 2026-10-15). Va en el recuadro «🧩 Fórmula del día» de cada lección.
-  - **Última fórmula usada:** n.º 2 (2026-10-16). **Siguiente:** n.º 3 *Voy a + infinitivo* y n.º 4 *Acabo de + infinitivo*.
+  - **Última fórmula usada:** n.º 4 (2026-10-17). **Siguiente:** n.º 5 *Solía + inf.* y n.º 6 *Iba a + inf.*
+  - 2026-10-17: n.º 3 *Voy a + inf.* y n.º 4 *Acabo de + inf.* → P1, P6, PD5, H1; tarjetas formula/3 y formula/4.
   - 2026-10-16: n.º 1 *Quiero + inf.* y n.º 2 *Tengo que + inf.* → P10, PD4, PD5.
   - Fórmulas que falla: (ninguna todavía).
 
@@ -60,9 +83,9 @@ Recuento acumulado de errores (lo actualiza José a partir de los registros del 
 
 | Área | Etiqueta | Errores | Notas |
 |---|---|---|---|
-| Subjuntivo (cuándo y qué tiempo) | [SUBJ] | 11 | Punto débil declarado por Eva. 10-12: subjuntivo tras «creer que» afirmativo / «es evidente que». 10-13: vosotros «pongan»; «pidió que» + indefinido. 10-14: vosotros traigan/oigan/lleguen; trajérmos; imp. en vez de perfecto subj. (x2); pidió que + presente ind. |
+| Subjuntivo (cuándo y qué tiempo) | [SUBJ] | 16 | Punto débil declarado por Eva. 10-15: huberia sido; hagan (vosotros); pidió que + fui/presenté; es evidente que + subj. 10-12: subjuntivo tras «creer que» afirmativo / «es evidente que». 10-13: vosotros «pongan»; «pidió que» + indefinido. 10-14: vosotros traigan/oigan/lleguen; trajérmos; imp. en vez de perfecto subj. (x2); pidió que + presente ind. |
 | Preposiciones (por/para, a, en, de, con, desde/hace, verbos con preposición) | [PREP] | 3 | Punto débil declarado por Eva. 10-13: «a» en vez de «desde» (tiempo); «pensar sobre» → pensar en; «a nadar» → para nadar (finalidad) |
-| Elegir la conjugación (tiempo, modo, persona) | [CONJ] | 11 | Punto débil declarado por Eva. 10-12: no lee la persona/tiempo pedidos en cada ítem; «condujieron». 10-13: si + imp. subj. («vinieras»); vocativo con verbo en 3.ª persona. 10-14: «oí» por oyeron (persona); si + subj. (oyeras, hiciera) x2; vocativo → 3.ª pers. otra vez; imperfecto por indefinido (empezaba) |
+| Elegir la conjugación (tiempo, modo, persona) | [CONJ] | 12 | Punto débil declarado por Eva. 10-15: sabe por sé (persona). 10-12: no lee la persona/tiempo pedidos en cada ítem; «condujieron». 10-13: si + imp. subj. («vinieras»); vocativo con verbo en 3.ª persona. 10-14: «oí» por oyeron (persona); si + subj. (oyeras, hiciera) x2; vocativo → 3.ª pers. otra vez; imperfecto por indefinido (empezaba) |
 
 Errores concretos recurrentes:
 - [SUBJ] creer que / es evidente que (afirmativo) + indicativo — puso subjuntivo (10-12).
@@ -83,16 +106,19 @@ Errores concretos recurrentes:
 - Ortografía: tilde en plurales (síes, íes — fallado en P4 del 10-14), «económica», José.
 - Comunicación: en Telegram pega a veces los enunciados en vez de las respuestas, y manda lecciones de otros días (el bot ya lo gestiona).
 - Vocabulario: brote vs. contagio; incertidumbre (fem.).
+- [U2] 10-15: apócope gran (puso «grand/grande»), invariables amable/joven/cortés, concordancia (verdoso → verdosos, piernas larga → largas), sustantivación «el viejo». → Práctica del 10-17.
+- [SUBJ] es evidente que + **indicativo** (puso «llevaran») y persona vosotros (10-15 PD4).
 
 ## Vocabulario visto
 
 Del 10-12 al 10-15, vocabulario temático provisional. Desde el 10-16, **Must-Know Spanish 4000 Words** en orden.
-- **Último usado en Must-Know:** cap. 1, pp. 2–3 (Personal Information + Greetings and Farewells, hasta «wave good-bye»). **Siguiente:** p. 4, Communication by Phone (texto: `~/.config/senor_verbo/books/must-know-spanish-4000-words/0018.txt`).
+- **Último usado en Must-Know:** cap. 1, p. 4, Communication by Phone (terminado; el resto de la lista son palabras conocidas). **Siguiente:** p. 4, Letters (querido/a, el sobre, el buzón, la carta urgente…; texto `0018.txt`).
 
 - 2026-10-12: el brote, la vacuna, el contagio, la cuarentena, el síntoma, la mascarilla, el desmayo, la recesión, el desempleo, la incertidumbre, el repunte, hacer frente a
 - 2026-10-13: el asco, la náusea, el mareo, la hemorragia, el vientre, la cicatriz, el análisis, el diagnóstico, el ingreso, la baja (médica), recetar, devanarse los sesos
 - 2026-10-14: el/la excursionista, el saco de dormir, los víveres, el/la guarda forestal, la cima, la cría, la fiera, la pesadilla, el susto, el escalofrío, despistar, en peligro de extinción (lección sin contestar)
 - 2026-10-15: entrañable, campechano/a, presumido/a, testarudo/a, tiquismiquis, el/la cascarrabias, despistado/a, la complicidad, el/la confidente, ser uña y carne, llevarse de maravilla con, dar la lata (lección sin contestar)
+- 2026-10-17 (Must-Know p. 4, consolidación: 4): ¿De parte de quién?, colgar (o→ue), dejar un recado, equivocarse de número
 - 2026-10-16 (Must-Know pp. 2–3): el/la conocido/a, conocer a alguien, encantado/a (de), presentar a alguien (a alguien), despedirse (de), la despedida, dedicarse a, el estado civil, soltero/a, divorciado/a (ser), el viudo/la viuda, mayor/menor de edad
 
 ## Verbos practicados
@@ -101,6 +127,7 @@ Del 10-12 al 10-15, vocabulario temático provisional. Desde el 10-16, **Must-Kn
 - 2026-10-13: doler, venir, poner (presente ind./subj., indefinido, futuro, imperfecto subj., imperativo, participio); contexto: si + presente, pidió que + imp. subj.
 - 2026-10-14: traer, sentir, oír (presente ind./subj., indefinido, imperfecto subj., perfecto subj.); contexto: pidió que + imp. subj., si + presente, me alegra que + perfecto subj. (sin contestar)
 - 2026-10-15: ser, saber, hacer (pres. subj. vosotros, imp. subj., perfecto y pluscuamperfecto subj., indefinido, participio); contexto: pidió que + imp. subj., no creo que + subj., si + pluscuamp. subj. → condicional compuesto (sin contestar)
+- 2026-10-17: en contexto (¿Qué toca? / Repaso): terminar, ser, hacer, decir, llegar, estar, sonar, sentirse, nadar, volver (cuando + subj., pidió que + imp. subj., si + presente, me alegra que + perf. subj., es importante que + subj., perfecto con «esta mañana»)
 - 2026-10-16: andar, conocer, despedirse (indefinido, pres. ind./subj. vosotros, imp. subj., perfecto subj., pluscuamp. ind.; Webster's pp. 117, 217, 270); contexto: cuando + pres. subj., indefinido, me molestó que + imp. subj., si + presente
 
 ## Historial de lecciones
@@ -110,6 +137,7 @@ Del 10-12 al 10-15, vocabulario temático provisional. Desde el 10-16, **Must-Kn
 | 2026-10-12 | U1 parte 1 (género y número) | No (faltan P7, P10) | 2 | 0 | 4 |
 | 2026-10-13 | U1 parte 2 (cambio de sentido, concordancia, complementos, vocativo) | No (falta P9; R1–R8 sin contestar) | 2 | 3 | 2 |
 | 2026-10-14 | U1 consolidación y test | No (contestada el 15-10, 20/33; falta P8) | 7 | 0 | 5 |
-| 2026-10-15 | U2 parte 1 (clases de adjetivos, intensificación) | No (sin contestar) | — | — | — |
-| 2026-10-16 | U2 parte 2 (posición, cambios de significado, complementos) | — | — | — | — |
-| **Total** | | | **11** | **3** | **11** |
+| 2026-10-15 | U2 parte 1 (clases de adjetivos, intensificación) | Sí (contestada el 16-10, 20/33, 61 %) | 5 | 0 | 1 |
+| 2026-10-16 | U2 parte 2 (posición, cambios de significado, complementos) | No (sin empezar) | — | — | — |
+| 2026-10-17 | U2 consolidación (método nuevo) | — | — | — | — |
+| **Total** | | | **16** | **3** | **12** |
