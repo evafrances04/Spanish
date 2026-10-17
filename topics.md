@@ -10,13 +10,13 @@
 
 | # | Arco | Tema | Piezas | Palabras de la lista que llevó (nuevas) | Estado |
 |---|---|---|---|---|---|
-| 1 | **Los Simpson: «Marge vs. the Monorail»** (T4 E12, emitido el 14-01-1993; guion de Conan O'Brien) | TV | P005 (B0001) planteamiento · P006 (B0002) relato · P007 (B0004) el final y detrás de cámaras · P008 «¿monorriel o calle?» (próximo lote) | pensar · encontrar · parecer | 3 de 4 escritas |
+| 1 | **Los Simpson: «Marge vs. the Monorail»** (T4 E12, emitido el 14-01-1993; guion de Conan O'Brien) | TV | P005 (B0001) planteamiento · P006 (B0002) relato · P007 (B0004) el final y detrás de cámaras · P008 (B0005) «¿monorriel o calle?» + el monorriel de Sydney (1988–2013) | pensar · encontrar · parecer · acuerdo · mismo | completo (4/4) |
+| 2 | **Natación: el 10 km femenino de París 2024 en el Sena** (8-08-2024) | Olímpicos / aguas abiertas | P009 (B0007) Eva y Andrés charlan: la calidad del agua, el podio · P010 (B0008) el relato de la carrera, contra la corriente · P011 el momento decisivo en detalle (puente de los Inválidos) · P012 ¿y vos? (Eva y sus travesías; el 10 km masculino: Rasovszky) | seguir · carrera · momento · contra (+ voseo) | 2 de 4 escritas |
 
 ## Planeados (en este orden, ajustable según su %)
 
 | # | Arco | Tema | Piezas | Datos comprobados / qué contar |
 |---|---|---|---|---|
-| 2 | **Natación: el 10 km de París 2024 en el Sena** | Olímpicos / aguas abiertas | 4 | Mujeres: Sharon van Rouwendaal (Países Bajos) oro, su segundo oro olímpico en 10 km, por delante de la australiana Moesha Johnson (plata, a ~5 s) y Ginevra Taddeucci (Italia, bronce). Hombres: Kristóf Rasovszky (Hungría) oro, Oliver Klemet (Alemania) plata a 2,1 s, David Betlehem (Hungría) bronce. La polémica de la calidad del agua del Sena. |
 | 3 | **Parks and Recreation: «Harvest Festival»** (T3 E7, 17-03-2011) | TV | 4 | Leslie organiza el festival de la cosecha; Li'l Sebastian. Comprobar detalles de trama antes de escribir. |
 | 4 | **Los Beatles en The Ed Sullivan Show** (9-02-1964) | Música | 3 | Primera aparición en la TV de EE. UU., dos días después de llegar al aeropuerto JFK; ~73 millones de espectadores, récord entonces. |
 | 5 | **30 Rock: «Rosemary's Baby»** (T2 E4, 25-10-2007) | TV | 4 | Carrie Fisher como Rosemary Howard, ídola de Liz; Jack las despide a las dos; la sesión de «terapia» de Jack con Tracy. |
@@ -40,4 +40,4 @@
 
 **Reglas de rotación:** no dos arcos seguidos del mismo tema; cada ~10 piezas una **Canción** y cada ~15 una **Historia**, idealmente dentro del arco en curso. Arcos densos (16–22) solo cuando su 1.ª escucha esté de forma estable en 85 % o más.
 
-**Fuentes (consultadas el 2026-10-17):** Wikipedia: *Marge vs. the Monorail*, *Harvest Festival (Parks and Recreation)*, *Flu Season (Parks and Recreation)*, *Li'l Sebastian*, *Rosemary's Baby (30 Rock)*, *Tracy Does Conan*, *Baelor*, *The Rains of Castamere*, *Days Gone Bye*, *Lisa the Vegetarian*, *In Excelsis Deo*, *Two Cathedrals*, *Sunday in the Park with George*, *The Beatles' rooftop concert*; Boston Globe/AP y The Star (10 km de París 2024); Guinness World Records (Moussambani); Smithsonian Magazine (Ed Sullivan, 1964); ABC7 y NME (Óscar 2017); Al Jazeera y openDemocracy (plebiscito y Nobel 2016); History.com y NBC News (Nyad).
+**Fuentes (consultadas el 2026-10-17):** Wikipedia: *Marge vs. the Monorail*, *Harvest Festival (Parks and Recreation)*, *Flu Season (Parks and Recreation)*, *Li'l Sebastian*, *Rosemary's Baby (30 Rock)*, *Tracy Does Conan*, *Baelor*, *The Rains of Castamere*, *Days Gone Bye*, *Lisa the Vegetarian*, *In Excelsis Deo*, *Two Cathedrals*, *Sunday in the Park with George*, *The Beatles' rooftop concert*; Boston Globe/AP y The Star (10 km de París 2024); Guinness World Records (Moussambani); Smithsonian Magazine (Ed Sullivan, 1964); ABC7 y NME (Óscar 2017); Al Jazeera y openDemocracy (plebiscito y Nobel 2016); History.com y NBC News (Nyad); Wikipedia *Sydney Monorail*, Dictionary of Sydney y City of Sydney Archives (monorriel de Sydney); Olympics.com y World Aquatics (recorrido y carrera del 10 km).

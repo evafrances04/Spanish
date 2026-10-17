@@ -762,6 +762,60 @@
    "seen": 1,
    "last": "2026-10-17",
    "example": "cuando uno extraña el mar… (chat 17-10)"
+  },
+  "acuerdo": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Estoy de acuerdo con Marge."
+  },
+  "mismo": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "¡Pienso lo mismo!"
+  },
+  "seguir": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Sí, sigo nadando."
+  },
+  "carrera": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Moesha fue primera casi toda la carrera."
+  },
+  "momento": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Y llega el momento."
+  },
+  "contra": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Después vuelven contra el río."
+  },
+  "pensar": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Marge siempre tiene razón… ¡Pienso lo mismo!"
+  },
+  "parecer": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "¿Qué te pareció el final?"
+  },
+  "encontrar": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Homer encuentra una solución."
   }
  },
  "patterns": {
@@ -944,6 +998,36 @@
    "seen": 1,
    "last": "2026-10-17",
    "example": "Mañana me toca trabajar todo el día."
+  },
+  "estar de acuerdo (con)": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Estoy de acuerdo con Marge."
+  },
+  "seguir + gerundio": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Sigo nadando todos los días."
+  },
+  "voseo (vos viste, seguís, mirá)": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Eva, ¿vos viste la natación en el Sena?"
+  },
+  "me parece / me pareció": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "¿Qué te pareció el final?"
+  },
+  "pensar que + frase": {
+   "first": "2026-10-17",
+   "seen": 1,
+   "last": "2026-10-17",
+   "example": "Marge piensa que el señor Lanley no es honesto."
   }
  },
  "pieces": [
@@ -1028,6 +1112,48 @@
    "written": "2026-10-17",
    "bite": "B0004",
    "arc": "A01"
+  },
+  {
+   "id": "P008",
+   "date": null,
+   "title": "¿Monorriel o calle?",
+   "new": [
+    "acuerdo",
+    "mismo",
+    "estar de acuerdo"
+   ],
+   "listens": 0,
+   "written": "2026-10-17",
+   "bite": "B0005",
+   "arc": "A01"
+  },
+  {
+   "id": "P009",
+   "date": null,
+   "title": "Diez kilómetros en el Sena",
+   "new": [
+    "seguir",
+    "carrera",
+    "seguir + gerundio",
+    "voseo"
+   ],
+   "listens": 0,
+   "written": "2026-10-17",
+   "bite": "B0007",
+   "arc": "A02"
+  },
+  {
+   "id": "P010",
+   "date": null,
+   "title": "Contra el río",
+   "new": [
+    "momento",
+    "contra"
+   ],
+   "listens": 0,
+   "written": "2026-10-17",
+   "bite": "B0008",
+   "arc": "A02"
   }
  ],
  "note": "Words and patterns are added/bumped when Eva actually hears a piece; pieces with listens 0 are written but not yet heard. Seed of 2026-10-17 is an estimate."

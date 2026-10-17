@@ -9,10 +9,13 @@
 | Fecha | Pieza | 1.ª escucha | Repetición | Nota |
 |---|---|---|---|---|
 | 2026-10-17 | P001 Me tocó madrugar | 70 % | (B0003) | Primera lección del método nuevo. Captó la idea general; se le escapó el detalle de *The West Wing*. Preguntó por *pagar el tinto*, *pereza*, *uno extraña*. Señaló con razón que Cali no tiene mar. |
+| 2026-10-17 | P005 El capítulo del monorriel (B0001) | 90 % | (B0003) | Idea general correcta (Marge quiere reparar la calle; la ciudad compra el monorriel). Usó *pensar que* sin ayuda (P2: «Pienso que comprar un monorriel es una mala idea…») y aportó que el guion es de Conan O'Brien. Errores menores, con recast: *escritoro* → escritor, «la calle necesita reparar». |
 
 Calibración: 1.ª escucha < 85 % → más fácil (1 elemento nuevo, más lento, tema más familiar); ~100 % sin palabras nuevas → más difícil (hasta 3, más largo o más rápido). Objetivo: 85–95 %.
 
 ## Decisiones de ritmo
+
+- 2026-10-17 (noche), lote B0005–B0008 (CAP-563): 1.ª escucha de P005 = **90 %**, idea general correcta → dentro del objetivo (85–95). Se sube un poco: **2 palabras nuevas de la lista por pieza**, en fórmulas transparentes (acuerdo, mismo · seguir, carrera · momento, contra), frases todavía cortas. **Entra el voseo** (regla anterior: con 1.ª escucha ≥ 85 %): Andrés habla de *vos* en P009. Se cierra el arco 1 y empieza el arco 2 (natación, París 2024), un tema que Eva domina. Si la 1.ª escucha de P009/P010 baja de 85 %, volver a 1 palabra nueva y quitar el voseo hasta nuevo aviso.
 
 - 2026-10-17 (noche), arco 1 (B0001–B0004 reescritas): sigue la calibración fácil por el 70 % de P001: **1 palabra nueva de la lista por pieza** (pensar, encontrar, parecer, en orden de rango entre las que probablemente no domina), frases cortas, muchos cognados (parque, millones, reunión, ingeniero, solución). Las palabras muy frecuentes de `next_new` (qué, ya, ahora, quién, otro, entonces, señor) se usan sin enseñarlas. Cada pieza recicla 4–8 de `heard_not_yet_shown` (más, mal, pequeño, razón, comprar, empezar, tarde…). La E2 de B0002, la E3 de B0003 y la E2 de B0004 dependen de la palabra nueva anterior, sin glosa.
 
@@ -31,11 +34,16 @@ Calibración: 1.ª escucha < 85 % → más fácil (1 elemento nuevo, más lento,
 | B0003 | Otra vez | P001 + P005 (guion idéntico) + E3 de idea general sobre *pensar* | — | me toca · llevo + gerundio · quería · voy a · tengo que · pensar que | lista |
 | B0004 | Nueva + Patrones | P007 ¿Qué te pareció el final? (arco 1, 3/4) | parecer | me parece / me pareció (sembrado) | lista |
 
-**Siguiente lote:** P008 cierra el arco 1 («¿monorriel o calle?»: Eva y Andrés votan en la reunión de Springfield; *¿y tú qué habrías hecho?* sin subjuntivo aún, con *pienso que / me parece*). Después, arco 2 (10 km de París 2024 en el Sena). B0006 = Otra vez (P006 + P007).
+| B0005 | Nueva + Patrones | P008 ¿Monorriel o calle? (arco 1, 4/4: cierre; el monorriel de Sydney, 1988–2013) | acuerdo · mismo | estar de acuerdo (sembrado) · lo mismo | lista |
+| B0006 | Otra vez | P006 + P007 (guiones idénticos) + E3 sobre *parecer* y *encontrar* sin glosa | — | le toca · pensar que · me parece | lista |
+| B0007 | Nueva + Patrones | P009 Diez kilómetros en el Sena (arco 2, 1/4) | seguir · carrera | seguir + gerundio (sembrado) · primer voseo | lista |
+| B0008 | Nueva | P010 Contra el río (arco 2, 2/4, narración) | momento · contra | seguir a alguien (E2 sin glosa) | lista |
+
+**Siguiente lote (B0009–B0012):** B0009 = Otra vez (P008 + P009). Después P011 (el momento decisivo en detalle) y P012 (¿y vos?: las travesías de Eva; el 10 km masculino, Rasovszky) cierran el arco 2. Luego arco 3 (*Parks and Recreation*, «Harvest Festival»), comprobando la trama antes de escribir. Primeras palabras candidatas de `next_new`: alguien, hasta, hecho, seguro, nadie, escuchar, mundo, lugar, buscar.
 
 **Voces del audio:** el bot lee **A con voz femenina (Paulina)** y **B con voz masculina (Eddy)**. P001 tenía A = Andrés (voz femenina); desde P005, **A = Eva y B = Andrés**, y las narraciones sin A:/B: van con la voz femenina.
 
-**Repeticiones previstas** (≈1 día, 4 días, 2 semanas después de la 1.ª escucha): P001 → B0003, luego ~21-10 y ~31-10. P005 → B0003, luego ~4 días y ~2 semanas. P006 y P007 → B0006 y después a los 4 días y 2 semanas.
+**Repeticiones previstas** (≈1 día, 4 días, 2 semanas después de la 1.ª escucha): P001 → B0003, luego ~21-10 y ~31-10. P005 → B0003, luego ~4 días y ~2 semanas. P006 y P007 → B0006 y después a los 4 días (~21-10) y 2 semanas (~31-10). P008 y P009 → B0009, luego a los 4 días y 2 semanas. P010 → B0012 aprox.
 
 ## Estructuras sembradas
 
@@ -43,9 +51,12 @@ Calibración: 1.ª escucha < 85 % → más fácil (1 elemento nuevo, más lento,
 |---|---|---|---|---|
 | me toca / me tocó + inf. | P001 (17-10) | P001 (B0003), P006 «le toca» (B0002) | 1 (17-10: «me toca nadar en la piscina», tras dudar) | sembrando (meta: 8 piezas en 3 semanas) |
 | acabo de + inf. | (P003 en reserva, no emitida) | — | 0 | pendiente |
-| pensar que + frase | P005 / B0001 | P005 (B0001, B0003) | 0 | sembrando |
-| me parece / me pareció | P007 / B0004 | P007 | 0 | sembrando |
+| pensar que + frase | P005 / B0001 | P005 (B0001, B0003), P006 (B0006), P008, P009 | 1 (17-10, B0001 P2: «Pienso que comprando [comprar] un monorriel es una mala idea», tras el modelo) | sembrando |
+| me parece / me pareció | P007 / B0004 | P007 (B0004, B0006), P008 (B0005) | 0 | sembrando |
 | llevo + tiempo + gerundio | P001 | P001 (B0003) | 0 | sembrando |
+| estar de acuerdo (con) | P008 / B0005 | P008 | 0 | sembrando |
+| seguir + gerundio | P009 / B0007 | P009, P010 («la sigue») | 0 | sembrando |
+| voseo (oído) | P009 / B0007 | P009 | — | solo escucha; aceptarlo siempre |
 
 ## Calendario de piezas (método diario, histórico)
 
