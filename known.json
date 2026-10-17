@@ -967,7 +967,7 @@
    ],
    "listens": 0,
    "written": "2026-10-17",
-   "bite": "B0001"
+   "status": "reserva: no emitida (B0001–B0004 reescritas como arco temático, 2026-10-17)"
   },
   {
    "id": "P003",
@@ -978,7 +978,7 @@
    ],
    "listens": 0,
    "written": "2026-10-17",
-   "bite": "B0002"
+   "status": "reserva: no emitida (B0001–B0004 reescritas como arco temático, 2026-10-17)"
   },
   {
    "id": "P004",
@@ -989,7 +989,45 @@
    ],
    "listens": 0,
    "written": "2026-10-17",
-   "bite": "B0004"
+   "status": "reserva: no emitida (B0001–B0004 reescritas como arco temático, 2026-10-17)"
+  },
+  {
+   "id": "P005",
+   "date": null,
+   "title": "El capítulo del monorriel",
+   "new": [
+    "pensar",
+    "pensar que + frase"
+   ],
+   "listens": 0,
+   "written": "2026-10-17",
+   "bite": "B0001",
+   "arc": "A01"
+  },
+  {
+   "id": "P006",
+   "date": null,
+   "title": "A Homer le toca",
+   "new": [
+    "encontrar"
+   ],
+   "listens": 0,
+   "written": "2026-10-17",
+   "bite": "B0002",
+   "arc": "A01"
+  },
+  {
+   "id": "P007",
+   "date": null,
+   "title": "¿Qué te pareció el final?",
+   "new": [
+    "parecer",
+    "me parece / me pareció"
+   ],
+   "listens": 0,
+   "written": "2026-10-17",
+   "bite": "B0004",
+   "arc": "A01"
   }
  ],
  "note": "Words and patterns are added/bumped when Eva actually hears a piece; pieces with listens 0 are written but not yet heard. Seed of 2026-10-17 is an estimate."

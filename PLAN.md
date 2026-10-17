@@ -37,6 +37,8 @@ Covering these 4,000 words lines up with the research on B2: about 4,000–5,000
 | **Canción** | A real song (YouTube search link), 1–3 words from it in context → % | about every 10th |
 | **Historia** | A longer story built only from words you already know: pure fluency | about every 15th |
 
+**Arcs (from 2026-10-17):** pieces come in arcs of 3–5 around one of your topics, in depth: a specific TV episode, a film, an Oscars night, an Olympic race, a Beatles moment, a Sondheim show, a human-rights case. Usually: (1) Eva and Andrés chat about the setup, (2) a retelling of the key scenes, (3) a character or moment in detail, (4) behind the scenes or the real-world context, (5) "what would you have done?". Pieces in an arc share words and names, so they recycle naturally. Lighter arcs first (*The Simpsons*, *Parks and Rec*, *30 Rock*, the Olympics, swimming, the Beatles), denser ones later (*The West Wing*, *Game of Thrones*, human rights, Sondheim). Facts are checked; plots are retold in José's own words. The plan of arcs is in `topics.md`. First arc: *The Simpsons*, "Marge vs. the Monorail" (season 4, episode 12).
+
 **Rules for every piece:**
 - You understand nearly all of it. At most 1–3 new families per piece (later about 1 per 40 words), and everything else is familiar.
 - 4–8 recently met words are recycled in each new piece.

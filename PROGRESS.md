@@ -14,27 +14,37 @@ Calibración: 1.ª escucha < 85 % → más fácil (1 elemento nuevo, más lento,
 
 ## Decisiones de ritmo
 
+- 2026-10-17 (noche), arco 1 (B0001–B0004 reescritas): sigue la calibración fácil por el 70 % de P001: **1 palabra nueva de la lista por pieza** (pensar, encontrar, parecer, en orden de rango entre las que probablemente no domina), frases cortas, muchos cognados (parque, millones, reunión, ingeniero, solución). Las palabras muy frecuentes de `next_new` (qué, ya, ahora, quién, otro, entonces, señor) se usan sin enseñarlas. Cada pieza recicla 4–8 de `heard_not_yet_shown` (más, mal, pequeño, razón, comprar, empezar, tarde…). La E2 de B0002, la E3 de B0003 y la E2 de B0004 dependen de la palabra nueva anterior, sin glosa.
+
 - 2026-10-17: primera pieza, sin datos de comprensión todavía → nivel suave: 2 elementos nuevos (*madrugar*, *me toca / me tocó + inf.*), tema muy conocido (natación por la mañana, trabajo, *The West Wing*), diálogo de ~120 palabras.
 
 - 2026-10-17 (noche), lote B0001–B0004: 1.ª escucha de P001 = **70 %** (< 85) → **más fácil**: 1 solo elemento nuevo por pieza, frases cortas (≈100–135 palabras), temas muy conocidos (natación en Londres, llegar a Cali, las piscinas de Sydney), mucho reciclado. Sin voseo todavía: entrará cuando la 1.ª escucha esté en 85 % o más. Geografía corregida: Cali no tiene mar (Buenaventura ≈3 h; lago Calima ≈2 h).
 
 ## Piezas a demanda (Bnnnn)
 
-| Pieza | Tipo | Audio(s) | Nuevo | Patrones / estructuras | Estado |
-|---|---|---|---|---|---|
-| B0001 | Nueva | P002 Me toca la piscina | extrañar | me toca / me tocó (reciclado) | lista |
-| B0002 | Nueva + Patrones | P003 Acabo de llegar | acabo de + inf. | acabo de (sembrado) · me toca | lista |
-| B0003 | Otra vez | P001 + P002 (guion idéntico) | — | me toca · llevo + gerundio · quería · voy a · tengo que | lista |
-| B0004 | Nueva | P004 Las piscinas de Sydney | la ola | no sé, pero… (chuleta 23) | lista |
+**2026-10-17 (noche), CAP-562 — arcos temáticos (decisión de Eva):** las piezas giran ahora en torno a sus temas, en profundidad (episodios concretos, películas, Juegos Olímpicos, Beatles, Sondheim, derecho…), en arcos de 3–5 piezas. Plan de unos 20 arcos en `topics.md`. Eva no había empezado ninguna pieza (`bites.json`: done vacío, current nulo), así que **B0001–B0004 se reescribieron** como el arco 1. Las piezas P002–P004 (piscina, llegar a Cali, piscinas de Sydney) quedan **en reserva, no emitidas**; *extrañar*, *acabo de* y *la ola* no se han sembrado todavía.
 
-**Repeticiones previstas** (≈1 día, 4 días, 2 semanas después de la 1.ª escucha): P001 → B0003 (+1 d), luego ~21-10 y ~31-10. P002 → B0003 (mismo día o +1 d), luego ~4 días y ~2 semanas después. P003 y P004 → en el próximo «Otra vez» (B0006) y después a los 4 días y 2 semanas.
+| Pieza | Tipo | Audio(s) | Nuevo (lista) | Patrones / estructuras | Estado |
+|---|---|---|---|---|---|
+| B0001 | Nueva + Patrones | P005 El capítulo del monorriel (arco 1, 1/4) | pensar | pensar que + frase (sembrado) | lista |
+| B0002 | Nueva | P006 A Homer le toca (arco 1, 2/4, narración) | encontrar | le toca + inf. (reciclado) | lista |
+| B0003 | Otra vez | P001 + P005 (guion idéntico) + E3 de idea general sobre *pensar* | — | me toca · llevo + gerundio · quería · voy a · tengo que · pensar que | lista |
+| B0004 | Nueva + Patrones | P007 ¿Qué te pareció el final? (arco 1, 3/4) | parecer | me parece / me pareció (sembrado) | lista |
+
+**Siguiente lote:** P008 cierra el arco 1 («¿monorriel o calle?»: Eva y Andrés votan en la reunión de Springfield; *¿y tú qué habrías hecho?* sin subjuntivo aún, con *pienso que / me parece*). Después, arco 2 (10 km de París 2024 en el Sena). B0006 = Otra vez (P006 + P007).
+
+**Voces del audio:** el bot lee **A con voz femenina (Paulina)** y **B con voz masculina (Eddy)**. P001 tenía A = Andrés (voz femenina); desde P005, **A = Eva y B = Andrés**, y las narraciones sin A:/B: van con la voz femenina.
+
+**Repeticiones previstas** (≈1 día, 4 días, 2 semanas después de la 1.ª escucha): P001 → B0003, luego ~21-10 y ~31-10. P005 → B0003, luego ~4 días y ~2 semanas. P006 y P007 → B0006 y después a los 4 días y 2 semanas.
 
 ## Estructuras sembradas
 
 | Estructura | Introducida | Piezas que la llevan | Usos correctos de Eva sin ayuda | Estado |
 |---|---|---|---|---|
-| me toca / me tocó + inf. | P001 (17-10) | P001, P002, P003 (B0001–B0003) | 1 (17-10: «me toca nadar en la piscina», tras dudar) | sembrando (meta: 8 piezas en 3 semanas) |
-| acabo de + inf. | P003 / B0002 | P003 | 0 | sembrando |
+| me toca / me tocó + inf. | P001 (17-10) | P001 (B0003), P006 «le toca» (B0002) | 1 (17-10: «me toca nadar en la piscina», tras dudar) | sembrando (meta: 8 piezas en 3 semanas) |
+| acabo de + inf. | (P003 en reserva, no emitida) | — | 0 | pendiente |
+| pensar que + frase | P005 / B0001 | P005 (B0001, B0003) | 0 | sembrando |
+| me parece / me pareció | P007 / B0004 | P007 | 0 | sembrando |
 | llevo + tiempo + gerundio | P001 | P001 (B0003) | 0 | sembrando |
 
 ## Calendario de piezas (método diario, histórico)
@@ -49,7 +59,7 @@ Calibración: 1.ª escucha < 85 % → más fácil (1 elemento nuevo, más lento,
 
 ## Chuleta: uso como patrones (no como fórmulas)
 
-- 2026-10-17 (lote B0001–B0004): acabo de + inf. (4) en Patrones de B0002; no sé, pero… (23) en P004; quería, llevo, voy a, tengo que en la repetición de P001 (B0003).
+- 2026-10-17 (lote B0001–B0004, reescrito como arco 1): quería, llevo, voy a, tengo que en la repetición de P001 (B0003). *Acabo de* (4) y *no sé, pero…* (23) quedan para más adelante (sus piezas están en reserva).
 - 2026-10-17 (P001): quería + inf. (8), llevo + tiempo + gerundio (7), voy a + inf. (3), tengo que + inf. (2). Siguientes por sembrar en piezas: solía + inf. (5), iba a + inf. (6), me gustaría (9), empecé a / dejé de (15–16), sigo + gerundio (19), estoy a punto de (20).
 
 ## Lo que Eva ha dicho
