@@ -7,13 +7,13 @@
 - **Un tema concreto no vuelve hasta pasadas al menos 15 piezas**, y entonces desde otro ángulo. Antes de escoger, mirar la tabla «Usados» de abajo.
 - **Rotar las categorías:** no dos piezas seguidas de la misma categoría (TV, cine/Óscar, música/teatro, deporte/natación, derecho/DD. HH./RR. II., Sydney/Cali/vida de Eva). Tras B0001–B0010 (Simpson + Juegos Olímpicos/Sena), **nada de Juegos Olímpicos ni de aguas abiertas como tema hasta B0018** como mínimo.
 - **La repetición viene de las palabras, no de la historia:** las 5 nuevas y las recicladas (4–8 de `heard_not_yet_shown`) vuelven en temas distintos.
-- **Historias de Eva** (`memory/eva-notes.md`, `memory/about-eva.md`, y lo que cuenta en sus mensajes): una de vez en cuando, cada una en un escenario nuevo, sin repetir el mismo relato y sin añadir nada que ella no haya dicho. Ya usadas: Puerto Rico, 15 h de Tres Palmas a Cabo Rojo (B0010, dentro del Sena); el gelato de la travesía Italia–Albania (B0012, en un mercado de Cali). Sin usar todavía: las medusas y que nadó sola en esa travesía (B0008).
+- **Historias de Eva** (`memory/eva-notes.md`, `memory/about-eva.md`, y lo que cuenta en sus mensajes): una de vez en cuando, cada una en un escenario nuevo, sin repetir el mismo relato y sin añadir nada que ella no haya dicho. Ya usadas: Puerto Rico, 15 h de Tres Palmas a Cabo Rojo (B0010, dentro del Sena). El gelato de la travesía Italia–Albania iba en la galería Alameda, que no se emitió: sigue libre. Sin usar todavía: las medusas y que nadó sola en esa travesía (B0008).
 - Se escoge el tema donde encajan las próximas palabras de `to_learn`. Andrés (Cali) es personaje fijo; los temas cambian.
 - Lo ligero primero; lo denso (*West Wing*, *Game of Thrones*, derechos humanos, Sondheim) cuando su 1.ª escucha esté estable en 85 % o más (ahora: 70 %, 70 %, 70 %).
 - **Exactitud:** comprobar en la web títulos, temporadas, fechas, ganadores y tramas antes de escribir; si hay duda, se omite o «si no me equivoco…». Nada de guiones ni letras.
 - Canción hacia cada 10.ª pieza; Historia hacia cada 15.ª.
 
-## Usados (B0001–B0012): no vuelven hasta la pieza indicada
+## Usados (B0001–B0016): no vuelven hasta la pieza indicada
 
 | Piezas | Categoría | Tema | Libre de nuevo desde |
 |---|---|---|---|
@@ -21,7 +21,11 @@
 | B0001–B0005 (P005–P009) | TV | *Los Simpson*, «Marge vs. the Monorail» (T4 E12) y el monorriel de Sydney | B0021 (y desde otro ángulo; Eva lo oyó demasiado) |
 | B0006–B0010 (P010–P014) | Deporte / aguas abiertas | París 2024: 10 km femenino y masculino en el Sena; ¿valió la pena limpiar el Sena? | B0026 (el Sena); Juegos Olímpicos en general desde B0018 |
 | B0011 (P015) | TV | *The Walking Dead*, «Days Gone Bye» (T1 E1): Rick despierta en un hospital vacío | B0027 |
-| B0012 (P016) | Cali / vida diaria | Una mañana en la galería Alameda con Andrés (mango, doña Rosa) + el gelato de Eva | B0028 |
+| B0012 (P016) | TV | *Los Simpson*, «Homer the Vigilante» (T5 E11): Molloy, el ladrón (CAP-571; sustituyó a la galería Alameda, nunca emitida) | B0028 |
+| B0013 (P017) | Cine | «Arsenic and Old Lace» (Capra, 1944): las tías, el vino y Teddy | B0029 |
+| B0014 (P018) | Cali | El Gato del Río (Tejada, 1996) y sus novias (2006) | B0030 |
+| B0015 (P019) | Sydney | Apertura del Harbour Bridge (19-03-1932): De Groot corta la cinta; Paul Hogan | B0031 |
+| B0016 (P020) | Teatro musical | «Fiddler on the Roof» (Broadway 1964): Tevye, las hijas, el baile de las botellas | B0032 |
 
 *Escritas y nunca emitidas (borradas o sustituidas en CAP-570, libres):* *Parks and Recreation*, «Harvest Festival» (T3 E7; antes B0011–B0012); la canción «Cali pachanguero» de Grupo Niche (antes B0013); la historia «Eva y el mar» (antes B0014). Se pueden usar más adelante, sin arco: una pieza cada una.
 
@@ -51,9 +55,11 @@
 | TV / intriga | **Game of Thrones: «The Rains of Castamere»** (T3 E9, 2-06-2013) (denso) | La Boda Roja; David Nutter; la súplica de Catelyn a Walder Frey. |
 | Sydney | Una escena de Sydney (Bondi–Coogee, los baños de mar, el ferry de Manly…) | Solo lo que se pueda comprobar; si se mezcla con la vida de Eva, solo lo que ella haya contado. |
 
-**Siguiente (B0013–):** cuando el selector traiga palabras. Rotación sugerida: música (Beatles/Ed Sullivan) → cine (Óscar 2017) → TV (*30 Rock*) → Cali (Feria, con canción) → …; Juegos Olímpicos y aguas abiertas no antes de B0018.
+**Siguiente (B0017–):** B0016 fue teatro musical → la próxima no. Rotación sugerida: TV (*30 Rock* o *Parks and Rec*) → música (Beatles/Ed Sullivan, o canción caleña hacia B0020) → cine/Óscar (2017) → derecho/RR. II. (cuando la 1.ª escucha llegue a 85 %) → deporte (Juegos y aguas abiertas, desde B0018). Palabras: `to_learn` en orden (siguen *confundir, cómodo, belleza, bendecir, pensamiento…*).
 
 ## Registro de cambios
+
+- **2026-10-18, CAP-572 — B0013–B0016.** Cuatro temas y cuatro categorías: cine (*Arsenic and Old Lace*), Cali (Gato del Río), Sydney (Harbour Bridge, 1932), teatro musical (*Fiddler on the Roof*). Fuentes: Wikipedia *Arsenic and Old Lace (film)* y *(play)*, *El Gato del Río* (es), *Sydney Harbour Bridge*, *Fiddler on the Roof*; CBS News Boston (baile de las botellas); consultadas el 2026-10-18. Tabla de usados corregida: B0012 es «Homer the Vigilante» (CAP-571), no la galería Alameda.
 
 - **2026-10-18, CAP-570 — variedad.** B0011 y B0012 (dos piezas de *Parks and Rec*, «Harvest Festival», sin empezar) reescritas con dos temas nuevos y las mismas palabras: B0011 *The Walking Dead*, «Days Gone Bye» (encerrar, obviamente, vacío, perseguir, grabar); B0012 la galería Alameda de Cali (faltar, escoger, cuchillo, robo, líder). Sin «Otra vez» en ninguna de las dos (B0010 ya llevaba una). B0013 (canción) y B0014 (historia, otra vez su travesía), sin palabras nuevas, borradas. Fuentes nuevas: Wikipedia, *Days Gone Bye (The Walking Dead)*; Den of Geek y Reactor (reseñas); Alcaldía de Cali, «Los sabores de la icónica galería Alameda»; El País (Cali), «Alameda de los sentidos» (consultadas el 2026-10-18).
 - 2026-10-18, CAP-569: B0011–B0012 acortadas (70 % dos veces); B0013 canción y B0014 historia (borradas en CAP-570).
