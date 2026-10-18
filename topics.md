@@ -1,6 +1,6 @@
 # Arcos temáticos de Eva (plan de José)
 
-*Creado: 2026-10-17 (CAP-562). Cada arco: 3–5 piezas sobre un episodio, película, evento o tema. Orden: primero lo ligero y conversacional, después lo denso (política, intriga, derechos humanos, Sondheim). Las palabras nuevas salen siempre de `coverage.json` → `next_new`, en orden de rango; el arco se elige donde encajan.*
+*Creado: 2026-10-17 (CAP-562). Cada arco: 3–5 piezas sobre un episodio, película, evento o tema. Orden: primero lo ligero y conversacional, después lo denso (política, intriga, derechos humanos, Sondheim). Las palabras nuevas salen siempre de `coverage.json` → `to_learn` (las que Eva marcó como no conocidas en el selector), en su orden; el arco se elige donde encajan.*
 
 **Forma de un arco (orientativa):** (1) Eva y Andrés charlan del planteamiento · (2) el relato de las escenas clave (narrador) · (3) un personaje o un momento en detalle · (4) detrás de cámaras / contexto real · (5) «¿y tú qué habrías hecho?». Los nombres propios no cuentan como palabras nuevas.
 
@@ -11,7 +11,7 @@
 | # | Arco | Tema | Piezas | Palabras de la lista que llevó (nuevas) | Estado |
 |---|---|---|---|---|---|
 | 1 | **Los Simpson: «Marge vs. the Monorail»** (T4 E12, emitido el 14-01-1993; guion de Conan O'Brien) | TV | P005 (B0001) planteamiento · P006 (B0002) relato · P007 (B0003) el final y detrás de cámaras · P008 (B0004) «¿monorriel o calle?» + el monorriel de Sydney (1988–2013) · P009 (B0005) «¿Homer es un buen padre?» | pensar · encontrar · (B0003) nuestro, mirar, volver, parecer, llamar · (B0004) alguno, mismo, nuevo, hasta, acuerdo · (B0005) dios, vida, hijo, padre, tomar | 2 oídas, 3 en cola (5 en total) |
-| 2 | **Natación: el 10 km femenino de París 2024 en el Sena** (8-08-2024) | Olímpicos / aguas abiertas | P010 (B0006) Eva y Andrés charlan: el agua, el podio · P011 (B0007) el relato: Sharon busca su momento · P012 (B0008) ¿valió la pena? (prohibido desde 1923; ~1.400 M€; Hidalgo nadó en julio de 2024; baño público desde el 5-07-2025) · P013 pendiente: ¿y vos? (las travesías de Eva; el 10 km masculino, Rasovszky) | (B0006) seguir, hecho, seguro, sobre, lugar · (B0007) momento, buscar, escuchar, tal, tipo · (B0008) alguien, nadie, valer, dinero, mundo (+ voseo oído) | 3 de 4 escritas |
+| 2 | **Natación: el 10 km femenino de París 2024 en el Sena** (8-08-2024) | Olímpicos / aguas abiertas | P010 (B0006) Eva y Andrés: el agua (¿hace daño?) y quién ganó · P011 (B0007) el relato: dos horas de pelea y el ataque final · P012 (B0008) golpes en el agua: cómo es nadar en grupo, ir detrás no es engañar · P013 pendiente: ¿valió la pena? (prohibido desde 1923; ~1.400 M€; el enfado; Hidalgo nadó el 17-07-2024; baño público desde el 5-07-2025; borrador en el repo, `pieces/borradores/`) · P014 pendiente: ¿y vos? (las travesías de Eva; el 10 km masculino, Rasovszky) | (B0006) tratar, maldito, aquel, sitio, daño · (B0007) caja, dirigir, droga, pelear, ataque · (B0008) cubrir, quemar, espalda, engañar, golpe · (P013, previsto) enojar, pertenecer, doble, batalla, majestad | 3 de 5 escritas |
 
 ## Planeados (en este orden, ajustable según su %)
 
@@ -39,6 +39,8 @@
 | 22 | **Game of Thrones: «The Rains of Castamere»** (T3 E9, 2-06-2013) | TV / intriga | 4 | La Boda Roja; David Nutter; la súplica de Catelyn a Walder Frey. |
 
 **Reglas de rotación:** no dos arcos seguidos del mismo tema; cada ~10 piezas una **Canción** y cada ~15 una **Historia**, idealmente dentro del arco en curso. Arcos densos (16–22) solo cuando su 1.ª escucha esté de forma estable en 85 % o más.
+
+**Reescritura del 2026-10-18 (CAP-565):** Eva marcó en el selector las palabras que ya conoce; las nuevas salen ahora solo de `to_learn`, en orden. B0005 (P009) se quedó como estaba porque ya estaba en curso; B0006–B0008 reescritas. Fuentes añadidas: AP vía NBC / KCTV5 (6-08-2024, entrenamiento cancelado en el Sena); AP vía ABC7 / CBS Sports y Al Jazeera (17-07-2024, Hidalgo nada en el Sena); Time Out / City AM / Dazed (junio de 2024, protesta por el gasto); Wikipedia y Simpsons Wiki (el ancla «M» de Homer).
 
 **Reescritura del 2026-10-17 (CAP-564):** 5 palabras de la lista por pieza; las repeticiones van dentro de las piezas nuevas (sección «Otra vez»). Quedan pendientes de `next_new`, por no encajar en estos arcos: *matar* (128), *morir* (149): buen sitio, *The Walking Dead* o *Game of Thrones*.
 

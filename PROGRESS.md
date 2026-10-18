@@ -16,6 +16,7 @@ Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la l
 
 ## Decisiones de ritmo
 
+- 2026-10-18 (mañana), CAP-565 — **palabras del selector.** Eva marcó en el selector de palabras cuáles ya conoce; ahora las 5 nuevas de cada pieza salen **solo de `to_learn`, en su orden** (37 palabras: tratar, maldito, aquel, sitio, daño, caja, dirigir…). Todas las palabras nuevas de B0005–B0008 (dios, vida… alguien, nadie…) las marcó como conocidas. **B0005 se dejó como estaba:** ya estaba en curso (`current`) cuando se reescribía. **B0006–B0008 reescritas** con las 15 siguientes, en orden: tratar, maldito, aquel, sitio, daño · caja, dirigir, droga, pelear, ataque · cubrir, quemar, espalda, engañar, golpe. Se mantiene el arco 2 (Sena), con otro reparto: P010 el agua y quién ganó · P011 el relato de la carrera · P012 cómo es nadar en grupo (golpes, ir detrás). El «¿valió la pena?» pasa a P013 (B0009) con *enojar, pertenecer, doble, batalla, majestad* (borrador en `pieces/borradores/`). Cada pieza recicla de `heard_not_yet_shown` (televisión, contaminar, kilómetro, entrenar…) y el resto son palabras que ya conoce; se quitaron *lluvia, agosto, puente, italiano, cien, euro, caro, entero, veinte* para no pasar de 5 nuevas. Con 90–100 % en la 1.ª escucha, los audios se alargan un poco (P010 ≈190 palabras, P011 ≈215, P012 ≈140). Copia de las versiones anteriores: `~/.config/jose` → carpeta de trabajo de CAP-565 (`bak-cap565`).
 - 2026-10-17 (noche), CAP-564 — **5 palabras nuevas por pieza** (decisión de Eva) y las repeticiones dentro de las piezas nuevas. Eva terminó B0001 (90 %) y B0002 (100 %), así que se reescribieron **las seis piezas en cola, B0003–B0008**, antes de que empezara ninguna. Palabras en orden de rango de `next_new` (saltando las que ya domina: qué, del, al, ya, algo, cómo, otro, gracias, cosa, hola, quién, mejor, dónde, oh, favor, trabajo): nuestro, mirar, volver, parecer, llamar · alguno, mismo, nuevo, hasta, acuerdo · dios, vida, hijo, padre, tomar · seguir, hecho, seguro, sobre, lugar · momento, buscar, escuchar, tal, tipo · alguien, nadie, valer, dinero, mundo. **Se dejaron para un arco donde encajen:** *matar* (128) y *morir* (149) (*The Walking Dead* / *Game of Thrones*). Se quitaron *carrera* y *contra* de las piezas del Sena para no pasar de 5 nuevas. Con 90–100 % en la 1.ª escucha, el resto se mantiene sencillo (frases cortas, temas muy conocidos) mientras se estrena el ritmo de 5. Las secciones «Otra vez» no piden porcentaje, para que la tendencia de 1.ª escucha siga siendo honesta. Copia de las versiones antiguas: `~/.config/jose-bak-cap564/`.
 
 - 2026-10-17 (noche), lote B0005–B0008 (CAP-563): 1.ª escucha de P005 = **90 %**, idea general correcta → dentro del objetivo (85–95). Se sube un poco: **2 palabras nuevas de la lista por pieza**, en fórmulas transparentes (acuerdo, mismo · seguir, carrera · momento, contra), frases todavía cortas. **Entra el voseo** (regla anterior: con 1.ª escucha ≥ 85 %): Andrés habla de *vos* en P009. Se cierra el arco 1 y empieza el arco 2 (natación, París 2024), un tema que Eva domina. Si la 1.ª escucha de P009/P010 baja de 85 %, volver a 1 palabra nueva y quitar el voseo hasta nuevo aviso.
@@ -36,12 +37,12 @@ Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la l
 | B0002 | Nueva | P006 A Homer le toca (arco 1, 2/4, narración) | encontrar | le toca + inf. (reciclado) | hecha |
 | B0003 | Nueva + Patrones + Otra vez | P007 ¿Qué te pareció el final? (arco 1, 3/5) + repetición de P005 | nuestro · mirar · volver · parecer · llamar | me parece / me pareció (sembrado) · volver a + inf. (oído) | lista |
 | B0004 | Nueva + Patrones + Otra vez | P008 ¿Monorriel o calle? (arco 1, 4/5; Sydney 1988–2013) + repetición de P001 | alguno · mismo · nuevo · hasta · acuerdo | estar de acuerdo (sembrado) · lo mismo · desde…hasta | lista |
-| B0005 | Nueva + Otra vez | P009 ¿Homer es un buen padre? (arco 1, 5/5) + repetición de P006 | dios · vida · hijo · padre · tomar | llevo + gerundio (reciclado) | lista |
-| B0006 | Nueva + Patrones | P010 Diez kilómetros en el Sena (arco 2, 1/4; primer voseo) | seguir · hecho · seguro · sobre · lugar | seguir + gerundio (sembrado) · de hecho | lista |
-| B0007 | Nueva + Otra vez | P011 Sharon busca su momento (arco 2, 2/4, narración) + repetición de P007 | momento · buscar · escuchar · tal · tipo | seguir a alguien (E2 sin glosa) · tal vez | lista |
-| B0008 | Nueva + Patrones + Otra vez | P012 ¿Valió la pena? (arco 2, 3/4) + repetición de P008 | alguien · nadie · valer · dinero · mundo | valer la pena (sembrado) · todo el mundo | lista |
+| B0005 | Nueva + Otra vez | P009 ¿Homer es un buen padre? (arco 1, 5/5) + repetición de P006 | dios · vida · hijo · padre · tomar (ya marcadas como conocidas; se dejó porque estaba en curso) | llevo + gerundio (reciclado) | en curso |
+| B0006 | Nueva + Patrones | P010 Diez kilómetros en el Sena (arco 2, 1/4; primer voseo) | tratar · maldito · aquel · sitio · daño | seguir + gerundio (sembrado) · tratar de + inf. (oído) | lista (CAP-565) |
+| B0007 | Nueva + Otra vez | P011 Dos horas de pelea (arco 2, 2/4, narración) + repetición de P007 | caja · dirigir · droga · pelear · ataque | tratar de (reciclado, sin glosa) | lista (CAP-565) |
+| B0008 | Nueva + Patrones + Otra vez | P012 Golpes en el agua (arco 2, 3/4) + repetición de P008 | cubrir · quemar · espalda · engañar · golpe | valer la pena (sembrado) | lista (CAP-565) |
 
-**Siguiente lote (B0009–):** P013 cierra el arco 2 (¿y vos?: las travesías de Eva —ya contó Puerto Rico—; el 10 km masculino, Rasovszky). Luego arco 3 (*Parks and Recreation*, «Harvest Festival»), comprobando la trama antes de escribir. Palabras: seguir `next_new` en orden (primero *matar*, *morir* si el arco lo permite; si no, madre, vivir, tratar, quizá, parte…).
+**Siguiente lote (B0009–):** P013 «¿Valió la pena?» (el Sena antes y después: prohibido desde 1923, ~1.400 M€, el enfado por el gasto, Hidalgo nada el 17-07-2024 con Estanguet, baño público desde el 5-07-2025) con *enojar, pertenecer, doble, batalla, majestad* (borrador listo en `pieces/borradores/P013-valio-la-pena.md`; revisar antes de usar). Después, P014 cierra el arco 2 (¿y vos?: las travesías de Eva; el 10 km masculino, Rasovszky) con *cuello, fijar, acaso, quieto, ocultar*. Luego arco 3 (*Parks and Recreation*, «Harvest Festival»). Palabras: siempre `to_learn` en orden.
 
 **Voces del audio:** el bot lee **A con voz femenina (Paulina)** y **B con voz masculina (Eddy)**. P001 tenía A = Andrés (voz femenina); desde P005, **A = Eva y B = Andrés**, y las narraciones sin A:/B: van con la voz femenina.
 
@@ -57,9 +58,10 @@ Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la l
 | me parece / me pareció | P007 / B0003 | P007 (B0003, B0007), P008 (B0004, B0008), P009 (B0005) | 0 | sembrando |
 | llevo + tiempo + gerundio | P001 | P001 (B0003) | 0 | sembrando |
 | estar de acuerdo (con) | P008 / B0004 | P008 (B0004, B0008) | 0 | sembrando |
-| seguir + gerundio | P010 / B0006 | P010, P011 («la sigue») | 0 | sembrando |
+| seguir + gerundio | P010 / B0006 | P010 («seguís nadando», Patrones) | 0 | sembrando |
+| tratar de + inf. | P010 / B0006 | P010, P011 | 0 | sembrando |
 | voseo (oído) | P010 / B0006 | P010, P011 (H1), P012 |
-| valer la pena | P012 / B0008 | P012 | 0 | sembrando |
+| valer la pena | P012 / B0008 | P012 (Patrones y audio) | 0 | sembrando |
 | volver a + inf. | P007 / B0003 | P007 | 0 | oído | — | solo escucha; aceptarlo siempre |
 
 ## Calendario de piezas (método diario, histórico)
