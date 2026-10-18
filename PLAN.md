@@ -9,7 +9,7 @@
 **Your % = how much of the 4,000 you've covered.** A word counts as covered when you've *shown* it, never just because José used it:
 1. **You understood it:** it was in 2 pieces, on 2 different days, where you got the gist (José judges your answer to the gist question against his notes; English or Spanish both work).
 2. **Or you used it correctly** in your own messages or voice notes.
-3. **No test.** Your coverage is built only from what you show in the pieces. Your lessons of 12–17 October already count.
+3. **Or you marked it as known in the word picker** (`/palabras` on Telegram). You see the upcoming list words as buttons and tap the ones you *don't* know. Those become José's new words; the rest are counted as known. There's no test: everything else comes from what you show in the pieces, and your lessons of 12–17 October already count.
 
 Your 06:00 and 19:00 messages show:
 - the % covered;
@@ -24,7 +24,7 @@ Covering these 4,000 words lines up with the research on B2: about 4,000–5,000
 ## How it runs
 
 - **On demand.** There's no daily lesson. Press ▶️ *Siguiente pieza* (or `/siguiente`) whenever you like, and keep going as long as you want. José keeps 3 or more pieces ready ahead of you, so the next one is instant.
-- **06:00:** your % and yesterday's progress. **19:00:** today's pieces, families gained, your %, your streak, and the date you'll reach B2 at this week's pace.
+- **06:00:** your % and yesterday's progress. **19:00:** today's pieces, list words gained, your %, your streak, and the date you'll finish the list at this week's pace. Ask "¿cómo voy?" (or `/progreso`) any time.
 - **14:00:** no message any more. Replays are built into the pieces instead.
 
 ## A piece (5–8 minutes)
@@ -52,7 +52,7 @@ Covering these 4,000 words lines up with the research on B2: about 4,000–5,000
 
 Grammar is never taught as rules. Each structure is **seeded**: it first shows up in a *Patrones* set, then in at least 8 later pieces over at least 3 weeks. José treats it as **absorbed** once you've used it correctly, unprompted, twice. The B1/B2 grammar books are José's private checklist, so nothing is missed.
 
-| Stage | Families | Structures seeded (through examples, never rules) | Vocabulary focus |
+| Stage | Words covered | Structures seeded (through examples, never rules) | Vocabulary focus |
 |---|---|---|---|
 | **1. Core** | up to 1,500 | present; *ir a* + inf.; *acabar de*; *llevar* + gerund; past stories (*fui / iba*); *ser* and *estar*; *gustar* and similar verbs; object pronouns; *por / para* in fixed phrases | everyday life, swimming, food, Cali |
 | **2. B1** | 1,500–2,500 | future and conditional; present perfect; present subjunctive after *quiero que, para que, cuando* + future, *ojalá, es importante que*; commands (*tú / usted / ustedes*); *que / donde / lo que*; impersonal *se*; *soler, volver a, dejar de, seguir* + gerund, *estar a punto de* | work, travel, TV and film plots, sport, Olympics |
