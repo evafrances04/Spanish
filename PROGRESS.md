@@ -11,11 +11,17 @@
 | 2026-10-17 | P001 Me tocó madrugar | 70 % | (B0003) | Primera lección del método nuevo. Captó la idea general; se le escapó el detalle de *The West Wing*. Preguntó por *pagar el tinto*, *pereza*, *uno extraña*. Señaló con razón que Cali no tiene mar. |
 | 2026-10-17 | P005 El capítulo del monorriel (B0001) | 90 % | (B0003) | Idea general correcta (Marge quiere reparar la calle; la ciudad compra el monorriel). Usó *pensar que* sin ayuda (P2: «Pienso que comprar un monorriel es una mala idea…») y aportó que el guion es de Conan O'Brien. Errores menores, con recast: *escritoro* → escritor, «la calle necesita reparar». |
 | 2026-10-17 | P006 A Homer le toca (B0002) | 100 % («entendí todo») | (B0005) | Idea general «partial» en la E2 (captó que Homer es el conductor y que Marge encuentra a un hombre que ayuda; no mencionó qué piensa Marge de Lanley). En la H1 contó su travesía en Puerto Rico (Tres Palmas → Cabo Rojo, 15 h) y usó *encontré*, *estaba muy contenta pero muy cansada*, *dormí como un tronco* después de preguntar qué significa. |
+| 2026-10-18 | P010 Diez kilómetros en el Sena (B0006) | 80 % | (B0010) | Idea general «partial» y luego «good» (el agua del Sena; ganó Sharon van Rouwendaal, Moesha a unos cinco segundos). Preguntó qué es *sigo* y lo usó enseguida: «Sigo entrenando en el gimnasio todos los días» (recast). |
+| 2026-10-18 | P011 Dos horas de pelea (B0007) | — | (B0011) | No dio %: preguntó por *acordás* y *recuerdo*, y contó su travesía de Italia a Albania (35 h; comía cada hora; gelato, cree que de fresa). |
+| 2026-10-18 | P012 Golpes en el agua (B0008) | 70 % | (B0012) | Idea general «good» (ir detrás no es trampa, es estrategia). Preguntó *golpes*, *engañar*, *vale la pena*; usó sola «El monorriel no valió la pena» y contó que en su travesía nadó sola, con muchas medusas. |
+| 2026-10-18 | P013 ¿Valió la pena? (B0009) | 70 % | (B0013) | Idea general «poor»: no captó el nombre de Anne Hidalgo y entendió «limpió la cena». Pidió las transcripciones (Sena y Homer). Buena respuesta final: «valió la pena porque la gente puede nadar en verano… importante para la comunidad». |
 | 2026-10-18 | P009 ¿Homer es un buen padre? (B0005) | 90 % | (B0009) | Idea general «partial»: captó que Homer no es un padre perfecto, los tres hijos y que «la vida con Homer nunca es tranquila»; la decisión imposible (*Los Simpson* o *The West Wing*) la contó en un segundo mensaje. Dijo sola «llevo toda la vida haciendo nadando» (recast: *llevo toda la vida nadando*): primer uso espontáneo de *llevar* + gerundio. B0003 y B0004 se cerraron sin respuestas (el bot las marcó como terminadas a las 06:25 y 06:40), así que no hay % de P007 ni P008. |
 
 Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la lista por pieza**. 1.ª escucha < 85 % → todo lo demás más fácil (más lento, tema más familiar, más reciclado); ~100 % → más largo, más rápido, habla más natural. Si baja de ~80 % dos veces seguidas, se mantienen las 5 y se simplifica lo demás (anotarlo aquí). Objetivo: 85–95 %.
 
 ## Decisiones de ritmo
+
+- 2026-10-18 (mañana), CAP-569 — **más fácil, y canción + historia.** 1.ª escucha: 90 % (P009), 80 % (P010), **70 % (P012), 70 % (P013, idea general «poor»)**: dos veces por debajo de 80 % → se mantienen las 5 palabras y se simplifica lo demás. **B0011 y B0012 (sin empezar) reescritas**: P015 de ~225 a ~155 palabras, P016 de ~245 a ~175; frases más cortas, sin subtramas (fuera Ben, April, Tom y Jerry), menos palabras raras (*presión, documental, famoso, robar*). Mismas palabras nuevas. B0010 no se tocó (es `current`). En `to_learn` solo quedan *amenaza* e *involucrar* → no se puede hacer una pieza de 5: **B0013 = Canción** (Grupo Niche, «Cali pachanguero», presentada por Andrés en ~120 palabras conocidas) y **B0014 = Historia** («Eva y el mar», ~165 palabras, solo conocidas, sobre su travesía de Italia a Albania tal como la contó). **B0015–B0016 no se escriben** hasta que el selector traiga palabras (el bot se lo ofrece). Las narraciones nuevas llevan `B:` para que las lea Gonzalo. Arreglo en el bot: `request_rewrite_for_new_words` ya no pide reescribir canciones e historias por no tener `list_new` (copia: `jose_bot.py.bak-2026-10-18-before-cap569`). Si la 1.ª escucha vuelve a 85 % o más, se alargan otra vez los audios poco a poco.
 
 - 2026-10-18 (mañana), CAP-566 — **lote B0009–B0012.** Últimas 1.as escuchas: 90 % (P005), 100 % (P006), 90 % (P009, idea general «partial»): dentro del objetivo, así que **no se reescribe nada** (B0006–B0008, aún sin empezar, ya tienen este nivel) y se mantiene el ritmo: 5 palabras de `to_learn` en orden, audios de ~200–245 palabras, frases cortas, la E2 apoyada en una palabra reciente sin glosa (B0009 *dirigir*, B0010 *atacar/ataque*, B0012 *maldito*). Palabras: enojar, pertenecer, doble, batalla, majestad · cuello, fijar, acaso, quieto, ocultar · encerrar, obviamente, vacío, perseguir, grabar · faltar, escoger, cuchillo, robo, líder. Quedan en `to_learn`: amenaza, involucrar (si no llegan más del selector, la próxima pieza tendrá solo 2 nuevas, o el bot le ofrece el selector). Se cierra el arco 2 (Sena) y empieza el arco 3 (*Parks and Rec*, «Harvest Festival»). Se evitaron palabras fuera de la lista que no son transparentes (*maíz, alcalde, temporada, esquina, alegría, siguiente, gastar*). Si P013 o P014 bajan de 85 %, la pieza siguiente se acorta (~150 palabras) y se recicla más. **Aviso técnico:** el bot asocia *robo* a la familia *robar* (y *juego* → *jugar*, *limpiar* → *limpio*), así que *robo* puede no marcarse como cubierta aunque salga en dos piezas; revisar `to_top` en el bot.
 
@@ -46,14 +52,16 @@ Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la l
 | B0008 | Nueva + Patrones + Otra vez | P012 Golpes en el agua (arco 2, 3/4) + repetición de P008 | cubrir · quemar · espalda · engañar · golpe | valer la pena (sembrado) | lista (CAP-565) |
 | B0009 | Nueva + Otra vez + Patrones | P013 ¿Valió la pena? (arco 2, 4/5) + repetición de P009 | enojar · pertenecer · doble · batalla · majestad | a X le gusta / le pertenece (sembrado) · valer la pena (reciclado) | lista (CAP-566) |
 | B0010 | Nueva + Otra vez + Patrones | P014 ¿Y vos, Eva? (arco 2, 5/5; 10 km masculino y sus travesías) + repetición de P010 | cuello · fijar · acaso · quieto · ocultar | acabar de + inf. (sembrado) · tratar de, seguir + gerundio (reciclados) | lista (CAP-566) |
-| B0011 | Nueva + Otra vez | P015 El festival de Leslie (arco 3, 1/4) + repetición de P011 | encerrar · obviamente · vacío · perseguir · grabar | lo (oído) | lista (CAP-566) |
-| B0012 | Nueva + Otra vez + Patrones | P016 Un festival maldito (arco 3, 2/4, narración) + repetición de P012 | faltar · escoger · cuchillo · robo · líder | lo / la, pronombres de objeto (sembrado) | lista (CAP-566) |
+| B0011 | Nueva + Otra vez | P015 El festival de Leslie (arco 3, 1/4) + repetición de P011 | encerrar · obviamente · vacío · perseguir · grabar | lo (oído) | lista (CAP-566; acortada en CAP-569) |
+| B0012 | Nueva + Otra vez + Patrones | P016 Un festival maldito (arco 3, 2/4, narración) + repetición de P012 | faltar · escoger · cuchillo · robo · líder | lo / la, pronombres de objeto (sembrado) | lista (CAP-566; acortada en CAP-569) |
+| B0013 | Canción + Otra vez | P017 La canción de Cali (Grupo Niche, «Cali pachanguero») + repetición de P013 | — (ninguna) | lo / la (reciclado: la canta, ¿la bailás?) | lista (CAP-569) |
+| B0014 | Historia + Otra vez | P018 Eva y el mar (solo palabras conocidas) + repetición de P014 | — (ninguna) | llevar + gerundio, seguir + gerundio (reciclados) | lista (CAP-569) |
 
-**Siguiente lote (B0013–):** P017 y P018 cierran el arco 3 (la rueda de Chicago y el generador del casino; «¿y vos qué habrías hecho?»), con amenaza, involucrar y lo que llegue del selector. Después, arco 4 (los Beatles en *The Ed Sullivan Show*) y la primera **Canción** hacia la pieza 13–15. Palabras: siempre `to_learn` en orden.
+**Siguiente lote (B0015–), cuando lleguen palabras del selector:** P019 y P020 cierran el arco 3 (la rueda de Chicago y el generador del casino; «¿y vos qué habrías hecho?»), con amenaza, involucrar y lo que llegue del selector. Después, arco 4 (los Beatles en *The Ed Sullivan Show*) y la primera **Canción** hacia la pieza 13–15. Palabras: siempre `to_learn` en orden.
 
-**Voces del audio:** el bot lee **A con voz femenina (Paulina)** y **B con voz masculina (Eddy)**. P001 tenía A = Andrés (voz femenina); desde P005, **A = Eva y B = Andrés**, y las narraciones sin A:/B: van con la voz femenina.
+**Voces del audio (desde el 18-10):** voces colombianas: **A = Salomé** (Eva) y **B = Gonzalo** (Andrés y narradores); las líneas sin A:/B: las lee Salomé, así que las narraciones nuevas llevan `B:`. Antes: Paulina / Eddy. P001 tenía A = Andrés (voz femenina); desde P005, **A = Eva y B = Andrés**, y las narraciones sin A:/B: van con la voz femenina.
 
-**Repeticiones previstas** (≈1 día, 4 días, 2 semanas; ahora como sección «Otra vez» dentro de una pieza nueva): P005 → B0003 · P001 → B0004 · P006 → B0005 · P007 → B0007 · P008 → B0008. P009 → B0009 · P010 → B0010 · P011 → B0011 · P012 → B0012. Pendientes: P013–P016 (≈1 día, en B0013–B0016) y las de 4 días / 2 semanas de P005–P012 (~21-10 / ~22-10 y ~31-10 / ~1-11).
+**Repeticiones previstas** (≈1 día, 4 días, 2 semanas; ahora como sección «Otra vez» dentro de una pieza nueva): P005 → B0003 · P001 → B0004 · P006 → B0005 · P007 → B0007 · P008 → B0008. P009 → B0009 · P010 → B0010 · P011 → B0011 · P012 → B0012. P013 → B0013 · P014 → B0014. Pendientes: P015–P018 (≈1 día, en las próximas piezas) y las de 4 días / 2 semanas de P005–P012 (~21-10 / ~22-10 y ~31-10 / ~1-11).
 
 ## Estructuras sembradas
 
@@ -65,13 +73,13 @@ Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la l
 | me parece / me pareció | P007 / B0003 | P007 (B0003, B0007), P008 (B0004, B0008), P009 (B0005) | 0 | sembrando |
 | llevo + tiempo + gerundio | P001 | P001 (B0003), P009 (B0005, B0009) | 1 (18-10, B0005: «llevo toda la vida haciendo nadando», sin ayuda) | sembrando |
 | estar de acuerdo (con) | P008 / B0004 | P008 (B0004, B0008) | 0 | sembrando |
-| seguir + gerundio | P010 / B0006 | P010 («seguís nadando», Patrones), P014 («hay que seguir nadando») | 0 | sembrando |
+| seguir + gerundio | P010 / B0006 | P010 («seguís nadando», Patrones), P014 («hay que seguir nadando»), P018 («siguió nadando») | 1 (18-10, B0006: «Sigo entrenado [entrenando] a la gimnasium todos los días», justo después de preguntar qué es *sigo*: no cuenta como espontáneo) | sembrando |
 | tratar de + inf. | P010 / B0006 | P010, P011, P014 | 0 | sembrando |
 | voseo (oído) | P010 / B0006 | P010, P011 (H1), P012 |
 | valer la pena | P012 / B0008 | P012 (Patrones y audio; B0012), P013 (título y H2) | 0 | sembrando |
 | a X le gusta / le pertenece (gustar y parecidos) | P013 / B0009 | P013 (Patrones y audio) | 0 | sembrando |
 | acabar de + inf. (chuleta n.º 4) | P014 / B0010 | P014 (Patrones y audio) | 0 | sembrando |
-| lo / la (pronombres de objeto) | P016 / B0012 | P015 («lo graba todo»), P016 (Patrones y audio) | 0 | sembrando |
+| lo / la (pronombres de objeto) | P016 / B0012 | P015 («lo quiere», «lo tienen encerrado»), P016 (Patrones y audio), P017 («la canta», «¿la bailás?») | 0 | sembrando |
 | volver a + inf. | P007 / B0003 | P007 | 0 | oído | — | solo escucha; aceptarlo siempre |
 
 ## Calendario de piezas (método diario, histórico)
@@ -91,6 +99,7 @@ Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la l
 
 ## Lo que Eva ha dicho
 
+- 2026-10-18 (B0007–B0009): su mejor recuerdo nadando es la travesía de Italia a Albania: 35 horas en el agua, comía cada hora (agua y electrolitos), lo más rico fue un gelato (cree que de fresa); nadó sola, sin golpes, pero con muchas medusas. Su sitio favorito para nadar es el mar, en Coogee. Entrena en el gimnasio todos los días. Cree que limpiar el Sena valió la pena para la comunidad. Pidió ver transcripciones cuando no entendía palabras.
 - 2026-10-18 (B0005): no se decide entre *Los Simpson* y *The West Wing* como su serie favorita. Lleva toda la vida nadando.
 - 2026-10-17 (B0002): travesía en Puerto Rico, de Tres Palmas a Cabo Rojo, 15 horas; al salir comió churrasco y fue a un karaoke.
 - 2026-10-17: aprende por inmersión; no retiene reglas ni tablas; muy buena memoria auditiva (ritmo, entonación); reconoce patrones. Intereses para las piezas: Sydney, política y RR. II., *Game of Thrones*, *The West Wing*, *The Simpsons*, *Parks and Recreation*, *30 Rock*, *The Walking Dead*, cine clásico y los Óscar, los Juegos Olímpicos, los Beatles, el teatro musical (Sondheim), natación en aguas abiertas, derecho, derechos humanos, Latinoamérica y Cali.
