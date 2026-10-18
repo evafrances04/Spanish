@@ -33,16 +33,16 @@ Covering these 4,000 words lines up with the research on B2: about 4,000–5,000
 |---|---|---|
 | **Nueva** | New audio (45–90 s, later up to 2 min) on a topic you know → how much did you understand (%) → one gist question → 2–3 shadowing sentences (slow, then normal) | most pieces |
 | **Patrones** (part of a Nueva) | 4–6 spoken examples that differ in one way; you notice the pattern. No rule named unless you ask | when a new structure arrives |
-| **Otra vez** (a section inside new pieces) | An earlier audio replayed exactly as before, just to listen (the % question is for the new audio, so your first-listen trend stays honest) | regularly, so every piece still brings 5 new words |
+| **Otra vez** (a section inside new pieces) | An earlier audio replayed exactly as before, just to listen (the % question is for the new audio, so your first-listen trend stays honest) | occasionally (at most 1 piece in 5, never two in a row): words come back mainly through new contexts |
 | **Canción** | A real song (YouTube search link), 1–3 words from it in context → % | about every 10th |
 | **Historia** | A longer story built only from words you already know: pure fluency | about every 15th |
 
-**Arcs (from 2026-10-17):** pieces come in arcs of 3–5 around one of your topics, in depth: a specific TV episode, a film, an Oscars night, an Olympic race, a Beatles moment, a Sondheim show, a human-rights case. Usually: (1) Eva and Andrés chat about the setup, (2) a retelling of the key scenes, (3) a character or moment in detail, (4) behind the scenes or the real-world context, (5) "what would you have done?". Pieces in an arc share words and names, so they recycle naturally. Lighter arcs first (*The Simpsons*, *Parks and Rec*, *30 Rock*, the Olympics, swimming, the Beatles), denser ones later (*The West Wing*, *Game of Thrones*, human rights, Sondheim). Facts are checked; plots are retold in José's own words. The plan of arcs is in `topics.md`. First arc: *The Simpsons*, "Marge vs. the Monorail" (season 4, episode 12).
+**Variety (from 2026-10-18, your decision):** every piece is about a **different subject**, in detail: a specific TV episode, a film, an Oscars moment, an Olympic race, a Beatles story, a Sondheim show, a human-rights case, a moment in international relations, a Sydney or Cali scene, or a swim. No arcs: a subject comes back only after at least 15 other pieces, and from a new angle. **Repetition comes from the words, not the story:** your new and recent words come back in different topics, which is how you show you really know them. Your own stories (what you tell José) turn up now and then in new settings, never retold the same way. Lighter subjects first, denser ones (*The West Wing*, *Game of Thrones*, human rights, Sondheim) once your first listen is steady at 85% or more. Facts are checked; plots are retold in José's own words. The rotation and the subjects already used are in `topics.md`.
 
 **Rules for every piece:**
 - You understand nearly all of it. **5 new words from your list in every piece**, and everything else is familiar.
 - 4–8 recently met words are recycled in each new piece.
-- Each audio comes back about 1 day, 4 days and 2 weeks later.
+- An earlier audio is replayed only occasionally; your words come back inside new stories instead.
 - Mistakes are answered with a natural recast. Nothing is marked.
 - **Calibration:** if your first-listen % is below about 85, the next pieces get easier. Near 100%, they get harder (longer, faster, more natural speech); the new words stay at 5. If it drops below about 80% twice in a row, the 5 stay but everything around them gets easier.
 
