@@ -11,10 +11,13 @@
 | 2026-10-17 | P001 Me tocó madrugar | 70 % | (B0003) | Primera lección del método nuevo. Captó la idea general; se le escapó el detalle de *The West Wing*. Preguntó por *pagar el tinto*, *pereza*, *uno extraña*. Señaló con razón que Cali no tiene mar. |
 | 2026-10-17 | P005 El capítulo del monorriel (B0001) | 90 % | (B0003) | Idea general correcta (Marge quiere reparar la calle; la ciudad compra el monorriel). Usó *pensar que* sin ayuda (P2: «Pienso que comprar un monorriel es una mala idea…») y aportó que el guion es de Conan O'Brien. Errores menores, con recast: *escritoro* → escritor, «la calle necesita reparar». |
 | 2026-10-17 | P006 A Homer le toca (B0002) | 100 % («entendí todo») | (B0005) | Idea general «partial» en la E2 (captó que Homer es el conductor y que Marge encuentra a un hombre que ayuda; no mencionó qué piensa Marge de Lanley). En la H1 contó su travesía en Puerto Rico (Tres Palmas → Cabo Rojo, 15 h) y usó *encontré*, *estaba muy contenta pero muy cansada*, *dormí como un tronco* después de preguntar qué significa. |
+| 2026-10-18 | P009 ¿Homer es un buen padre? (B0005) | 90 % | (B0009) | Idea general «partial»: captó que Homer no es un padre perfecto, los tres hijos y que «la vida con Homer nunca es tranquila»; la decisión imposible (*Los Simpson* o *The West Wing*) la contó en un segundo mensaje. Dijo sola «llevo toda la vida haciendo nadando» (recast: *llevo toda la vida nadando*): primer uso espontáneo de *llevar* + gerundio. B0003 y B0004 se cerraron sin respuestas (el bot las marcó como terminadas a las 06:25 y 06:40), así que no hay % de P007 ni P008. |
 
 Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la lista por pieza**. 1.ª escucha < 85 % → todo lo demás más fácil (más lento, tema más familiar, más reciclado); ~100 % → más largo, más rápido, habla más natural. Si baja de ~80 % dos veces seguidas, se mantienen las 5 y se simplifica lo demás (anotarlo aquí). Objetivo: 85–95 %.
 
 ## Decisiones de ritmo
+
+- 2026-10-18 (mañana), CAP-566 — **lote B0009–B0012.** Últimas 1.as escuchas: 90 % (P005), 100 % (P006), 90 % (P009, idea general «partial»): dentro del objetivo, así que **no se reescribe nada** (B0006–B0008, aún sin empezar, ya tienen este nivel) y se mantiene el ritmo: 5 palabras de `to_learn` en orden, audios de ~200–245 palabras, frases cortas, la E2 apoyada en una palabra reciente sin glosa (B0009 *dirigir*, B0010 *atacar/ataque*, B0012 *maldito*). Palabras: enojar, pertenecer, doble, batalla, majestad · cuello, fijar, acaso, quieto, ocultar · encerrar, obviamente, vacío, perseguir, grabar · faltar, escoger, cuchillo, robo, líder. Quedan en `to_learn`: amenaza, involucrar (si no llegan más del selector, la próxima pieza tendrá solo 2 nuevas, o el bot le ofrece el selector). Se cierra el arco 2 (Sena) y empieza el arco 3 (*Parks and Rec*, «Harvest Festival»). Se evitaron palabras fuera de la lista que no son transparentes (*maíz, alcalde, temporada, esquina, alegría, siguiente, gastar*). Si P013 o P014 bajan de 85 %, la pieza siguiente se acorta (~150 palabras) y se recicla más. **Aviso técnico:** el bot asocia *robo* a la familia *robar* (y *juego* → *jugar*, *limpiar* → *limpio*), así que *robo* puede no marcarse como cubierta aunque salga en dos piezas; revisar `to_top` en el bot.
 
 - 2026-10-18 (mañana), CAP-565 — **palabras del selector.** Eva marcó en el selector de palabras cuáles ya conoce; ahora las 5 nuevas de cada pieza salen **solo de `to_learn`, en su orden** (37 palabras: tratar, maldito, aquel, sitio, daño, caja, dirigir…). Todas las palabras nuevas de B0005–B0008 (dios, vida… alguien, nadie…) las marcó como conocidas. **B0005 se dejó como estaba:** ya estaba en curso (`current`) cuando se reescribía. **B0006–B0008 reescritas** con las 15 siguientes, en orden: tratar, maldito, aquel, sitio, daño · caja, dirigir, droga, pelear, ataque · cubrir, quemar, espalda, engañar, golpe. Se mantiene el arco 2 (Sena), con otro reparto: P010 el agua y quién ganó · P011 el relato de la carrera · P012 cómo es nadar en grupo (golpes, ir detrás). El «¿valió la pena?» pasa a P013 (B0009) con *enojar, pertenecer, doble, batalla, majestad* (borrador en `pieces/borradores/`). Cada pieza recicla de `heard_not_yet_shown` (televisión, contaminar, kilómetro, entrenar…) y el resto son palabras que ya conoce; se quitaron *lluvia, agosto, puente, italiano, cien, euro, caro, entero, veinte* para no pasar de 5 nuevas. Con 90–100 % en la 1.ª escucha, los audios se alargan un poco (P010 ≈190 palabras, P011 ≈215, P012 ≈140). Copia de las versiones anteriores: `~/.config/jose` → carpeta de trabajo de CAP-565 (`bak-cap565`).
 - 2026-10-17 (noche), CAP-564 — **5 palabras nuevas por pieza** (decisión de Eva) y las repeticiones dentro de las piezas nuevas. Eva terminó B0001 (90 %) y B0002 (100 %), así que se reescribieron **las seis piezas en cola, B0003–B0008**, antes de que empezara ninguna. Palabras en orden de rango de `next_new` (saltando las que ya domina: qué, del, al, ya, algo, cómo, otro, gracias, cosa, hola, quién, mejor, dónde, oh, favor, trabajo): nuestro, mirar, volver, parecer, llamar · alguno, mismo, nuevo, hasta, acuerdo · dios, vida, hijo, padre, tomar · seguir, hecho, seguro, sobre, lugar · momento, buscar, escuchar, tal, tipo · alguien, nadie, valer, dinero, mundo. **Se dejaron para un arco donde encajen:** *matar* (128) y *morir* (149) (*The Walking Dead* / *Game of Thrones*). Se quitaron *carrera* y *contra* de las piezas del Sena para no pasar de 5 nuevas. Con 90–100 % en la 1.ª escucha, el resto se mantiene sencillo (frases cortas, temas muy conocidos) mientras se estrena el ritmo de 5. Las secciones «Otra vez» no piden porcentaje, para que la tendencia de 1.ª escucha siga siendo honesta. Copia de las versiones antiguas: `~/.config/jose-bak-cap564/`.
@@ -37,16 +40,20 @@ Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la l
 | B0002 | Nueva | P006 A Homer le toca (arco 1, 2/4, narración) | encontrar | le toca + inf. (reciclado) | hecha |
 | B0003 | Nueva + Patrones + Otra vez | P007 ¿Qué te pareció el final? (arco 1, 3/5) + repetición de P005 | nuestro · mirar · volver · parecer · llamar | me parece / me pareció (sembrado) · volver a + inf. (oído) | lista |
 | B0004 | Nueva + Patrones + Otra vez | P008 ¿Monorriel o calle? (arco 1, 4/5; Sydney 1988–2013) + repetición de P001 | alguno · mismo · nuevo · hasta · acuerdo | estar de acuerdo (sembrado) · lo mismo · desde…hasta | lista |
-| B0005 | Nueva + Otra vez | P009 ¿Homer es un buen padre? (arco 1, 5/5) + repetición de P006 | dios · vida · hijo · padre · tomar (ya marcadas como conocidas; se dejó porque estaba en curso) | llevo + gerundio (reciclado) | en curso |
+| B0005 | Nueva + Otra vez | P009 ¿Homer es un buen padre? (arco 1, 5/5) + repetición de P006 | dios · vida · hijo · padre · tomar (ya marcadas como conocidas; se dejó porque estaba en curso) | llevo + gerundio (reciclado) | hecha (90 %) |
 | B0006 | Nueva + Patrones | P010 Diez kilómetros en el Sena (arco 2, 1/4; primer voseo) | tratar · maldito · aquel · sitio · daño | seguir + gerundio (sembrado) · tratar de + inf. (oído) | lista (CAP-565) |
 | B0007 | Nueva + Otra vez | P011 Dos horas de pelea (arco 2, 2/4, narración) + repetición de P007 | caja · dirigir · droga · pelear · ataque | tratar de (reciclado, sin glosa) | lista (CAP-565) |
 | B0008 | Nueva + Patrones + Otra vez | P012 Golpes en el agua (arco 2, 3/4) + repetición de P008 | cubrir · quemar · espalda · engañar · golpe | valer la pena (sembrado) | lista (CAP-565) |
+| B0009 | Nueva + Otra vez + Patrones | P013 ¿Valió la pena? (arco 2, 4/5) + repetición de P009 | enojar · pertenecer · doble · batalla · majestad | a X le gusta / le pertenece (sembrado) · valer la pena (reciclado) | lista (CAP-566) |
+| B0010 | Nueva + Otra vez + Patrones | P014 ¿Y vos, Eva? (arco 2, 5/5; 10 km masculino y sus travesías) + repetición de P010 | cuello · fijar · acaso · quieto · ocultar | acabar de + inf. (sembrado) · tratar de, seguir + gerundio (reciclados) | lista (CAP-566) |
+| B0011 | Nueva + Otra vez | P015 El festival de Leslie (arco 3, 1/4) + repetición de P011 | encerrar · obviamente · vacío · perseguir · grabar | lo (oído) | lista (CAP-566) |
+| B0012 | Nueva + Otra vez + Patrones | P016 Un festival maldito (arco 3, 2/4, narración) + repetición de P012 | faltar · escoger · cuchillo · robo · líder | lo / la, pronombres de objeto (sembrado) | lista (CAP-566) |
 
-**Siguiente lote (B0009–):** P013 «¿Valió la pena?» (el Sena antes y después: prohibido desde 1923, ~1.400 M€, el enfado por el gasto, Hidalgo nada el 17-07-2024 con Estanguet, baño público desde el 5-07-2025) con *enojar, pertenecer, doble, batalla, majestad* (borrador listo en `pieces/borradores/P013-valio-la-pena.md`; revisar antes de usar). Después, P014 cierra el arco 2 (¿y vos?: las travesías de Eva; el 10 km masculino, Rasovszky) con *cuello, fijar, acaso, quieto, ocultar*. Luego arco 3 (*Parks and Recreation*, «Harvest Festival»). Palabras: siempre `to_learn` en orden.
+**Siguiente lote (B0013–):** P017 y P018 cierran el arco 3 (la rueda de Chicago y el generador del casino; «¿y vos qué habrías hecho?»), con amenaza, involucrar y lo que llegue del selector. Después, arco 4 (los Beatles en *The Ed Sullivan Show*) y la primera **Canción** hacia la pieza 13–15. Palabras: siempre `to_learn` en orden.
 
 **Voces del audio:** el bot lee **A con voz femenina (Paulina)** y **B con voz masculina (Eddy)**. P001 tenía A = Andrés (voz femenina); desde P005, **A = Eva y B = Andrés**, y las narraciones sin A:/B: van con la voz femenina.
 
-**Repeticiones previstas** (≈1 día, 4 días, 2 semanas; ahora como sección «Otra vez» dentro de una pieza nueva): P005 → B0003 · P001 → B0004 · P006 → B0005 · P007 → B0007 · P008 → B0008. Pendientes: P009, P010, P011, P012 (≈1 día después) y las de 4 días / 2 semanas de P005–P008 (~21-10 y ~31-10).
+**Repeticiones previstas** (≈1 día, 4 días, 2 semanas; ahora como sección «Otra vez» dentro de una pieza nueva): P005 → B0003 · P001 → B0004 · P006 → B0005 · P007 → B0007 · P008 → B0008. P009 → B0009 · P010 → B0010 · P011 → B0011 · P012 → B0012. Pendientes: P013–P016 (≈1 día, en B0013–B0016) y las de 4 días / 2 semanas de P005–P012 (~21-10 / ~22-10 y ~31-10 / ~1-11).
 
 ## Estructuras sembradas
 
@@ -56,12 +63,15 @@ Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la l
 | acabo de + inf. | (P003 en reserva, no emitida) | — | 0 | pendiente |
 | pensar que + frase | P005 / B0001 | P005 (B0001, B0003), P006 (B0006), P008, P009 | 1 (17-10, B0001 P2: «Pienso que comprando [comprar] un monorriel es una mala idea», tras el modelo) | sembrando |
 | me parece / me pareció | P007 / B0003 | P007 (B0003, B0007), P008 (B0004, B0008), P009 (B0005) | 0 | sembrando |
-| llevo + tiempo + gerundio | P001 | P001 (B0003) | 0 | sembrando |
+| llevo + tiempo + gerundio | P001 | P001 (B0003), P009 (B0005, B0009) | 1 (18-10, B0005: «llevo toda la vida haciendo nadando», sin ayuda) | sembrando |
 | estar de acuerdo (con) | P008 / B0004 | P008 (B0004, B0008) | 0 | sembrando |
-| seguir + gerundio | P010 / B0006 | P010 («seguís nadando», Patrones) | 0 | sembrando |
-| tratar de + inf. | P010 / B0006 | P010, P011 | 0 | sembrando |
+| seguir + gerundio | P010 / B0006 | P010 («seguís nadando», Patrones), P014 («hay que seguir nadando») | 0 | sembrando |
+| tratar de + inf. | P010 / B0006 | P010, P011, P014 | 0 | sembrando |
 | voseo (oído) | P010 / B0006 | P010, P011 (H1), P012 |
-| valer la pena | P012 / B0008 | P012 (Patrones y audio) | 0 | sembrando |
+| valer la pena | P012 / B0008 | P012 (Patrones y audio; B0012), P013 (título y H2) | 0 | sembrando |
+| a X le gusta / le pertenece (gustar y parecidos) | P013 / B0009 | P013 (Patrones y audio) | 0 | sembrando |
+| acabar de + inf. (chuleta n.º 4) | P014 / B0010 | P014 (Patrones y audio) | 0 | sembrando |
+| lo / la (pronombres de objeto) | P016 / B0012 | P015 («lo graba todo»), P016 (Patrones y audio) | 0 | sembrando |
 | volver a + inf. | P007 / B0003 | P007 | 0 | oído | — | solo escucha; aceptarlo siempre |
 
 ## Calendario de piezas (método diario, histórico)
@@ -81,6 +91,8 @@ Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la l
 
 ## Lo que Eva ha dicho
 
+- 2026-10-18 (B0005): no se decide entre *Los Simpson* y *The West Wing* como su serie favorita. Lleva toda la vida nadando.
+- 2026-10-17 (B0002): travesía en Puerto Rico, de Tres Palmas a Cabo Rojo, 15 horas; al salir comió churrasco y fue a un karaoke.
 - 2026-10-17: aprende por inmersión; no retiene reglas ni tablas; muy buena memoria auditiva (ritmo, entonación); reconoce patrones. Intereses para las piezas: Sydney, política y RR. II., *Game of Thrones*, *The West Wing*, *The Simpsons*, *Parks and Recreation*, *30 Rock*, *The Walking Dead*, cine clásico y los Óscar, los Juegos Olímpicos, los Beatles, el teatro musical (Sondheim), natación en aguas abiertas, derecho, derechos humanos, Latinoamérica y Cali.
 - 2026-10-17 (mañana, método anterior): señaló con razón un error de corrección del bot en RP9 (*una gran abogada*); la lectura de fotos de letra a mano no es fiable.
 
