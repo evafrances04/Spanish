@@ -25,11 +25,11 @@
 | B0013 (P017) | Cine | «Arsenic and Old Lace» (Capra, 1944): las tías, el vino y Teddy | B0029 |
 | B0014 (P018) | Cali | El Gato del Río (Tejada, 1996) y sus novias (2006) | B0030 |
 | B0015 (P019) | Sydney | Apertura del Harbour Bridge (19-03-1932): De Groot corta la cinta; Paul Hogan | B0031 |
-| B0016 (P020) | Teatro musical | «Fiddler on the Roof» (Broadway 1964): Tevye, las hijas, el baile de las botellas | B0032 |
+| B0016 (P020) | Teatro musical | «Les Misérables» (Londres 1985): Valjean, el pan, el hombre de la iglesia, Javert, Fantine (CAP-575; sustituyó a «Fiddler on the Roof», nunca emitida) | B0032 |
 | B0017 (P021) | Cine / Óscar | Óscar 2017: el sobre equivocado («La La Land» / «Moonlight»; Beatty y Dunaway, Horowitz, PwC) | B0033 |
-| B0018 (P022) | TV | *Parks and Recreation*, «Beauty Pageant» (T2 E3, 1-10-2009): Leslie y Tom en el jurado de Miss Pawnee; Susan y Trish; la foto de Madeleine Albright | B0034 |
+| B0018 (P022) | Deporte / Sydney 2000 | Eric Moussambani nada solo los 100 m libre (19-09-2000) (CAP-575; sustituyó a *Parks and Rec*, «Beauty Pageant», nunca emitida) | B0034 |
 
-*Escritas y nunca emitidas (borradas o sustituidas en CAP-570, libres):* *Parks and Recreation*, «Harvest Festival» (T3 E7; antes B0011–B0012); la canción «Cali pachanguero» de Grupo Niche (antes B0013); la historia «Eva y el mar» (antes B0014). Se pueden usar más adelante, sin arco: una pieza cada una.
+*Escritas y nunca emitidas (borradas o sustituidas, libres):* «Fiddler on the Roof» (antes B0016) y *Parks and Recreation*, «Beauty Pageant» (antes B0018), sustituidas en CAP-575; *Parks and Recreation*, «Harvest Festival» (T3 E7; antes B0011–B0012); la canción «Cali pachanguero» de Grupo Niche (antes B0013); la historia «Eva y el mar» (antes B0014). Se pueden usar más adelante, sin arco: una pieza cada una.
 
 ## Reserva de temas sueltos (una pieza cada uno; escoger según las palabras y la rotación)
 
@@ -37,7 +37,6 @@
 |---|---|---|
 | Música | **Los Beatles en The Ed Sullivan Show** (9-02-1964) | Primera aparición en la TV de EE. UU., dos días después de llegar al aeropuerto JFK; ~73 millones de espectadores, récord entonces. |
 | TV | **30 Rock: «Rosemary's Baby»** (T2 E4, 25-10-2007) | Carrie Fisher como Rosemary Howard, ídola de Liz; Jack las despide a las dos; la sesión de «terapia» de Jack con Tracy. |
-| Sydney | **Sydney 2000: Eric «la Anguila» Moussambani** (no antes de B0018) | Guinea Ecuatorial; 100 m libre, 19-09-2000, 1:52.72, nadó solo su serie (los otros dos, descalificados por salida falsa); nunca había visto una piscina de 50 m. |
 | Sydney | **Sydney 2000: Cathy Freeman, oro en 400 m** (no antes de B0018) | Comprobar fecha y detalles antes de escribir. |
 | TV | **30 Rock: «Tracy Does Conan»** (T1 E7, 7-12-2006) | Tracy en el programa de Conan O'Brien; las pastillas del Dr. Leo Spaceman (primera aparición). |
 | Cali | **La Feria de Cali y la salsa** | Comprobar fechas y el Salsódromo antes de escribir. Buena para una **Canción** (Grupo Niche, «Cali pachanguero»; o Joe Arroyo; solo enlace de búsqueda). |
@@ -56,9 +55,11 @@
 | TV / intriga | **Game of Thrones: «The Rains of Castamere»** (T3 E9, 2-06-2013) (denso) | La Boda Roja; David Nutter; la súplica de Catelyn a Walder Frey. |
 | Sydney | Una escena de Sydney (Bondi–Coogee, los baños de mar, el ferry de Manly…) | Solo lo que se pueda comprobar; si se mezcla con la vida de Eva, solo lo que ella haya contado. |
 
-**Siguiente (B0019–):** B0017 fue cine/Óscar y B0018 TV (*Parks and Rec*) → la próxima, ni TV ni cine. Rotación sugerida: música (Beatles/Ed Sullivan, o la canción caleña hacia B0020) → deporte (Sydney 2000 o Diana Nyad; ya libre desde B0018) → Sydney/Cali → derecho/RR. II. (cuando la 1.ª escucha llegue a 85 %). Palabras: en `to_learn` solo quedan *empujar, inútil* (y *magia*, ya cubierta): hace falta que Eva pase por el selector antes de B0019.
+**Siguiente (B0019–):** B0017 fue cine/Óscar y B0018 deporte (Sydney 2000, Moussambani) → la próxima, ni deporte ni cine; nada de Juegos Olímpicos hasta B0021 como mínimo. Rotación sugerida: música (Beatles/Ed Sullivan, o la canción caleña hacia B0020) → TV ligera (*30 Rock*, *Parks and Rec*) → Cali → derecho/RR. II. (cuando la 1.ª escucha llegue a 85 %). Palabras: en `to_learn` siguen, sin usar, *mentiroso, cabrón, atender, pérdida, lucir, entrenador, parecido, traicionar, búsqueda, rezar…* (22, sin contar *amante*, que ya va en B0014).
 
 ## Registro de cambios
+
+- **2026-10-18, CAP-575 — B0016 y B0018 reescritas tras el selector.** B0016: «Les Misérables» (robo, poderoso, arriesgar, belleza, pensamiento). B0018: Eric Moussambani, Sydney 2000 (empujar, magia, inútil, criatura, habilidad). *Amante* no se repitió como nueva: la introduce B0014. Fuentes: Wikipedia *Les Misérables (musical)* y *Jean Valjean*; Broadway Wiki; Swimming World Magazine («The Emergence of Eric the Eel…»); News24/AFP (2020); Central Western Daily; consultadas el 2026-10-18.
 
 - **2026-10-18, CAP-573 — B0017–B0018.** Dos temas, dos categorías: cine/Óscar (el sobre equivocado de 2017) y TV (*Parks and Rec*, «Beauty Pageant»). B0019–B0020 no se escribieron: en `to_learn` solo quedaban 2 palabras sin usar. Fuentes: Wikipedia *89th Academy Awards* y *Beauty Pageant (Parks and Recreation)*; ITV News y Boston.com (comunicado de PwC); consultadas el 2026-10-18.
 
