@@ -13,7 +13,7 @@
 - **Exactitud:** comprobar en la web títulos, temporadas, fechas, ganadores y tramas antes de escribir; si hay duda, se omite o «si no me equivoco…». Nada de guiones ni letras.
 - Canción hacia cada 10.ª pieza; Historia hacia cada 15.ª.
 
-## Usados (B0001–B0016): no vuelven hasta la pieza indicada
+## Usados (B0001–B0018): no vuelven hasta la pieza indicada
 
 | Piezas | Categoría | Tema | Libre de nuevo desde |
 |---|---|---|---|
@@ -26,6 +26,8 @@
 | B0014 (P018) | Cali | El Gato del Río (Tejada, 1996) y sus novias (2006) | B0030 |
 | B0015 (P019) | Sydney | Apertura del Harbour Bridge (19-03-1932): De Groot corta la cinta; Paul Hogan | B0031 |
 | B0016 (P020) | Teatro musical | «Fiddler on the Roof» (Broadway 1964): Tevye, las hijas, el baile de las botellas | B0032 |
+| B0017 (P021) | Cine / Óscar | Óscar 2017: el sobre equivocado («La La Land» / «Moonlight»; Beatty y Dunaway, Horowitz, PwC) | B0033 |
+| B0018 (P022) | TV | *Parks and Recreation*, «Beauty Pageant» (T2 E3, 1-10-2009): Leslie y Tom en el jurado de Miss Pawnee; Susan y Trish; la foto de Madeleine Albright | B0034 |
 
 *Escritas y nunca emitidas (borradas o sustituidas en CAP-570, libres):* *Parks and Recreation*, «Harvest Festival» (T3 E7; antes B0011–B0012); la canción «Cali pachanguero» de Grupo Niche (antes B0013); la historia «Eva y el mar» (antes B0014). Se pueden usar más adelante, sin arco: una pieza cada una.
 
@@ -40,7 +42,6 @@
 | TV | **30 Rock: «Tracy Does Conan»** (T1 E7, 7-12-2006) | Tracy en el programa de Conan O'Brien; las pastillas del Dr. Leo Spaceman (primera aparición). |
 | Cali | **La Feria de Cali y la salsa** | Comprobar fechas y el Salsódromo antes de escribir. Buena para una **Canción** (Grupo Niche, «Cali pachanguero»; o Joe Arroyo; solo enlace de búsqueda). |
 | TV / Beatles | **Los Simpson: «Lisa the Vegetarian»** (T7 E5, 15-10-1995) (no antes de B0021) | Paul y Linda McCartney como ellos mismos; su condición: que Lisa siguiera vegetariana. |
-| Cine | **Los Óscar 2017: «La La Land» / «Moonlight»** | Warren Beatty y Faye Dunaway; el sobre duplicado de Mejor Actriz (Emma Stone); Jordan Horowitz entrega la estatuilla; PwC pide perdón. |
 | TV | **Parks and Recreation: «Harvest Festival»** (T3 E7, 17-03-2011) | Li'l Sebastian, Ken Hotate y la «maldición», Joan Callamezzo. Una sola pieza. |
 | TV | **Parks and Recreation: «Flu Season»** (T3 E2, 27-01-2011) | Comprobar detalles (Leslie enferma y la presentación). |
 | Aguas abiertas | **Diana Nyad, de Cuba a Florida** (2-09-2013) (no antes de B0018) | 64 años, ~110 millas, ~53 h, sin jaula para tiburones, quinto intento. Su travesía tiene polémica de ratificación: contrastar y decirlo con honestidad. |
@@ -55,9 +56,11 @@
 | TV / intriga | **Game of Thrones: «The Rains of Castamere»** (T3 E9, 2-06-2013) (denso) | La Boda Roja; David Nutter; la súplica de Catelyn a Walder Frey. |
 | Sydney | Una escena de Sydney (Bondi–Coogee, los baños de mar, el ferry de Manly…) | Solo lo que se pueda comprobar; si se mezcla con la vida de Eva, solo lo que ella haya contado. |
 
-**Siguiente (B0017–):** B0016 fue teatro musical → la próxima no. Rotación sugerida: TV (*30 Rock* o *Parks and Rec*) → música (Beatles/Ed Sullivan, o canción caleña hacia B0020) → cine/Óscar (2017) → derecho/RR. II. (cuando la 1.ª escucha llegue a 85 %) → deporte (Juegos y aguas abiertas, desde B0018). Palabras: `to_learn` en orden (siguen *confundir, cómodo, belleza, bendecir, pensamiento…*).
+**Siguiente (B0019–):** B0017 fue cine/Óscar y B0018 TV (*Parks and Rec*) → la próxima, ni TV ni cine. Rotación sugerida: música (Beatles/Ed Sullivan, o la canción caleña hacia B0020) → deporte (Sydney 2000 o Diana Nyad; ya libre desde B0018) → Sydney/Cali → derecho/RR. II. (cuando la 1.ª escucha llegue a 85 %). Palabras: en `to_learn` solo quedan *empujar, inútil* (y *magia*, ya cubierta): hace falta que Eva pase por el selector antes de B0019.
 
 ## Registro de cambios
+
+- **2026-10-18, CAP-573 — B0017–B0018.** Dos temas, dos categorías: cine/Óscar (el sobre equivocado de 2017) y TV (*Parks and Rec*, «Beauty Pageant»). B0019–B0020 no se escribieron: en `to_learn` solo quedaban 2 palabras sin usar. Fuentes: Wikipedia *89th Academy Awards* y *Beauty Pageant (Parks and Recreation)*; ITV News y Boston.com (comunicado de PwC); consultadas el 2026-10-18.
 
 - **2026-10-18, CAP-572 — B0013–B0016.** Cuatro temas y cuatro categorías: cine (*Arsenic and Old Lace*), Cali (Gato del Río), Sydney (Harbour Bridge, 1932), teatro musical (*Fiddler on the Roof*). Fuentes: Wikipedia *Arsenic and Old Lace (film)* y *(play)*, *El Gato del Río* (es), *Sydney Harbour Bridge*, *Fiddler on the Roof*; CBS News Boston (baile de las botellas); consultadas el 2026-10-18. Tabla de usados corregida: B0012 es «Homer the Vigilante» (CAP-571), no la galería Alameda.
 
