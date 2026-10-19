@@ -58,15 +58,17 @@ Cada paso anterior sigue apareciendo (1–2 ejemplos por pieza) después de pasa
 
 | Elemento | Pieza | Ejemplos en la pieza | ¿Lo usó Eva sola? |
 |---|---|---|---|
-| Subjuntivo, paso 1 | B0021 (P025) | *quiere que gane Bart / Lisa*; *¡ojalá que no la traicione!*; Sombra: *Un día quiere que gane Bart*; Habla: *¿qué quieres que hagan tus amigos?* | — |
+| Subjuntivo, paso 1 | B0021 (P025) | *siempre quiere que gane el hijo que va ganando*; *¡ojalá que no la traicione!*; Sombra: *Siempre quiere que gane el hijo que va ganando*; Habla: *¿qué quieres que hagan tus amigos?* | — |
 | Subjuntivo, paso 1 | B0022 (P026) | *quiere que yo entre*; *¡ojalá que tu abuela rece por mí!*; *quiero que el mar esté tranquilo*; Lectura: *ojalá que el agua esté… que haya… que el mar no esté…*, *quiero que me cuentes… que me mandes* | — |
-| Subjuntivo, paso 1 | B0023 (P027) | *¡que lo compre!*; *quiere que yo lo compre*; *¡ojalá que aprenda español!*; **Patrones** (3 pares); Habla: *¿qué quieres que haga el robot?* | — |
+| Subjuntivo, paso 1 | B0023 (P027) | *¡que lo compre!*; *quiere que yo lo compre y que se lo lleve*; *¡ojalá que aprenda español!*; **Patrones** (3 pares); Habla: *¿qué quieres que haga el robot?* | — |
 | primero… luego… al final | B0021, B0022 | relato de «Lisa on Ice»; la búsqueda del teléfono; Lectura | — |
 | el agua (bloque) | B0022 (Lectura), B0023 (Patrones) | *el agua esté tranquila*, *en el agua* | — |
 
 Veces que ha salido el paso 1: **3 piezas** (B0021–B0023). Usos de Eva: 0 (todavía no le ha llegado ninguna). El próximo informe dirá si se movió.
 
 ## Decisiones de ritmo
+
+- 2026-10-19, CAP-585 — **Nivel de contenido: sube a B1.1–B1.2 (decisión de Eva).** Su escucha es B1.1–B1.2, pero las piezas recientes medían A2+–B1.1 (frases de ~5 palabras, casi todo en presente, poco enlace). B0020 es `current`; **B0021–B0023 (sin empezar) reescritas** con el mismo tema, las mismas 5 palabras, los mismos ejemplos de subjuntivo (paso 1) y la misma Lectura (B0022): frases de **8–9,5 palabras de media** (antes ~5), con conectores (*porque, cuando, mientras, aunque, así que, sin embargo, entonces, por eso*), audios de **~240–250 palabras (≈ 2 min)**, antes ~200. **Dos de las tres en pasado:** B0021 («Lisa on Ice») ahora la cuenta Eva en pretérito + imperfecto (*tenía, le iba, tiró, paró, lucía, jugaba, faltaban, se acordaron*), y el relato de Andrés en B0022 enlaza más (*mientras ella rezaba, aunque había mirado tres veces*). B0023 sigue en presente (conversación). Aparte de las 5 nuevas, solo palabras cubiertas u oídas (comprobado con `coverage.json`: se quitaron *treinta* y *regalar*). Sombras con frases más largas y en pasado, listas para copiar al contar. Corrección de datos de Eva: dijo «dos **amigas**» (no amigos) para Jamaica; cambiado en B0021 (Habla), B0022 (Lectura) y B0023 (P2). **Red de seguridad:** si la 1.ª escucha baja de ~80 % dos veces seguidas con este nivel, volver hacia B1.1 (frases más cortas, tema más familiar); con ≥ 90 % seguido, subir hacia B1.2–B2.1. Copia de las versiones anteriores: `~/.config/jose/lessons/.bak-cap585/`.
 
 - 2026-10-19, CAP-584 — **Plan de mejora tras el informe de nivel; empieza el subjuntivo (paso 1).** B0020 es `current`; **B0021–B0023 (sin empezar) reescritas** con las mismas 5 palabras y el mismo tema: 2–3 ejemplos de *quiero que / ojalá que* en cada audio (B0021 *quiere que gane Bart*, junto a *el que gana*, para que el contraste se oiga), *primero… luego… al final* en los relatos, una frase con el foco en cada Sombra, Patrones del foco en B0023 (pares *está / esté*), y **Lectura** en B0022 (mensaje de Andrés sobre su travesía en Jamaica, solo con lo que ella contó). Los guiones crecen ~15–25 palabras (~200–220): la 1.ª escucha volvió a 80–90 % y lo añadido es corto y con palabras cubiertas. B0021 H2 cambiada: sus notas del 19-10 dicen que no tiene entrenador (la ayudan dos amigos desde el bote). Ver la sección «Plan de mejora».
 

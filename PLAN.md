@@ -31,13 +31,15 @@ Covering these 4,000 words lines up with the research on B2: about 4,000–5,000
 
 | Type | What's in it | How often |
 |---|---|---|
-| **Nueva** | New audio (45–90 s, later up to 2 min) on a topic you know → how much did you understand (%) → one gist question → 2–3 shadowing sentences (slow, then normal) | most pieces |
+| **Nueva** | New audio (about 1–2 min) on a topic you know → how much did you understand (%) → one gist question → 2–3 shadowing sentences (slow, then normal) | most pieces |
 | **Patrones** (part of a Nueva) | 4–6 spoken examples that differ in one way; you notice the pattern. No rule named unless you ask | when a new structure arrives |
 | **Otra vez** (a section inside new pieces) | An earlier audio replayed exactly as before, just to listen (the % question is for the new audio, so your first-listen trend stays honest) | occasionally (at most 1 piece in 5, never two in a row): words come back mainly through new contexts |
 | **Canción** | A real song (YouTube search link), 1–3 words from it in context → % | about every 10th |
 | **Historia** | A longer story built only from words you already know: pure fluency | about every 15th |
 
 **Variety (from 2026-10-18, your decision):** every piece is about a **different subject**, in detail: a specific TV episode, a film, an Oscars moment, an Olympic race, a Beatles story, a Sondheim show, a human-rights case, a moment in international relations, a Sydney or Cali scene, or a swim. No arcs: a subject comes back only after at least 15 other pieces, and from a new angle. **Repetition comes from the words, not the story:** your new and recent words come back in different topics, which is how you show you really know them. Your own stories (what you tell José) turn up now and then in new settings, never retold the same way. Lighter subjects first, denser ones (*The West Wing*, *Game of Thrones*, human rights, Sondheim) once your first listen is steady at 85% or more. Facts are checked; plots are retold in José's own words. The rotation and the subjects already used are in `topics.md`.
+
+**Level of the pieces (from 2026-10-19, your decision):** pitched just above you, at **B1.1–B1.2**: sentences of about 8–12 words, mixing quick back-and-forth with longer linked lines (*porque, cuando, aunque, mientras, así que, sin embargo, por eso*); about half the pieces tell a story in the past; audio of about 1–2 minutes (150–250 words). The 🐢 button gives you any audio slower. If your first listen drops below about 80% twice in a row, José steps back towards B1.1; if you're steadily at 90% or more, the pieces move towards B1.2–B2.1.
 
 **Lectura** (from 2026-10-19): every 4th or 5th piece has a short text (80–150 words) on your topics to read silently, no audio, with one gist question (L1). No writing tasks.
 
