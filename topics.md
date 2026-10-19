@@ -13,7 +13,7 @@
 - **Exactitud:** comprobar en la web títulos, temporadas, fechas, ganadores y tramas antes de escribir; si hay duda, se omite o «si no me equivoco…». Nada de guiones ni letras.
 - Canción hacia cada 10.ª pieza; Historia hacia cada 15.ª.
 
-## Usados (B0001–B0018): no vuelven hasta la pieza indicada
+## Usados (B0001–B0022): no vuelven hasta la pieza indicada
 
 | Piezas | Categoría | Tema | Libre de nuevo desde |
 |---|---|---|---|
@@ -28,8 +28,12 @@
 | B0016 (P020) | Teatro musical | «Les Misérables» (Londres 1985): Valjean, el pan, el hombre de la iglesia, Javert, Fantine (CAP-575; sustituyó a «Fiddler on the Roof», nunca emitida) | B0032 |
 | B0017 (P021) | Cine / Óscar | Óscar 2017: el sobre equivocado («La La Land» / «Moonlight»; Beatty y Dunaway, Horowitz, PwC) | B0033 |
 | B0018 (P022) | Deporte / Sydney 2000 | Eric Moussambani nada solo los 100 m libre (19-09-2000) (CAP-575; sustituyó a *Parks and Rec*, «Beauty Pageant», nunca emitida) | B0034 |
+| B0019 (P023) | Teatro musical | «Fiddler on the Roof» (Broadway 1964): Tevye, la carga, las cinco hijas, las botellas en la boda (CAP-578) | B0035 |
+| B0020 (P024) | Cine | «12 Angry Men» (Lumet, 1957): el jurado n.º 8, el cuchillo igual, la testigo que no ve bien, el n.º 3 | B0036 |
+| B0021 (P025) | TV | *Los Simpson*, «Lisa on Ice» (T6 E8, 13-11-1994): Lisa portera del equipo de Apu; Bart con Wiggum; Homer cambia de hijo según quién gane | B0037 |
+| B0022 (P026) | Cali | Andrés pierde el teléfono en La Ermita (iglesia junto al río Cali) mientras su abuela reza; estaba en el bolsillo | B0038 |
 
-*Escritas y nunca emitidas (borradas o sustituidas, libres):* «Fiddler on the Roof» (antes B0016) y *Parks and Recreation*, «Beauty Pageant» (antes B0018), sustituidas en CAP-575; *Parks and Recreation*, «Harvest Festival» (T3 E7; antes B0011–B0012); la canción «Cali pachanguero» de Grupo Niche (antes B0013); la historia «Eva y el mar» (antes B0014). Se pueden usar más adelante, sin arco: una pieza cada una.
+*Escritas y nunca emitidas (borradas o sustituidas, libres):* «Fiddler on the Roof» (antes B0016; ya usada en B0019) y *Parks and Recreation*, «Beauty Pageant» (antes B0018), sustituidas en CAP-575; *Parks and Recreation*, «Harvest Festival» (T3 E7; antes B0011–B0012); la canción «Cali pachanguero» de Grupo Niche (antes B0013); la historia «Eva y el mar» (antes B0014). Se pueden usar más adelante, sin arco: una pieza cada una.
 
 ## Reserva de temas sueltos (una pieza cada uno; escoger según las palabras y la rotación)
 
@@ -55,9 +59,11 @@
 | TV / intriga | **Game of Thrones: «The Rains of Castamere»** (T3 E9, 2-06-2013) (denso) | La Boda Roja; David Nutter; la súplica de Catelyn a Walder Frey. |
 | Sydney | Una escena de Sydney (Bondi–Coogee, los baños de mar, el ferry de Manly…) | Solo lo que se pueda comprobar; si se mezcla con la vida de Eva, solo lo que ella haya contado. |
 
-**Siguiente (B0019–):** B0017 fue cine/Óscar y B0018 deporte (Sydney 2000, Moussambani) → la próxima, ni deporte ni cine; nada de Juegos Olímpicos hasta B0021 como mínimo. Rotación sugerida: música (Beatles/Ed Sullivan, o la canción caleña hacia B0020) → TV ligera (*30 Rock*, *Parks and Rec*) → Cali → derecho/RR. II. (cuando la 1.ª escucha llegue a 85 %). Palabras: en `to_learn` siguen, sin usar, *mentiroso, cabrón, atender, pérdida, lucir, entrenador, parecido, traicionar, búsqueda, rezar…* (22, sin contar *amante*, que ya va en B0014).
+**Siguiente (B0023–):** B0019 teatro musical, B0020 cine, B0021 TV (*Simpson*), B0022 Cali → la próxima, ni Cali ni TV. Sugerido: música (Beatles en Ed Sullivan, o la canción caleña «Cali pachanguero» como **Canción**), Sydney (Cathy Freeman sigue esperando: no antes de B0026, por Moussambani en B0018), aguas abiertas (Diana Nyad) desde B0024. Temas densos (*West Wing*, *Game of Thrones*, derecho) cuando la 1.ª escucha vuelva a 85 % (ahora: 80 %, 50 %, «demasiado difícil»). **Temas que Eva ya conoce bien** mientras la comprensión esté baja: el 50 % de B0014 vino de un tema que no conocía. Palabras sin usar en `to_learn`: *lengua, ciego, lobo, amenazar, culpar, rostro, pillar, lástima, asqueroso* (9).
 
 ## Registro de cambios
+
+- **2026-10-19, CAP-578 — B0019–B0022 (más fáciles y más cortas).** Teatro musical («Fiddler on the Roof»), cine («12 Angry Men»), TV («Lisa on Ice»), Cali (La Ermita). Fuentes: Wikipedia *Fiddler on the Roof*, *12 Angry Men (1957 film)*, *Lisa on Ice*; Bard.org (sinopsis de Fiddler); Simpsons Wiki y AV Club («Lisa on Ice»); IMDb (resumen de 12 Angry Men); Alcaldía de Cali (IDESC, ficha «Iglesia La Ermita») y El País (Cali), «La historia de La Ermita… 80 años»; consultadas el 2026-10-19.
 
 - **2026-10-18, CAP-575 — B0016 y B0018 reescritas tras el selector.** B0016: «Les Misérables» (robo, poderoso, arriesgar, belleza, pensamiento). B0018: Eric Moussambani, Sydney 2000 (empujar, magia, inútil, criatura, habilidad). *Amante* no se repitió como nueva: la introduce B0014. Fuentes: Wikipedia *Les Misérables (musical)* y *Jean Valjean*; Broadway Wiki; Swimming World Magazine («The Emergence of Eric the Eel…»); News24/AFP (2020); Central Western Daily; consultadas el 2026-10-18.
 
