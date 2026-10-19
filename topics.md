@@ -64,6 +64,8 @@
 
 ## Registro de cambios
 
+- **2026-10-19, CAP-584 — B0021–B0023 reescritas con el foco del informe de nivel** (subjuntivo, paso 1: *quiero que / ojalá que*; *primero… luego… al final*). Mismos temas y palabras. Notas de Eva usadas (`memory/eva-notes.md`, 2026-10-19): la travesía de Jamaica esta semana, 30 km, al menos 10 horas, sin entrenador, dos amigos en el bote, prepara su propia comida, para cada hora a comer y beber, no puede tocar el bote (B0021 Habla; B0022 audio y **Lectura**, un mensaje de Andrés). B0023 sigue con las notas del robot. Nada inventado sobre ella: lo de la abuela que reza por Eva es de Andrés.
+
 - **2026-10-19, CAP-582 — B0023 (Tu vida).** Solo una pieza: en `to_learn` quedaban 9 palabras sin usar, y cada pieza lleva exactamente 5 (*lengua, ciego, lobo, amenazar, culpar*). Quedan 4 (*rostro, pillar, lástima, asqueroso*) para cuando el selector añada más. Tema: el robot aspirador de Eva y cómo aprende escuchando; todo de `memory/eva-notes.md`, sin fuentes externas.
 
 - **2026-10-19, CAP-579 — B0019 reescrita como pieza «Tu vida».** Mismas 5 palabras (carga, judío, pelota, colocar, cómodo). Eva le cuenta a Andrés que canta Sondheim y los Beatles en la cabeza cuando nada, y la producción de «Into the Woods» que vio en el Bridge Theatre. Solo lo que ella contó (`memory/eva-notes.md`). Fuentes del dato sobre Sondheim: Wikipedia *Stephen Sondheim*; Jewish Virtual Library; consultadas el 2026-10-19.

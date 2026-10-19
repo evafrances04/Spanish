@@ -39,6 +39,10 @@ Covering these 4,000 words lines up with the research on B2: about 4,000–5,000
 
 **Variety (from 2026-10-18, your decision):** every piece is about a **different subject**, in detail: a specific TV episode, a film, an Oscars moment, an Olympic race, a Beatles story, a Sondheim show, a human-rights case, a moment in international relations, a Sydney or Cali scene, or a swim. No arcs: a subject comes back only after at least 15 other pieces, and from a new angle. **Repetition comes from the words, not the story:** your new and recent words come back in different topics, which is how you show you really know them. Your own stories (what you tell José) turn up now and then in new settings, never retold the same way. Lighter subjects first, denser ones (*The West Wing*, *Game of Thrones*, human rights, Sondheim) once your first listen is steady at 85% or more. Facts are checked; plots are retold in José's own words. The rotation and the subjects already used are in `topics.md`.
 
+**Lectura** (from 2026-10-19): every 4th or 5th piece has a short text (80–150 words) on your topics to read silently, no audio, with one gist question (L1). No writing tasks.
+
+**Current focus (from your level report, 2026-10-19):** the **present subjunctive**, one family of triggers at a time, only through the dialogues: first *quiero que / ojalá que* (*Ojalá que el agua esté tranquila*), then *para que / antes de que*, then *cuando* + future (*cuando llegues*), then *es importante que / me alegra que*, then *no creo que*. Every piece has 2–4 natural examples; about every third piece has a Patrones section on it and a Habla question that invites you to use it. Alongside: storytelling chunks (*primero… luego… al final*) and gender chunks you can copy by ear (*el agua fría, en el agua*). Progress is tracked in PROGRESS.md.
+
 **Rules for every piece:**
 - You understand nearly all of it. **5 new words from your list in every piece**, and everything else is familiar.
 - 4–8 recently met words are recycled in each new piece.

@@ -28,7 +28,47 @@
 
 Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la lista por pieza**. 1.ª escucha < 85 % → todo lo demás más fácil (más lento, tema más familiar, más reciclado); ~100 % → más largo, más rápido, habla más natural. Si baja de ~80 % dos veces seguidas, se mantienen las 5 y se simplifica lo demás (anotarlo aquí). Objetivo: 85–95 %.
 
+## Plan de mejora tras el informe de nivel (2026-10-19, CAP-584)
+
+**De dónde sale:** el informe de nivel del 2026-10-19 (`~/.config/jose/focus.md`). Lo más flojo: **exactitud** (género y concordancia, preposiciones, formas verbales: *una película perfecto, en la agua, preparía*) y **la producción oral larga** (relatos a trozos, como la de Valjean). Marcadores B1 aún sin usar: **presente de subjuntivo** (Eva lo notó: no salía en los diálogos), conectores, condicional de cortesía. Todo se siembra en los diálogos y por el oído, nunca como regla.
+
+**1. Presente de subjuntivo, de una familia de disparadores a la vez** (2–4 ejemplos naturales en cada pieza, en boca de Andrés o de Eva, sobre sus temas):
+
+| Paso | Disparadores | Desde | Pasar al siguiente cuando… |
+|---|---|---|---|
+| 1 | *quiero que / ojalá que* (+ *¡que lo compre!*) | B0021 | lo entienda sin esfuerzo en los diálogos (E2 y respuestas sin dudas en esas frases), unas 6–8 piezas |
+| 2 | *para que / antes de que* | ~B0028 | ídem |
+| 3 | *cuando* + futuro (*cuando llegues, cuando vuelvas*) | ~B0035 | ídem |
+| 4 | *es importante que / me alegra que* | después | ídem |
+| 5 | *no creo que* | después | — |
+
+Cada paso anterior sigue apareciendo (1–2 ejemplos por pieza) después de pasar al siguiente. Que lo use ella es la meta, no la condición para avanzar.
+
+**Ritmo:** en **cada pieza**, 2–4 ejemplos del paso actual en el audio. **Cada tercera pieza** (B0023, B0026, B0029…): **Patrones** de 4–6 frases que cambian en una sola cosa (pares *está / ojalá que esté*), y la pregunta de **Habla** la invita a usarlo (*¿Qué quieres que pase en tu travesía?*). En la Sombra, una frase con el foco para que se la lleve de oído. Si pregunta por qué *gane* y no *gana*: una o dos líneas con ejemplos, sin tablas. Si lo dice en indicativo (*quiero que me dan*), recast sin comentario.
+
+**2. Narración: *primero… luego… al final*** (el informe pide relatos de unas frases sin pausas largas). En cada pieza narrativa, el relato del audio lleva estos conectores, y en las Sombras entran frases en pasado listas para copiar (*Empezó la búsqueda*, *Primero miré en la calle…*). Cada 3–4 piezas, la Habla le pide contar algo corto en orden (su travesía, un episodio). Más adelante: *sin embargo, por eso, a pesar de que* (marcador B2), uno a uno.
+
+**3. Género y concordancia en bloques** (*el agua fría, el agua está tranquila, una película perfecta, en el agua, el mar*): salen a propósito en los diálogos y en las Patrones (B0023: *el agua está tranquila*), como trozos que se copian de oído. Las recasts del bot devuelven el bloque entero (*en el agua*, no la regla).
+
+**4. Escucha con historia, y lectura.** Los audios siguen siendo una historia corta en orden (natación, tramas de películas y series). **Lectura** cada 4–5 piezas (primera: B0022, un mensaje de Andrés sobre Jamaica, con L1 de idea general y L2 opcional).
+
+**Después** (cuando el subjuntivo esté en marcha): condicional de cortesía (*¿me podrías…?, me gustaría*) en las peticiones de Andrés; imperfecto de subjuntivo y frases con *si* solo como escucha, más adelante.
+
+### Seguimiento del foco
+
+| Elemento | Pieza | Ejemplos en la pieza | ¿Lo usó Eva sola? |
+|---|---|---|---|
+| Subjuntivo, paso 1 | B0021 (P025) | *quiere que gane Bart / Lisa*; *¡ojalá que no la traicione!*; Sombra: *Un día quiere que gane Bart*; Habla: *¿qué quieres que hagan tus amigos?* | — |
+| Subjuntivo, paso 1 | B0022 (P026) | *quiere que yo entre*; *¡ojalá que tu abuela rece por mí!*; *quiero que el mar esté tranquilo*; Lectura: *ojalá que el agua esté… que haya… que el mar no esté…*, *quiero que me cuentes… que me mandes* | — |
+| Subjuntivo, paso 1 | B0023 (P027) | *¡que lo compre!*; *quiere que yo lo compre*; *¡ojalá que aprenda español!*; **Patrones** (3 pares); Habla: *¿qué quieres que haga el robot?* | — |
+| primero… luego… al final | B0021, B0022 | relato de «Lisa on Ice»; la búsqueda del teléfono; Lectura | — |
+| el agua (bloque) | B0022 (Lectura), B0023 (Patrones) | *el agua esté tranquila*, *en el agua* | — |
+
+Veces que ha salido el paso 1: **3 piezas** (B0021–B0023). Usos de Eva: 0 (todavía no le ha llegado ninguna). El próximo informe dirá si se movió.
+
 ## Decisiones de ritmo
+
+- 2026-10-19, CAP-584 — **Plan de mejora tras el informe de nivel; empieza el subjuntivo (paso 1).** B0020 es `current`; **B0021–B0023 (sin empezar) reescritas** con las mismas 5 palabras y el mismo tema: 2–3 ejemplos de *quiero que / ojalá que* en cada audio (B0021 *quiere que gane Bart*, junto a *el que gana*, para que el contraste se oiga), *primero… luego… al final* en los relatos, una frase con el foco en cada Sombra, Patrones del foco en B0023 (pares *está / esté*), y **Lectura** en B0022 (mensaje de Andrés sobre su travesía en Jamaica, solo con lo que ella contó). Los guiones crecen ~15–25 palabras (~200–220): la 1.ª escucha volvió a 80–90 % y lo añadido es corto y con palabras cubiertas. B0021 H2 cambiada: sus notas del 19-10 dicen que no tiene entrenador (la ayudan dos amigos desde el bote). Ver la sección «Plan de mejora».
 
 - 2026-10-19, CAP-582 — **B0023 (Tu vida), una sola pieza.** 1.as escuchas: 80 % (P022) y 90 % (P023, Tu vida), las dos con idea general «good»: vuelve a la franja buena, así que se mantiene el modo fácil de CAP-578 (~200 palabras, frases cortas, una escena) sin acortar más; no se reescribió ninguna de las piezas en cola (B0020 `current`, B0021–B0022 sin empezar). Se pidió B0023–B0026, pero en `to_learn` solo quedaban 9 palabras sin usar y cada pieza lleva exactamente 5: **solo B0023** (*lengua, ciego, lobo, amenazar, culpar*); quedan 4 (*rostro, pillar, lástima, asqueroso*) para el próximo selector. Tema de su vida: su robot aspirador y cómo aprende escuchando (notas del 18 y 19-10). E2 depende de *parecido* (B0021) sin glosa. Si la Tu vida vuelve a dar ≥ 85 %, probar en B0024+ un tema algo más denso.
 - 2026-10-19, CAP-579 — **B0019 reescrita como pieza «Tu vida»** (Eva: lo que cuenta es de lo que va a hablar). Mismas 5 palabras (carga, judío, pelota, colocar, cómodo) y mismo modo fácil (~210 palabras, frases cortas, aparte de las nuevas solo palabras cubiertas u oídas, más *habilidad* de B0018). Tema: canta Sondheim y los Beatles en la cabeza cuando nada («Giants in the Sky»), «Into the Woods» en el Bridge Theatre, Puerto Rico de pasada; solo lo que está en `memory/eva-notes.md`. E2 depende de *habilidad* sin glosa. H2 la invita a contar más (otras canciones, si está cómoda en el agua). Un tema de su propia vida debería subir la 1.ª escucha: comprobar con su %.
@@ -83,9 +123,9 @@ Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la l
 | B0018 | Nueva | P022 Eric nada solo (deporte: Sydney 2000, Eric Moussambani) | empujar · magia · inútil · criatura · habilidad | imperfecto para describir (oído) · voseo (oído) | lista (reescrita en CAP-575; antes *Parks and Rec*, «Beauty Pageant») |
 | B0019 | Nueva (Tu vida) | P023 Canciones en el agua (Eva canta Sondheim al nadar; *Into the Woods* en el Bridge) | carga · judío · pelota · colocar · cómodo | voseo · pretérito para contar (oído) | lista (CAP-579) |
 | B0020 | Nueva | P024 Un jurado en un cuarto (cine: *12 Angry Men*, 1957) | bendecir · jurado · mentiroso · cabrón · atender | lo / la (oído) · *que Dios lo bendiga* (oído) | lista (CAP-578) |
-| B0021 | Nueva + Patrones | P025 Hermanos en el hielo (TV: *Los Simpson*, «Lisa on Ice», T6 E8) | pérdida · lucir · entrenador · parecido · traicionar | lo / la / los / las (5.ª vez) | lista (CAP-578) |
-| B0022 | Nueva | P026 El teléfono en el bolsillo (Cali: La Ermita, Andrés) | búsqueda · rezar · bolsillo · avergonzar · atar | pretérito para contar · imperfecto de fondo (oído) | lista (CAP-578) |
-| B0023 | Nueva (Tu vida) | P027 Un lobo en el cuarto (su robot aspirador; cómo aprende escuchando) | lengua · ciego · lobo · amenazar · culpar | voseo (oído) · lo (oído: no lo culpo) · *¡Que lo compre!* (oído) | lista (CAP-582) |
+| B0021 | Nueva + Patrones | P025 Hermanos en el hielo (TV: *Los Simpson*, «Lisa on Ice», T6 E8) | pérdida · lucir · entrenador · parecido · traicionar | lo / la / los / las (5.ª vez) · subjuntivo paso 1 (oído: *quiere que gane*, *ojalá que no la traicione*) | lista (CAP-578; foco añadido en CAP-584) |
+| B0022 | Nueva | P026 El teléfono en el bolsillo (Cali: La Ermita, Andrés) | búsqueda · rezar · bolsillo · avergonzar · atar | pretérito para contar · imperfecto de fondo (oído) · subjuntivo paso 1 (oído y Lectura) · **Lectura** | lista (CAP-578; foco y Lectura en CAP-584) |
+| B0023 | Nueva (Tu vida) | P027 Un lobo en el cuarto (su robot aspirador; cómo aprende escuchando) | lengua · ciego · lobo · amenazar · culpar | voseo (oído) · lo (oído: no lo culpo) · subjuntivo paso 1 (**Patrones**; oído: *¡que lo compre!*, *quiere que yo lo compre*) | lista (CAP-582; foco y Patrones en CAP-584) |
 
 **Siguiente lote (B0024–):** en `to_learn` quedan 4 sin usar (*rostro, pillar, lástima, asqueroso*): no alcanzan para una pieza; hace falta el selector. Categorías por usar pronto: música (Beatles / canción caleña), Sydney, aguas abiertas; derecho y *West Wing* si la 1.ª escucha se mantiene en 85 % o más. Ver `topics.md`.
 
@@ -111,6 +151,8 @@ Calibración (desde el 2026-10-17, CAP-564): **siempre 5 palabras nuevas de la l
 | acabar de + inf. (chuleta n.º 4) | P014 / B0010 | P014 (Patrones y audio), P017 («Acaba de casarse»; Patrones, B0013) | 0 | sembrando |
 | lo / la (pronombres de objeto) | P016 / B0012 | P015 («lo quiere», «lo tienen encerrado»), P016 (Patrones y audio), P017 («La dirigió Frank Capra»), P019 («Lang la cortó»; Patrones, B0015), P024 (audio, B0020), P025 (Patrones, B0021), P027 (audio, B0023: «que lo compre», «no lo culpo») | 0 | sembrando |
 | volver a + inf. | P007 / B0003 | P007 | 0 | oído | — | solo escucha; aceptarlo siempre |
+| presente de subjuntivo, paso 1 (*quiero que / ojalá que*) | P025 / B0021 (foco CAP-584) | P025 (audio, Sombra, Habla), P026 (audio, Sombra, Lectura), P027 (audio, Sombra, Patrones, Habla) | 0 | sembrando (meta: 8 piezas; luego paso 2, *para que / antes de que*) |
+| primero… luego… al final | P025 / B0021 (foco CAP-584) | P025, P026 (audio y Lectura) | 0 | sembrando |
 
 ## Calendario de piezas (método diario, histórico)
 
