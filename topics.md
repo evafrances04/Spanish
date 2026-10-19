@@ -13,7 +13,7 @@
 - **Exactitud:** comprobar en la web títulos, temporadas, fechas, ganadores y tramas antes de escribir; si hay duda, se omite o «si no me equivoco…». Nada de guiones ni letras.
 - Canción hacia cada 10.ª pieza; Historia hacia cada 15.ª.
 
-## Usados (B0001–B0023): no vuelven hasta la pieza indicada
+## Usados (B0001–B0025): no vuelven hasta la pieza indicada
 
 | Piezas | Categoría | Tema | Libre de nuevo desde |
 |---|---|---|---|
@@ -33,6 +33,8 @@
 | B0021 (P025) | TV | *Los Simpson*, «Lisa on Ice» (T6 E8, 13-11-1994): Lisa portera del equipo de Apu; Bart con Wiggum; Homer cambia de hijo según quién gane | B0037 |
 | B0022 (P026) | Cali | Andrés pierde el teléfono en La Ermita (iglesia junto al río Cali) mientras su abuela reza; estaba en el bolsillo | B0038 |
 | B0023 (P027) | Tu vida | **Tu vida:** su robot aspirador (sin nombre; vale la pena; su cuarto es pequeño y no se pierde; Andrés, en broma, lo llama «Lobo») y cómo aprende la lengua: escucha cada audio dos o tres veces, no toma notas, buena memoria para el sonido, a veces graba el audio, habla con José todos los días. Notas usadas: eva-notes 2026-10-18 (robot, sin nombre, escucha 2–3 veces, notas, memoria del sonido, graba el audio, aprende música de oído) y 2026-10-19 (habla con José cada día) | B0039 |
+| B0024 (P028) | Tu vida (Historia) | **Tu vida:** el bolso de Eva para Jamaica (30 km, ≥ 10 h, sin entrenador, dos amigas en el bote, prepara sus comidas, qué lleva en el bolso, cada hora sin tocar el bote; la serie de travesías en islas con campañas contra el desarrollo: Puerto Rico, Jamaica, Bahamas, Seychelles). Notas usadas: eva-notes 2026-10-19 (todas las de Jamaica, el bolso, la serie de islas, «estar cómoda»; Puerto Rico ≈ 41 km) | B0040 |
+| B0025 (P029) | Música / Cali (Canción) | Grupo Niche, «Cali pachanguero» (Jairo Varela, 1984, *No hay quinto malo*; voz de Moncho Santana; himno de la Feria de Cali; Billboard 2018). Notas: Jamaica, canta en la cabeza al nadar, amigos colombianos en Londres (solo en Habla) | B0041 |
 
 *Escritas y nunca emitidas (borradas o sustituidas, libres):* «Fiddler on the Roof» (antes B0016 y B0019, sustituida dos veces; sigue libre) y *Parks and Recreation*, «Beauty Pageant» (antes B0018), sustituidas en CAP-575; *Parks and Recreation*, «Harvest Festival» (T3 E7; antes B0011–B0012); la canción «Cali pachanguero» de Grupo Niche (antes B0013); la historia «Eva y el mar» (antes B0014). Se pueden usar más adelante, sin arco: una pieza cada una.
 
@@ -60,9 +62,11 @@
 | TV / intriga | **Game of Thrones: «The Rains of Castamere»** (T3 E9, 2-06-2013) (denso) | La Boda Roja; David Nutter; la súplica de Catelyn a Walder Frey. |
 | Sydney | Una escena de Sydney (Bondi–Coogee, los baños de mar, el ferry de Manly…) | Solo lo que se pueda comprobar; si se mezcla con la vida de Eva, solo lo que ella haya contado. |
 
-**Siguiente (B0024–):** B0020 cine, B0021 TV, B0022 Cali, B0023 Tu vida → la próxima, ni Tu vida ni Cali. Sugerido: música (Beatles en Ed Sullivan, o «Cali pachanguero» como **Canción**), Sydney (Cathy Freeman, no antes de B0026), aguas abiertas (Diana Nyad). La 1.ª escucha vuelve a la franja buena (80 %, 90 %): si sigue en 85 % o más, empezar con temas densos (*West Wing*, derecho). Notas de Eva aún sin usar: Casablanca, Titanic y DiCaprio, el cine de los noventa, los Óscar cada año, Los Simpson cantados al nadar. Palabras sin usar en `to_learn`: *rostro, pillar, lástima, asqueroso* (4): falta el selector.
+**Siguiente (B0026–):** B0024 Tu vida (Historia), B0025 Música/Cali (Canción) → la próxima, ni Tu vida, ni Cali, ni música. Sugerido: Sydney (Cathy Freeman), aguas abiertas (Diana Nyad), TV (*30 Rock*), y derecho o *West Wing* si la 1.ª escucha vuelve a 85 % o más (P024 dio 60 %). Notas de Eva aún sin usar: Casablanca, Titanic y DiCaprio, el cine de los noventa, los Óscar cada año, Los Simpson cantados al nadar, el terremoto en Colombia (agosto de 2026), los guiones y la memoria de natación (Otranto), su herencia albanesa y la protesta en la embajada (18-10), el jurado como forma de democracia (y su límite: temas legales complicados). Palabras sin usar en `to_learn`: *rostro, pillar, lástima, asqueroso* (4): falta el selector.
 
 ## Registro de cambios
+
+- **2026-10-19, CAP-586 — B0024 (Historia, Tu vida) y B0025 (Canción).** Se pidió B0024–B0027, pero en `to_learn` solo quedan 4 palabras sin usar y cada pieza nueva lleva 5: dos piezas sin palabras nuevas, las primeras de su tipo que se emiten. Fuentes de B0025: Wikipedia *Cali Pachanguero*; Radio Nacional de Colombia («Las inolvidables del Grupo Niche», «Cali pachanguero, nueva versión»); El País (Cali), «Los grandes hitos de Cali pachanguero»; consultadas el 2026-10-19. B0024: todo de `memory/eva-notes.md` y de lo que contó en el chat de B0020.
 
 - **2026-10-19, CAP-585 — B0021–B0023 subidas a B1.1–B1.2** (frases más largas y enlazadas, ~2 min; B0021 contada en pasado). Mismos temas, palabras, notas de Eva y fuentes; nada nuevo inventado sobre ella (solo *amigos → amigas*, como ella dijo).
 - **2026-10-19, CAP-584 — B0021–B0023 reescritas con el foco del informe de nivel** (subjuntivo, paso 1: *quiero que / ojalá que*; *primero… luego… al final*). Mismos temas y palabras. Notas de Eva usadas (`memory/eva-notes.md`, 2026-10-19): la travesía de Jamaica esta semana, 30 km, al menos 10 horas, sin entrenador, dos amigos en el bote, prepara su propia comida, para cada hora a comer y beber, no puede tocar el bote (B0021 Habla; B0022 audio y **Lectura**, un mensaje de Andrés). B0023 sigue con las notas del robot. Nada inventado sobre ella: lo de la abuela que reza por Eva es de Andrés.
