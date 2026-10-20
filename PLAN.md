@@ -7,7 +7,7 @@
 **Cover the 4,000 most common Spanish words** in `spanish-top-4000.csv` (your repo): rank, word, part of speech and English meaning, counted from film and TV subtitles. José works through the list **in rank order**, introducing **5 new words** per short listening lesson, inside a story, and recycling the ones you've recently met.
 
 **Your % = how much of the 4,000 you've covered.** A word counts as covered when you've *shown* it, never just because José used it:
-1. **You understood it:** it was in 2 pieces, on 2 different days, where you got the gist (José judges your answer to the gist question against his notes; English or Spanish both work).
+1. **You understood it:** it was in 2 pieces, on 2 different days, where you got the gist (José judges your answer, in Spanish, to the gist question against his notes).
 2. **Or you used it correctly** in your own messages or voice notes.
 3. **Or you marked it as known in the word picker** (`/palabras` on Telegram). You see the upcoming list words as buttons and tap the ones you *don't* know. Those become José's new words; the rest are counted as known. There's no test: everything else comes from what you show in the pieces, and your lessons of 12–17 October already count.
 
