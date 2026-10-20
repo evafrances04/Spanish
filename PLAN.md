@@ -32,7 +32,8 @@ Covering these 4,000 words lines up with the research on B2: about 4,000–5,000
 - **Every Spanish message:** José shows what you said with your mistakes <u>underlined</u>, a verdict (✅, 🟡 *Casi* if it's understandable, ❌ only if the meaning doesn't come through) and your sentence corrected in bold. For answers about a piece you get two lines: whether you understood, and how accurate your Spanish was.
 - **Long answers** (3+ sentences or about 30+ words): a test-style **mark out of 10** (communication 3, grammar 3, vocabulary 2, linking 2) with one tip.
 - **06:00:** your 🎯 *Objetivo de hoy*, aimed at your weakest rubric area and your most common recent mistakes, with your own examples. **19:00:** how the goal went. If a nightly check against your rubric finds you've moved up a band, you get a 🎆 celebration.
-- **Commands:** `/lectura` a reading test (word help only after you answer) · `/errores` your accuracy trend and most common mistakes · `/objetivo` today's goal · `/nivel` a full level report · `/progreso` your progress · `/palabras` the word picker · `/siguiente` the next piece.
+- **New words:** José takes them straight from your 4,000 list, in order (no more picking); the pieces show whether you already know them.
+- **Commands:** `/lectura` a reading test (word help only after you answer) · `/errores` your accuracy trend and most common mistakes · `/objetivo` today's goal · `/nivel` a full level report · `/progreso` your progress · `/siguiente` the next piece.
 - **What the pieces work on next:** your place in the B1 workbook (*Español en Marcha B1*): past tenses and the subjunctive are being consolidated; next come *cuando* + subjunctive, then commands, then reported speech.
 
 ## A piece (5–8 minutes)
