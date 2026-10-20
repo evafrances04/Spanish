@@ -34,7 +34,7 @@ Covering these 4,000 words lines up with the research on B2: about 4,000–5,000
 - **06:00:** your 🎯 *Objetivo de hoy*, aimed at your weakest rubric area and your most common recent mistakes, with your own examples. **19:00:** how the goal went. If a nightly check against your rubric finds you've moved up a band, you get a 🎆 celebration.
 - **New words:** José takes them straight from your 4,000 list, in order (no more picking); the pieces show whether you already know them.
 - **Commands:** `/lectura` a reading test (word help only after you answer) · `/errores` your accuracy trend and most common mistakes · `/objetivo` today's goal · `/nivel` a full level report · `/progreso` your progress · `/siguiente` the next piece.
-- **What the pieces work on next:** your place in the B1 workbook (*Español en Marcha B1*): past tenses and the subjunctive are being consolidated; next come *cuando* + subjunctive, then commands, then reported speech.
+- **What the pieces work on next:** your place in the B1 workbook (*Español en Marcha B1*): past tenses and the subjunctive are being consolidated; next come *cuando* + subjunctive, then commands, then reported speech. **Finishing B1 in 20 pieces (B0030–B0049, about a week; your decision, 2026-10-20):** about 3 pieces per workbook unit, one new structure at a time (Unit 7 *cuando* + subjunctive → Unit 5 commands → Units 8–9 reported speech → Unit 10 *a lo mejor / quizás* → Unit 11 *se lo, te la* → Unit 12 *-mente*), Patrones about every second piece, a reading section every third piece, and B0049 a story that brings all of B1 back as the finish line. Then B2. Everything is still by ear; structures you haven't used yet keep coming back in the B2 pieces.
 
 ## A piece (5–8 minutes)
 
